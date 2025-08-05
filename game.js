@@ -2,28 +2,9 @@ let nodes = {};
 let currentNodeId = 'TITLE';
 
 async function fetchData() {
-  const response = await fetch('nodes.csv');
-  const text = await response.text();
-  const lines = text.trim().split('\n');
-  const headers = lines[0].split(',');
-
-  const entries = {};
-  for (let i = 1; i < lines.length; i++) {
-    const cells = lines[i].match(/(".*?"|[^",\s]+)(?=\s*,|\s*$)/g);
-    if (!cells || cells.length < headers.length) continue;
-
-    const entry = {};
-    headers.forEach((h, j) => {
-      let cell = cells[j] || '';
-      if (cell.startsWith('"') && cell.endsWith('"')) {
-        cell = cell.slice(1, -1).replace(/""/g, '"');
-      }
-      entry[h] = cell;
-    });
-    entries[entry.ID] = entry;
-  }
-
-  return entries;
+  const response = await fetch('nodes.json');
+  const data = await response.json();
+  return data;
 }
 
 function loadEntry(id) {
