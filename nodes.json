@@ -41,7 +41,7 @@
   },
   "NODE_0001": {
     "ID": "NODE_0001",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0002",
     "Option2": "Stay silent and observe",
@@ -49,7 +49,7 @@
   },
   "NODE_0002": {
     "ID": "NODE_0002",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0003",
     "Option2": "Descend into the crevice",
@@ -73,7 +73,7 @@
   },
   "NODE_0005": {
     "ID": "NODE_0005",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0006",
     "Option2": "Pretend it’s not real",
@@ -121,7 +121,7 @@
   },
   "NODE_0011": {
     "ID": "NODE_0011",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0012",
     "Option2": "Stay silent and observe",
@@ -129,7 +129,7 @@
   },
   "NODE_0012": {
     "ID": "NODE_0012",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0013",
     "Option2": "Descend into the crevice",
@@ -153,7 +153,7 @@
   },
   "NODE_0015": {
     "ID": "NODE_0015",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0016",
     "Option2": "Pretend it’s not real",
@@ -201,7 +201,7 @@
   },
   "NODE_0021": {
     "ID": "NODE_0021",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0022",
     "Option2": "Stay silent and observe",
@@ -209,7 +209,7 @@
   },
   "NODE_0022": {
     "ID": "NODE_0022",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0023",
     "Option2": "Descend into the crevice",
@@ -233,7 +233,7 @@
   },
   "NODE_0025": {
     "ID": "NODE_0025",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0026",
     "Option2": "Pretend it’s not real",
@@ -281,7 +281,7 @@
   },
   "NODE_0031": {
     "ID": "NODE_0031",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0032",
     "Option2": "Stay silent and observe",
@@ -289,7 +289,7 @@
   },
   "NODE_0032": {
     "ID": "NODE_0032",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0033",
     "Option2": "Descend into the crevice",
@@ -313,7 +313,7 @@
   },
   "NODE_0035": {
     "ID": "NODE_0035",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0036",
     "Option2": "Pretend it’s not real",
@@ -361,7 +361,7 @@
   },
   "NODE_0041": {
     "ID": "NODE_0041",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0042",
     "Option2": "Stay silent and observe",
@@ -369,7 +369,7 @@
   },
   "NODE_0042": {
     "ID": "NODE_0042",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0043",
     "Option2": "Descend into the crevice",
@@ -393,7 +393,7 @@
   },
   "NODE_0045": {
     "ID": "NODE_0045",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0046",
     "Option2": "Pretend it’s not real",
@@ -441,7 +441,7 @@
   },
   "NODE_0051": {
     "ID": "NODE_0051",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0052",
     "Option2": "Stay silent and observe",
@@ -449,7 +449,7 @@
   },
   "NODE_0052": {
     "ID": "NODE_0052",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0053",
     "Option2": "Descend into the crevice",
@@ -473,7 +473,7 @@
   },
   "NODE_0055": {
     "ID": "NODE_0055",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0056",
     "Option2": "Pretend it’s not real",
@@ -521,7 +521,7 @@
   },
   "NODE_0061": {
     "ID": "NODE_0061",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0062",
     "Option2": "Stay silent and observe",
@@ -529,7 +529,7 @@
   },
   "NODE_0062": {
     "ID": "NODE_0062",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0063",
     "Option2": "Descend into the crevice",
@@ -553,7 +553,7 @@
   },
   "NODE_0065": {
     "ID": "NODE_0065",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0066",
     "Option2": "Pretend it’s not real",
@@ -601,7 +601,7 @@
   },
   "NODE_0071": {
     "ID": "NODE_0071",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0072",
     "Option2": "Stay silent and observe",
@@ -609,7 +609,7 @@
   },
   "NODE_0072": {
     "ID": "NODE_0072",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0073",
     "Option2": "Descend into the crevice",
@@ -633,7 +633,7 @@
   },
   "NODE_0075": {
     "ID": "NODE_0075",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0076",
     "Option2": "Pretend it’s not real",
@@ -681,7 +681,7 @@
   },
   "NODE_0081": {
     "ID": "NODE_0081",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0082",
     "Option2": "Stay silent and observe",
@@ -689,7 +689,7 @@
   },
   "NODE_0082": {
     "ID": "NODE_0082",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0083",
     "Option2": "Descend into the crevice",
@@ -713,7 +713,7 @@
   },
   "NODE_0085": {
     "ID": "NODE_0085",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0086",
     "Option2": "Pretend it’s not real",
@@ -761,7 +761,7 @@
   },
   "NODE_0091": {
     "ID": "NODE_0091",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0092",
     "Option2": "Stay silent and observe",
@@ -769,7 +769,7 @@
   },
   "NODE_0092": {
     "ID": "NODE_0092",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0093",
     "Option2": "Descend into the crevice",
@@ -793,7 +793,7 @@
   },
   "NODE_0095": {
     "ID": "NODE_0095",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0096",
     "Option2": "Pretend it’s not real",
@@ -841,7 +841,7 @@
   },
   "NODE_0101": {
     "ID": "NODE_0101",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0102",
     "Option2": "Stay silent and observe",
@@ -849,7 +849,7 @@
   },
   "NODE_0102": {
     "ID": "NODE_0102",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0103",
     "Option2": "Descend into the crevice",
@@ -873,7 +873,7 @@
   },
   "NODE_0105": {
     "ID": "NODE_0105",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0106",
     "Option2": "Pretend it’s not real",
@@ -921,7 +921,7 @@
   },
   "NODE_0111": {
     "ID": "NODE_0111",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0112",
     "Option2": "Stay silent and observe",
@@ -929,7 +929,7 @@
   },
   "NODE_0112": {
     "ID": "NODE_0112",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0113",
     "Option2": "Descend into the crevice",
@@ -953,7 +953,7 @@
   },
   "NODE_0115": {
     "ID": "NODE_0115",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0116",
     "Option2": "Pretend it’s not real",
@@ -1001,7 +1001,7 @@
   },
   "NODE_0121": {
     "ID": "NODE_0121",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0122",
     "Option2": "Stay silent and observe",
@@ -1009,7 +1009,7 @@
   },
   "NODE_0122": {
     "ID": "NODE_0122",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0123",
     "Option2": "Descend into the crevice",
@@ -1033,7 +1033,7 @@
   },
   "NODE_0125": {
     "ID": "NODE_0125",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0126",
     "Option2": "Pretend it’s not real",
@@ -1081,7 +1081,7 @@
   },
   "NODE_0131": {
     "ID": "NODE_0131",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0132",
     "Option2": "Stay silent and observe",
@@ -1089,7 +1089,7 @@
   },
   "NODE_0132": {
     "ID": "NODE_0132",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0133",
     "Option2": "Descend into the crevice",
@@ -1113,7 +1113,7 @@
   },
   "NODE_0135": {
     "ID": "NODE_0135",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0136",
     "Option2": "Pretend it’s not real",
@@ -1161,7 +1161,7 @@
   },
   "NODE_0141": {
     "ID": "NODE_0141",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0142",
     "Option2": "Stay silent and observe",
@@ -1169,7 +1169,7 @@
   },
   "NODE_0142": {
     "ID": "NODE_0142",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0143",
     "Option2": "Descend into the crevice",
@@ -1193,7 +1193,7 @@
   },
   "NODE_0145": {
     "ID": "NODE_0145",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0146",
     "Option2": "Pretend it’s not real",
@@ -1241,7 +1241,7 @@
   },
   "NODE_0151": {
     "ID": "NODE_0151",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0152",
     "Option2": "Stay silent and observe",
@@ -1249,7 +1249,7 @@
   },
   "NODE_0152": {
     "ID": "NODE_0152",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0153",
     "Option2": "Descend into the crevice",
@@ -1273,7 +1273,7 @@
   },
   "NODE_0155": {
     "ID": "NODE_0155",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0156",
     "Option2": "Pretend it’s not real",
@@ -1321,7 +1321,7 @@
   },
   "NODE_0161": {
     "ID": "NODE_0161",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0162",
     "Option2": "Stay silent and observe",
@@ -1329,7 +1329,7 @@
   },
   "NODE_0162": {
     "ID": "NODE_0162",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0163",
     "Option2": "Descend into the crevice",
@@ -1353,7 +1353,7 @@
   },
   "NODE_0165": {
     "ID": "NODE_0165",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0166",
     "Option2": "Pretend it’s not real",
@@ -1401,7 +1401,7 @@
   },
   "NODE_0171": {
     "ID": "NODE_0171",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0172",
     "Option2": "Stay silent and observe",
@@ -1409,7 +1409,7 @@
   },
   "NODE_0172": {
     "ID": "NODE_0172",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0173",
     "Option2": "Descend into the crevice",
@@ -1433,7 +1433,7 @@
   },
   "NODE_0175": {
     "ID": "NODE_0175",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0176",
     "Option2": "Pretend it’s not real",
@@ -1481,7 +1481,7 @@
   },
   "NODE_0181": {
     "ID": "NODE_0181",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0182",
     "Option2": "Stay silent and observe",
@@ -1489,7 +1489,7 @@
   },
   "NODE_0182": {
     "ID": "NODE_0182",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0183",
     "Option2": "Descend into the crevice",
@@ -1513,7 +1513,7 @@
   },
   "NODE_0185": {
     "ID": "NODE_0185",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0186",
     "Option2": "Pretend it’s not real",
@@ -1561,7 +1561,7 @@
   },
   "NODE_0191": {
     "ID": "NODE_0191",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0192",
     "Option2": "Stay silent and observe",
@@ -1569,7 +1569,7 @@
   },
   "NODE_0192": {
     "ID": "NODE_0192",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0193",
     "Option2": "Descend into the crevice",
@@ -1593,7 +1593,7 @@
   },
   "NODE_0195": {
     "ID": "NODE_0195",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0196",
     "Option2": "Pretend it’s not real",
@@ -1641,7 +1641,7 @@
   },
   "NODE_0201": {
     "ID": "NODE_0201",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0202",
     "Option2": "Stay silent and observe",
@@ -1649,7 +1649,7 @@
   },
   "NODE_0202": {
     "ID": "NODE_0202",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0203",
     "Option2": "Descend into the crevice",
@@ -1673,7 +1673,7 @@
   },
   "NODE_0205": {
     "ID": "NODE_0205",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0206",
     "Option2": "Pretend it’s not real",
@@ -1721,7 +1721,7 @@
   },
   "NODE_0211": {
     "ID": "NODE_0211",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0212",
     "Option2": "Stay silent and observe",
@@ -1729,7 +1729,7 @@
   },
   "NODE_0212": {
     "ID": "NODE_0212",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0213",
     "Option2": "Descend into the crevice",
@@ -1753,7 +1753,7 @@
   },
   "NODE_0215": {
     "ID": "NODE_0215",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0216",
     "Option2": "Pretend it’s not real",
@@ -1801,7 +1801,7 @@
   },
   "NODE_0221": {
     "ID": "NODE_0221",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0222",
     "Option2": "Stay silent and observe",
@@ -1809,7 +1809,7 @@
   },
   "NODE_0222": {
     "ID": "NODE_0222",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0223",
     "Option2": "Descend into the crevice",
@@ -1833,7 +1833,7 @@
   },
   "NODE_0225": {
     "ID": "NODE_0225",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0226",
     "Option2": "Pretend it’s not real",
@@ -1881,7 +1881,7 @@
   },
   "NODE_0231": {
     "ID": "NODE_0231",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0232",
     "Option2": "Stay silent and observe",
@@ -1889,7 +1889,7 @@
   },
   "NODE_0232": {
     "ID": "NODE_0232",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0233",
     "Option2": "Descend into the crevice",
@@ -1913,7 +1913,7 @@
   },
   "NODE_0235": {
     "ID": "NODE_0235",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0236",
     "Option2": "Pretend it’s not real",
@@ -1937,7 +1937,7 @@
   },
   "NODE_0238": {
     "ID": "NODE_0238",
-    "Text": "You find a page torn from a journal. The ink is still wet. It reads: 'I followed the wrong path. The sun is gone. The compass spins. I can no longer tell if I’m walking or dreaming.'",
+    "Text": "You find a page torn from a journal. The ink is still wet. It reads: 'I followed the wrong path. The sun is gone. The compass spins. I can no longer tell if I’m walking or dreaming. It keeps pointing to W-S-E-E-N.'",
     "Option1": "Dig deeper",
     "Option1_ID": "NODE_0239",
     "Option2": "Turn and move away",
@@ -1961,7 +1961,7 @@
   },
   "NODE_0241": {
     "ID": "NODE_0241",
-    "Text": "There’s a ripple in the horizon — a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
+    "Text": "There’s a ripple in the horizon ,  a heatless shimmer. You walk through it and emerge somewhere colder. The sky is blackened bronze. Trees, skeletal and weeping sand, whisper secrets you’ve already forgotten.",
     "Option1": "Speak your name aloud",
     "Option1_ID": "NODE_0242",
     "Option2": "Stay silent and observe",
@@ -1969,7 +1969,7 @@
   },
   "NODE_0242": {
     "ID": "NODE_0242",
-    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you — but only slightly.",
+    "Text": "You find a petrified caravan sunken in the sand. Inside, hollow mannequins dressed like pilgrims sit motionless, hands clutching empty maps. One turns its head toward you ,  but only slightly.",
     "Option1": "Climb the shattered dune",
     "Option1_ID": "NODE_0243",
     "Option2": "Descend into the crevice",
@@ -1993,7 +1993,7 @@
   },
   "NODE_0245": {
     "ID": "NODE_0245",
-    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below — and listens.",
+    "Text": "Beneath the sand is a hum, and beneath that, a heartbeat. You kneel. The rhythm speeds up in response. Something enormous stirs below ,  and listens.",
     "Option1": "Drink from the oasis",
     "Option1_ID": "NODE_0246",
     "Option2": "Pretend it’s not real",
@@ -2033,7 +2033,7 @@
   },
   "END_0250": {
     "ID": "END_0250",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2041,7 +2041,7 @@
   },
   "END_0251": {
     "ID": "END_0251",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2049,7 +2049,7 @@
   },
   "END_0252": {
     "ID": "END_0252",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2057,7 +2057,7 @@
   },
   "END_0253": {
     "ID": "END_0253",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2065,7 +2065,7 @@
   },
   "END_0254": {
     "ID": "END_0254",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2073,7 +2073,7 @@
   },
   "END_0255": {
     "ID": "END_0255",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2081,7 +2081,7 @@
   },
   "END_0256": {
     "ID": "END_0256",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2089,7 +2089,7 @@
   },
   "END_0257": {
     "ID": "END_0257",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2097,7 +2097,7 @@
   },
   "END_0258": {
     "ID": "END_0258",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2105,7 +2105,7 @@
   },
   "END_0259": {
     "ID": "END_0259",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2113,7 +2113,7 @@
   },
   "END_0260": {
     "ID": "END_0260",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2121,7 +2121,7 @@
   },
   "END_0261": {
     "ID": "END_0261",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2129,7 +2129,7 @@
   },
   "END_0262": {
     "ID": "END_0262",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2137,7 +2137,7 @@
   },
   "END_0263": {
     "ID": "END_0263",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2145,7 +2145,7 @@
   },
   "END_0264": {
     "ID": "END_0264",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2153,7 +2153,7 @@
   },
   "END_0265": {
     "ID": "END_0265",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2161,7 +2161,7 @@
   },
   "END_0266": {
     "ID": "END_0266",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2169,7 +2169,7 @@
   },
   "END_0267": {
     "ID": "END_0267",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2177,7 +2177,7 @@
   },
   "END_0268": {
     "ID": "END_0268",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -2185,7 +2185,7 @@
   },
   "END_0269": {
     "ID": "END_0269",
-    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here — not with revelation, but with reverence.",
+    "Text": "The dunes hush.\nThe stars hold their breath.\nYour journey ends here ,  not with revelation, but with reverence.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
