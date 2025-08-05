@@ -1,107 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
   <title>The Wayfarer - Dive into the Dunes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      background: #000000;
-      color: #33ff33;
+    body {
+      background: #0d0d0d;
+      color: #00ff88;
       font-family: 'Courier New', Courier, monospace;
-      height: 100%;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .terminal-wrapper {
-      width: 100%;
-      max-width: 900px;
+      margin: 0;
       padding: 20px;
-      box-sizing: border-box;
       display: flex;
-      flex-direction: column;
+      justify-content: center;
       align-items: center;
+      min-height: 100vh;
+    }
+    .terminal-wrapper {
+      max-width: 600px;
+      width: 100%;
       text-align: left;
     }
-
-    .terminal-window {
-      width: 100%;
-      background: #000000;
-      border: 2px solid #33ff33;
-      padding: 20px;
-      box-sizing: border-box;
-      overflow-wrap: break-word;
+    #story {
       white-space: pre-wrap;
-      min-height: 200px;
-      box-shadow: 0 0 10px rgba(51, 255, 51, 0.3);
+      margin-bottom: 20px;
+      line-height: 1.6;
     }
-
-    .options {
+    #options, .save-load-buttons {
       display: flex;
       flex-direction: column;
       gap: 10px;
-      margin-top: 20px;
-      width: 100%;
     }
-
-    .options button {
-      background-color: black;
-      color: #33ff33;
-      border: 1px solid #33ff33;
+    button {
+      background: #111;
+      color: #00ff88;
+      border: 1px solid #00ff88;
+      padding: 10px;
       font-family: 'Courier New', Courier, monospace;
-      padding: 12px;
-      font-size: 1em;
       cursor: pointer;
-      transition: background 0.2s, color 0.2s;
-      text-align: center;
+      transition: background 0.3s ease;
     }
-
-    .options button:hover {
-      background-color: #33ff33;
-      color: black;
-    }
-
-    .progress-bar-wrapper {
-      width: 100%;
-      margin-top: 30px;
-      height: 10px;
-      background-color: #111;
-    }
-
-    .progress-bar {
-      height: 100%;
-      width: 0%;
-      background-color: #33ff33;
-      transition: width 0.5s ease;
-    }
-
-    @media (max-width: 600px) {
-      .terminal-wrapper {
-        padding: 15px;
-      }
-
-      .options button {
-        font-size: 0.95em;
-        padding: 10px;
-      }
+    button:hover {
+      background: #00ff88;
+      color: #0d0d0d;
     }
   </style>
 </head>
 <body>
   <div class="terminal-wrapper">
-    <div class="terminal-window" id="story">Loading...</div>
-    <div class="options" id="options"></div>
-    <div class="progress-bar-wrapper">
-      <div class="progress-bar" id="progressBar"></div>
+    <div id="story">Loading...</div>
+    <div id="options"></div>
+    <div class="save-load-buttons" style="margin-top: 20px;">
+      <button onclick="saveGame()">💾 Save</button>
+      <button onclick="loadGame()">🔄 Load</button>
+      <button onclick="resetGame()">🔁 Restart</button>
     </div>
   </div>
-
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
   <script src="game.js"></script>
 </body>
 </html>
