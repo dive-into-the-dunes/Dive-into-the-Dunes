@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Wayfarer – Dive into the Dunes</title>
+  <style>
+    body {
+      background: black;
+      color: #33ff33;
+      font-family: monospace;
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .terminal {
+      white-space: pre-wrap;
+      min-height: 200px;
+    }
+    button {
+      background: none;
+      border: 1px solid #33ff33;
+      color: #33ff33;
+      padding: 10px;
+      margin: 5px;
+      cursor: pointer;
+      font-family: monospace;
+    }
+    button:hover {
+      background: #33ff33;
+      color: black;
+    }
+    .progress {
+      height: 10px;
+      background: #222;
+      margin-top: 20px;
+    }
+    .progress-bar {
+      height: 100%;
+      background: #33ff33;
+      width: 0%;
+      transition: width 0.5s ease;
+    }
+  </style>
+</head>
+<body>
+  <div class="terminal" id="story">Loading...</div>
+  <div id="options"></div>
+  <div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+
+  <script src="game.js"></script>
+</body>
+</html>
