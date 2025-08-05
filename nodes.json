@@ -27,9 +27,9 @@
     "ID": "STRANGER",
     "Text": "A figure emerges from the heat.\nNo face, only shadow.\nIt speaks:\n\n'I offer you The Vein Atlas, a map from The Cosmos. \nIt leads to anything you desire.\nBut the cost is unknown.'",
     "Option1": "Yes",
-    "Option1_ID": "NODE_0",
+    "Option1_ID": "NODE_1",
     "Option2": "(You hesitate)",
-    "Option2_ID": "NODE_X"
+    "Option2_ID": "NODE_0"
   },
   "BLOOD_MOON": {
     "ID": "BLOOD_MOON",
@@ -66,14 +66,14 @@
   "NODE_0": {
     "ID": "NODE_0",
     "Text": "A dry echo rattles through the dunes near something unusual.\n\nThe stranger stares at you with confidence.\n\nHe knows you have no other option.\nYou must find Duskbloom.",
-    "Option1": "Watch carefully",
-    "Option1_ID": "NODE_0",
-    "Option2": "Blink twice",
-    "Option2_ID": "NODE_X"
+    "Option1": "Take the deal",
+    "Option1_ID": "NODE_1",
+    "Option2": "(You hesitate again)",
+    "Option2_ID": "NODE_0"
   },
   "NODE_1": {
     "ID": "NODE_1",
-    "Text": "A shiver runs through you as you notice something unusual.\n\nA whisper echoes from the dunes: 'Not yet.'",
+    "Text": "A shiver runs through you as you notice something unusual.\n\nA whisper echoes from the dunes: 'Welcome.'",
     "Option1": "Ask a question",
     "Option1_ID": "NODE_1",
     "Option2": "Say nothing",
