@@ -1,48 +1,90 @@
 let nodes = {};
-let progress = 0;
+let currentNodeId = 'TITLE';
 
-Papa.parse("nodes.csv", {
-  download: true,
-  header: true,
-  complete: function(results) {
-    // Store all nodes in a dictionary
-    results.data.forEach(row => {
-      nodes[row.ID] = row;
+async function fetchData() {
+  const response = await fetch('nodes.csv');
+  const text = await response.text();
+  const lines = text.trim().split('\n');
+  const headers = lines[0].split(',');
+
+  const entries = {};
+  for (let i = 1; i < lines.length; i++) {
+    const cells = lines[i].match(/(".*?"|[^",\s]+)(?=\s*,|\s*$)/g);
+    if (!cells || cells.length < headers.length) continue;
+
+    const entry = {};
+    headers.forEach((h, j) => {
+      let cell = cells[j] || '';
+      if (cell.startsWith('"') && cell.endsWith('"')) {
+        cell = cell.slice(1, -1).replace(/""/g, '"');
+      }
+      entry[h] = cell;
     });
-    loadEntry("START");
+    entries[entry.ID] = entry;
   }
-});
+
+  return entries;
+}
 
 function loadEntry(id) {
+  currentNodeId = id;
   const data = nodes[id];
+
+  const storyDiv = document.getElementById('story');
+  const optionsDiv = document.getElementById('options');
+
   if (!data) {
-    document.getElementById('story').innerText = "ERROR: NODE NOT FOUND.";
+    storyDiv.innerText = "ERROR: ENTRY NOT FOUND.";
+    optionsDiv.innerHTML = '';
     return;
   }
 
-  document.getElementById('story').innerText = data.Text;
-  const optionsDiv = document.getElementById('options');
+  storyDiv.innerText = data.Text;
+  storyDiv.dataset.nodeId = data.ID;
   optionsDiv.innerHTML = '';
 
-  const option1 = document.createElement('button');
-  option1.textContent = data.Option1;
-  option1.onclick = () => {
-    updateProgress();
-    loadEntry(data.Option1_ID);
-  };
+  if (data.Option1 && data.Option1_ID) {
+    const btn1 = document.createElement('button');
+    btn1.textContent = data.Option1;
+    btn1.onclick = () => {
+      localStorage.setItem("wayfarer_save", data.Option1_ID);
+      loadEntry(data.Option1_ID);
+    };
+    optionsDiv.appendChild(btn1);
+  }
 
-  const option2 = document.createElement('button');
-  option2.textContent = data.Option2;
-  option2.onclick = () => {
-    updateProgress();
-    loadEntry(data.Option2_ID);
-  };
-
-  optionsDiv.appendChild(option1);
-  optionsDiv.appendChild(option2);
+  if (data.Option2 && data.Option2_ID) {
+    const btn2 = document.createElement('button');
+    btn2.textContent = data.Option2;
+    btn2.onclick = () => {
+      localStorage.setItem("wayfarer_save", data.Option2_ID);
+      loadEntry(data.Option2_ID);
+    };
+    optionsDiv.appendChild(btn2);
+  }
 }
 
-function updateProgress() {
-  progress = Math.min(progress + 1, 100);
-  document.getElementById('progressBar').style.width = `${progress}%`;
+function saveGame() {
+  localStorage.setItem("wayfarer_save", currentNodeId);
+  alert("Progress saved.");
 }
+
+function loadGame() {
+  const saved = localStorage.getItem("wayfarer_save");
+  if (saved) {
+    loadEntry(saved);
+  } else {
+    alert("No save found.");
+  }
+}
+
+function resetGame() {
+  localStorage.removeItem("wayfarer_save");
+  loadEntry("TITLE");
+}
+
+fetchData().then(data => {
+  nodes = data;
+  const saved = localStorage.getItem("wayfarer_save");
+  loadEntry(saved || currentNodeId);
+});
