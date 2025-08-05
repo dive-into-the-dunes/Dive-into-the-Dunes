@@ -121,7 +121,7 @@
   },
   "NODE_0010": {
     "ID": "NODE_0010",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0011",
     "Option2": "Mark it on the map",
@@ -129,7 +129,7 @@
   },
   "NODE_0011": {
     "ID": "NODE_0011",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0012",
     "Option2": "Wait and listen",
@@ -137,7 +137,7 @@
   },
   "NODE_0012": {
     "ID": "NODE_0012",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0013",
     "Option2": "Call out",
@@ -145,7 +145,7 @@
   },
   "NODE_0013": {
     "ID": "NODE_0013",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0014",
     "Option2": "Close your eyes",
@@ -153,7 +153,7 @@
   },
   "NODE_0014": {
     "ID": "NODE_0014",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0015",
     "Option2": "Turn around",
@@ -161,7 +161,7 @@
   },
   "NODE_0015": {
     "ID": "NODE_0015",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0016",
     "Option2": "Drop the compass",
@@ -169,7 +169,7 @@
   },
   "NODE_0016": {
     "ID": "NODE_0016",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0017",
     "Option2": "Step back slowly",
@@ -177,7 +177,7 @@
   },
   "NODE_0017": {
     "ID": "NODE_0017",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0018",
     "Option2": "Whisper a lie",
@@ -185,7 +185,7 @@
   },
   "NODE_0018": {
     "ID": "NODE_0018",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0019",
     "Option2": "Draw your blade",
@@ -193,7 +193,7 @@
   },
   "NODE_0019": {
     "ID": "NODE_0019",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0020",
     "Option2": "Follow the blur",
@@ -201,7 +201,7 @@
   },
   "NODE_0020": {
     "ID": "NODE_0020",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0021",
     "Option2": "Mark it on the map",
@@ -209,7 +209,7 @@
   },
   "NODE_0021": {
     "ID": "NODE_0021",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0022",
     "Option2": "Wait and listen",
@@ -217,7 +217,7 @@
   },
   "NODE_0022": {
     "ID": "NODE_0022",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0023",
     "Option2": "Call out",
@@ -225,7 +225,7 @@
   },
   "NODE_0023": {
     "ID": "NODE_0023",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0024",
     "Option2": "Close your eyes",
@@ -233,7 +233,7 @@
   },
   "NODE_0024": {
     "ID": "NODE_0024",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0025",
     "Option2": "Turn around",
@@ -241,7 +241,7 @@
   },
   "NODE_0025": {
     "ID": "NODE_0025",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0026",
     "Option2": "Drop the compass",
@@ -249,7 +249,7 @@
   },
   "NODE_0026": {
     "ID": "NODE_0026",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0027",
     "Option2": "Step back slowly",
@@ -257,7 +257,7 @@
   },
   "NODE_0027": {
     "ID": "NODE_0027",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0028",
     "Option2": "Whisper a lie",
@@ -265,7 +265,7 @@
   },
   "NODE_0028": {
     "ID": "NODE_0028",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0029",
     "Option2": "Draw your blade",
@@ -273,7 +273,7 @@
   },
   "NODE_0029": {
     "ID": "NODE_0029",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0030",
     "Option2": "Follow the blur",
@@ -281,7 +281,7 @@
   },
   "NODE_0030": {
     "ID": "NODE_0030",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0031",
     "Option2": "Mark it on the map",
@@ -289,7 +289,7 @@
   },
   "NODE_0031": {
     "ID": "NODE_0031",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0032",
     "Option2": "Wait and listen",
@@ -297,7 +297,7 @@
   },
   "NODE_0032": {
     "ID": "NODE_0032",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0033",
     "Option2": "Call out",
@@ -305,7 +305,7 @@
   },
   "NODE_0033": {
     "ID": "NODE_0033",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0034",
     "Option2": "Close your eyes",
@@ -313,7 +313,7 @@
   },
   "NODE_0034": {
     "ID": "NODE_0034",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0035",
     "Option2": "Turn around",
@@ -321,7 +321,7 @@
   },
   "NODE_0035": {
     "ID": "NODE_0035",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0036",
     "Option2": "Drop the compass",
@@ -329,7 +329,7 @@
   },
   "NODE_0036": {
     "ID": "NODE_0036",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0037",
     "Option2": "Step back slowly",
@@ -337,7 +337,7 @@
   },
   "NODE_0037": {
     "ID": "NODE_0037",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0038",
     "Option2": "Whisper a lie",
@@ -345,7 +345,7 @@
   },
   "NODE_0038": {
     "ID": "NODE_0038",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0039",
     "Option2": "Draw your blade",
@@ -353,7 +353,7 @@
   },
   "NODE_0039": {
     "ID": "NODE_0039",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0040",
     "Option2": "Follow the blur",
@@ -361,7 +361,7 @@
   },
   "NODE_0040": {
     "ID": "NODE_0040",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0041",
     "Option2": "Mark it on the map",
@@ -369,7 +369,7 @@
   },
   "NODE_0041": {
     "ID": "NODE_0041",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0042",
     "Option2": "Wait and listen",
@@ -377,7 +377,7 @@
   },
   "NODE_0042": {
     "ID": "NODE_0042",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0043",
     "Option2": "Call out",
@@ -385,7 +385,7 @@
   },
   "NODE_0043": {
     "ID": "NODE_0043",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0044",
     "Option2": "Close your eyes",
@@ -393,7 +393,7 @@
   },
   "NODE_0044": {
     "ID": "NODE_0044",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0045",
     "Option2": "Turn around",
@@ -401,7 +401,7 @@
   },
   "NODE_0045": {
     "ID": "NODE_0045",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0046",
     "Option2": "Drop the compass",
@@ -409,7 +409,7 @@
   },
   "NODE_0046": {
     "ID": "NODE_0046",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0047",
     "Option2": "Step back slowly",
@@ -417,7 +417,7 @@
   },
   "NODE_0047": {
     "ID": "NODE_0047",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0048",
     "Option2": "Whisper a lie",
@@ -425,7 +425,7 @@
   },
   "NODE_0048": {
     "ID": "NODE_0048",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0049",
     "Option2": "Draw your blade",
@@ -433,7 +433,7 @@
   },
   "NODE_0049": {
     "ID": "NODE_0049",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0050",
     "Option2": "Follow the blur",
@@ -441,7 +441,7 @@
   },
   "NODE_0050": {
     "ID": "NODE_0050",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0051",
     "Option2": "Mark it on the map",
@@ -449,7 +449,7 @@
   },
   "NODE_0051": {
     "ID": "NODE_0051",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0052",
     "Option2": "Wait and listen",
@@ -457,7 +457,7 @@
   },
   "NODE_0052": {
     "ID": "NODE_0052",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0053",
     "Option2": "Call out",
@@ -465,7 +465,7 @@
   },
   "NODE_0053": {
     "ID": "NODE_0053",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0054",
     "Option2": "Close your eyes",
@@ -473,7 +473,7 @@
   },
   "NODE_0054": {
     "ID": "NODE_0054",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0055",
     "Option2": "Turn around",
@@ -481,7 +481,7 @@
   },
   "NODE_0055": {
     "ID": "NODE_0055",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0056",
     "Option2": "Drop the compass",
@@ -489,7 +489,7 @@
   },
   "NODE_0056": {
     "ID": "NODE_0056",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0057",
     "Option2": "Step back slowly",
@@ -497,7 +497,7 @@
   },
   "NODE_0057": {
     "ID": "NODE_0057",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0058",
     "Option2": "Whisper a lie",
@@ -505,7 +505,7 @@
   },
   "NODE_0058": {
     "ID": "NODE_0058",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0059",
     "Option2": "Draw your blade",
@@ -513,7 +513,7 @@
   },
   "NODE_0059": {
     "ID": "NODE_0059",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0060",
     "Option2": "Follow the blur",
@@ -521,7 +521,7 @@
   },
   "NODE_0060": {
     "ID": "NODE_0060",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0061",
     "Option2": "Mark it on the map",
@@ -529,7 +529,7 @@
   },
   "NODE_0061": {
     "ID": "NODE_0061",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0062",
     "Option2": "Wait and listen",
@@ -537,7 +537,7 @@
   },
   "NODE_0062": {
     "ID": "NODE_0062",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0063",
     "Option2": "Call out",
@@ -545,7 +545,7 @@
   },
   "NODE_0063": {
     "ID": "NODE_0063",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0064",
     "Option2": "Close your eyes",
@@ -553,7 +553,7 @@
   },
   "NODE_0064": {
     "ID": "NODE_0064",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0065",
     "Option2": "Turn around",
@@ -561,7 +561,7 @@
   },
   "NODE_0065": {
     "ID": "NODE_0065",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0066",
     "Option2": "Drop the compass",
@@ -569,7 +569,7 @@
   },
   "NODE_0066": {
     "ID": "NODE_0066",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0067",
     "Option2": "Step back slowly",
@@ -577,7 +577,7 @@
   },
   "NODE_0067": {
     "ID": "NODE_0067",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0068",
     "Option2": "Whisper a lie",
@@ -585,7 +585,7 @@
   },
   "NODE_0068": {
     "ID": "NODE_0068",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0069",
     "Option2": "Draw your blade",
@@ -593,7 +593,7 @@
   },
   "NODE_0069": {
     "ID": "NODE_0069",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0070",
     "Option2": "Follow the blur",
@@ -601,7 +601,7 @@
   },
   "NODE_0070": {
     "ID": "NODE_0070",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0071",
     "Option2": "Mark it on the map",
@@ -609,7 +609,7 @@
   },
   "NODE_0071": {
     "ID": "NODE_0071",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0072",
     "Option2": "Wait and listen",
@@ -617,7 +617,7 @@
   },
   "NODE_0072": {
     "ID": "NODE_0072",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0073",
     "Option2": "Call out",
@@ -625,7 +625,7 @@
   },
   "NODE_0073": {
     "ID": "NODE_0073",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0074",
     "Option2": "Close your eyes",
@@ -633,7 +633,7 @@
   },
   "NODE_0074": {
     "ID": "NODE_0074",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0075",
     "Option2": "Turn around",
@@ -641,7 +641,7 @@
   },
   "NODE_0075": {
     "ID": "NODE_0075",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0076",
     "Option2": "Drop the compass",
@@ -649,7 +649,7 @@
   },
   "NODE_0076": {
     "ID": "NODE_0076",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0077",
     "Option2": "Step back slowly",
@@ -657,7 +657,7 @@
   },
   "NODE_0077": {
     "ID": "NODE_0077",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0078",
     "Option2": "Whisper a lie",
@@ -665,7 +665,7 @@
   },
   "NODE_0078": {
     "ID": "NODE_0078",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0079",
     "Option2": "Draw your blade",
@@ -673,7 +673,7 @@
   },
   "NODE_0079": {
     "ID": "NODE_0079",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0080",
     "Option2": "Follow the blur",
@@ -681,7 +681,7 @@
   },
   "NODE_0080": {
     "ID": "NODE_0080",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0081",
     "Option2": "Mark it on the map",
@@ -689,7 +689,7 @@
   },
   "NODE_0081": {
     "ID": "NODE_0081",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0082",
     "Option2": "Wait and listen",
@@ -697,7 +697,7 @@
   },
   "NODE_0082": {
     "ID": "NODE_0082",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0083",
     "Option2": "Call out",
@@ -705,7 +705,7 @@
   },
   "NODE_0083": {
     "ID": "NODE_0083",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0084",
     "Option2": "Close your eyes",
@@ -713,7 +713,7 @@
   },
   "NODE_0084": {
     "ID": "NODE_0084",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0085",
     "Option2": "Turn around",
@@ -721,7 +721,7 @@
   },
   "NODE_0085": {
     "ID": "NODE_0085",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0086",
     "Option2": "Drop the compass",
@@ -729,7 +729,7 @@
   },
   "NODE_0086": {
     "ID": "NODE_0086",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0087",
     "Option2": "Step back slowly",
@@ -737,7 +737,7 @@
   },
   "NODE_0087": {
     "ID": "NODE_0087",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0088",
     "Option2": "Whisper a lie",
@@ -745,7 +745,7 @@
   },
   "NODE_0088": {
     "ID": "NODE_0088",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0089",
     "Option2": "Draw your blade",
@@ -753,7 +753,7 @@
   },
   "NODE_0089": {
     "ID": "NODE_0089",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0090",
     "Option2": "Follow the blur",
@@ -761,7 +761,7 @@
   },
   "NODE_0090": {
     "ID": "NODE_0090",
-    "Text": "You stumble into a windless chasm filled with petrified laughter.",
+    "Text": "A staircase of bone descends into the sand. Each step hums with your heartbeat.",
     "Option1": "Enter it",
     "Option1_ID": "NODE_0091",
     "Option2": "Mark it on the map",
@@ -769,7 +769,7 @@
   },
   "NODE_0091": {
     "ID": "NODE_0091",
-    "Text": "The sand here smells like rust and rain. Something long buried writhes.",
+    "Text": "The dunes open like jaws. Inside, memories crawl.",
     "Option1": "Keep walking",
     "Option1_ID": "NODE_0092",
     "Option2": "Wait and listen",
@@ -777,7 +777,7 @@
   },
   "NODE_0092": {
     "ID": "NODE_0092",
-    "Text": "You follow hoofprints that circle endlessly around a burnt offering.",
+    "Text": "You find a well that whispers names. One of them is yours—but misspelled.",
     "Option1": "Dig beneath it",
     "Option1_ID": "NODE_0093",
     "Option2": "Call out",
@@ -785,7 +785,7 @@
   },
   "NODE_0093": {
     "ID": "NODE_0093",
-    "Text": "A mirage flickers into view: it’s your childhood home, but inside-out.",
+    "Text": "A giant hourglass bleeds stars instead of sand. Time isn't running out. It's collapsing.",
     "Option1": "Light a torch",
     "Option1_ID": "NODE_0094",
     "Option2": "Close your eyes",
@@ -793,7 +793,7 @@
   },
   "NODE_0094": {
     "ID": "NODE_0094",
-    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
+    "Text": "A mirror grows from the earth. It shows you smiling, even when you frown.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0095",
     "Option2": "Turn around",
@@ -801,7 +801,7 @@
   },
   "NODE_0095": {
     "ID": "NODE_0095",
-    "Text": "A shriek slices the horizon. It repeats. Then answers itself.",
+    "Text": "The ground bubbles like soup. Beneath it, something giggles.",
     "Option1": "Press forward",
     "Option1_ID": "NODE_0096",
     "Option2": "Drop the compass",
@@ -809,7 +809,7 @@
   },
   "NODE_0096": {
     "ID": "NODE_0096",
-    "Text": "The compass spins like it’s laughing. The stars above seem... closer.",
+    "Text": "A thin archway of teeth stands alone. Beyond it, color ceases to function.",
     "Option1": "Touch it",
     "Option1_ID": "NODE_0097",
     "Option2": "Step back slowly",
@@ -817,7 +817,7 @@
   },
   "NODE_0097": {
     "ID": "NODE_0097",
-    "Text": "A tower made of bone and glass pulses like a throat.",
+    "Text": "The sky above splits for a moment. A hand made of mist reaches down but doesn't touch you.",
     "Option1": "Shout her name",
     "Option1_ID": "NODE_0098",
     "Option2": "Whisper a lie",
@@ -825,7 +825,7 @@
   },
   "NODE_0098": {
     "ID": "NODE_0098",
-    "Text": "You pass through a sandstorm that erases your reflection.",
+    "Text": "You meet a version of yourself, stitched wrong. It begs you not to blink.",
     "Option1": "Draw your breath",
     "Option1_ID": "NODE_0099",
     "Option2": "Draw your blade",
@@ -833,7 +833,7 @@
   },
   "NODE_0099": {
     "ID": "NODE_0099",
-    "Text": "Duskbloom calls to you in a voice made of wind and regret.",
+    "Text": "The dunes rearrange into words. They spell out your final thought.",
     "Option1": "Trust your feet",
     "Option1_ID": "NODE_0100",
     "Option2": "Follow the blur",
