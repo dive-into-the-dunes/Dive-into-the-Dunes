@@ -25,7 +25,7 @@
   },
   "STRANGER": {
     "ID": "STRANGER",
-    "Text": "A figure emerges from the heat.\nNo face, only shadow.\nIt speaks:\n\n'I offer you The Vein Atlas, a map from The Cosmos. \nIt leads to anything you desire.\nBut the cost is unknown.'",
+    "Text": "TEST TEST TEST\nA figure emerges from the heat.\nNo face, only shadow.\nIt speaks:\n\n'I offer you The Vein Atlas, a map from The Cosmos. \nIt leads to anything you desire.\nBut the cost is unknown.'",
     "Option1": "Yes",
     "Option1_ID": "NODE_1",
     "Option2": "(You hesitate)",
