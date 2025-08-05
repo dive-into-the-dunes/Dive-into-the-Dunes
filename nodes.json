@@ -21,7 +21,7 @@
     "Option1": "Walk forward",
     "Option1_ID": "STRANGER",
     "Option2": "Look back",
-    "Option2_ID": "START"
+    "Option2_ID": "TITLE"
   },
   "STRANGER": {
     "ID": "STRANGER",
@@ -75,7 +75,7 @@
     "ID": "NODE_1",
     "Text": "A shiver runs through you as you notice something unusual.\n\nA whisper echoes from the dunes: 'Welcome.'",
     "Option1": "Ask a question",
-    "Option1_ID": "NODE_1",
+    "Option1_ID": "NODE_2",
     "Option2": "Say nothing",
     "Option2_ID": "NODE_2"
   },
