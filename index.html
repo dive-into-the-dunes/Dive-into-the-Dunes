@@ -32,7 +32,7 @@
     #options {
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      gap: 12px;
       margin-bottom: 15px;
     }
 
@@ -52,15 +52,18 @@
     button {
       background: #111;
       color: #00ff88;
-      border: 1px solid #00ff88;
+      border: 2px solid #00ff88;
+      padding: 12px;
       font-family: 'Courier New', Courier, monospace;
+      font-size: 1em;
       cursor: pointer;
-      transition: background 0.3s ease;
+      transition: background 0.3s ease, transform 0.1s ease;
     }
 
     button:hover {
       background: #00ff88;
       color: #0d0d0d;
+      transform: scale(1.02);
     }
   </style>
 </head>
