@@ -49,7 +49,7 @@
   },
   "NODE_0001": {
     "ID": "NODE_0001",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0002",
     "Option2": "Acknowledge it",
@@ -129,7 +129,7 @@
   },
   "NODE_0011": {
     "ID": "NODE_0011",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0012",
     "Option2": "Acknowledge it",
@@ -209,7 +209,7 @@
   },
   "NODE_0021": {
     "ID": "NODE_0021",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0022",
     "Option2": "Acknowledge it",
@@ -289,7 +289,7 @@
   },
   "NODE_0031": {
     "ID": "NODE_0031",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0032",
     "Option2": "Acknowledge it",
@@ -369,7 +369,7 @@
   },
   "NODE_0041": {
     "ID": "NODE_0041",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0042",
     "Option2": "Acknowledge it",
@@ -449,7 +449,7 @@
   },
   "NODE_0051": {
     "ID": "NODE_0051",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0052",
     "Option2": "Acknowledge it",
@@ -529,7 +529,7 @@
   },
   "NODE_0061": {
     "ID": "NODE_0061",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0062",
     "Option2": "Acknowledge it",
@@ -609,7 +609,7 @@
   },
   "NODE_0071": {
     "ID": "NODE_0071",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0072",
     "Option2": "Acknowledge it",
@@ -689,7 +689,7 @@
   },
   "NODE_0081": {
     "ID": "NODE_0081",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0082",
     "Option2": "Acknowledge it",
@@ -769,7 +769,7 @@
   },
   "NODE_0091": {
     "ID": "NODE_0091",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0092",
     "Option2": "Acknowledge it",
@@ -849,7 +849,7 @@
   },
   "NODE_0101": {
     "ID": "NODE_0101",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0102",
     "Option2": "Acknowledge it",
@@ -929,7 +929,7 @@
   },
   "NODE_0111": {
     "ID": "NODE_0111",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0112",
     "Option2": "Acknowledge it",
@@ -1009,7 +1009,7 @@
   },
   "NODE_0121": {
     "ID": "NODE_0121",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0122",
     "Option2": "Acknowledge it",
@@ -1089,7 +1089,7 @@
   },
   "NODE_0131": {
     "ID": "NODE_0131",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0132",
     "Option2": "Acknowledge it",
@@ -1169,7 +1169,7 @@
   },
   "NODE_0141": {
     "ID": "NODE_0141",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0142",
     "Option2": "Acknowledge it",
@@ -1249,7 +1249,7 @@
   },
   "NODE_0151": {
     "ID": "NODE_0151",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0152",
     "Option2": "Acknowledge it",
@@ -1329,7 +1329,7 @@
   },
   "NODE_0161": {
     "ID": "NODE_0161",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0162",
     "Option2": "Acknowledge it",
@@ -1409,7 +1409,7 @@
   },
   "NODE_0171": {
     "ID": "NODE_0171",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0172",
     "Option2": "Acknowledge it",
@@ -1489,7 +1489,7 @@
   },
   "NODE_0181": {
     "ID": "NODE_0181",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0182",
     "Option2": "Acknowledge it",
@@ -1569,7 +1569,7 @@
   },
   "NODE_0191": {
     "ID": "NODE_0191",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0192",
     "Option2": "Acknowledge it",
@@ -1649,7 +1649,7 @@
   },
   "NODE_0201": {
     "ID": "NODE_0201",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0202",
     "Option2": "Acknowledge it",
@@ -1729,7 +1729,7 @@
   },
   "NODE_0211": {
     "ID": "NODE_0211",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0212",
     "Option2": "Acknowledge it",
@@ -1809,7 +1809,7 @@
   },
   "NODE_0221": {
     "ID": "NODE_0221",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0222",
     "Option2": "Acknowledge it",
@@ -1889,7 +1889,7 @@
   },
   "NODE_0231": {
     "ID": "NODE_0231",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0232",
     "Option2": "Acknowledge it",
@@ -1969,7 +1969,7 @@
   },
   "NODE_0241": {
     "ID": "NODE_0241",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0242",
     "Option2": "Acknowledge it",
@@ -2049,7 +2049,7 @@
   },
   "NODE_0251": {
     "ID": "NODE_0251",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0252",
     "Option2": "Acknowledge it",
@@ -2129,7 +2129,7 @@
   },
   "NODE_0261": {
     "ID": "NODE_0261",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0262",
     "Option2": "Acknowledge it",
@@ -2209,7 +2209,7 @@
   },
   "NODE_0271": {
     "ID": "NODE_0271",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0272",
     "Option2": "Acknowledge it",
@@ -2289,7 +2289,7 @@
   },
   "NODE_0281": {
     "ID": "NODE_0281",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0282",
     "Option2": "Acknowledge it",
@@ -2369,7 +2369,7 @@
   },
   "NODE_0291": {
     "ID": "NODE_0291",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0292",
     "Option2": "Acknowledge it",
@@ -2449,7 +2449,7 @@
   },
   "NODE_0301": {
     "ID": "NODE_0301",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0302",
     "Option2": "Acknowledge it",
@@ -2529,7 +2529,7 @@
   },
   "NODE_0311": {
     "ID": "NODE_0311",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0312",
     "Option2": "Acknowledge it",
@@ -2609,7 +2609,7 @@
   },
   "NODE_0321": {
     "ID": "NODE_0321",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0322",
     "Option2": "Acknowledge it",
@@ -2689,7 +2689,7 @@
   },
   "NODE_0331": {
     "ID": "NODE_0331",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0332",
     "Option2": "Acknowledge it",
@@ -2769,7 +2769,7 @@
   },
   "NODE_0341": {
     "ID": "NODE_0341",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0342",
     "Option2": "Acknowledge it",
@@ -2849,7 +2849,7 @@
   },
   "NODE_0351": {
     "ID": "NODE_0351",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0352",
     "Option2": "Acknowledge it",
@@ -2929,7 +2929,7 @@
   },
   "NODE_0361": {
     "ID": "NODE_0361",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0362",
     "Option2": "Acknowledge it",
@@ -3009,7 +3009,7 @@
   },
   "NODE_0371": {
     "ID": "NODE_0371",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0372",
     "Option2": "Acknowledge it",
@@ -3089,7 +3089,7 @@
   },
   "NODE_0381": {
     "ID": "NODE_0381",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0382",
     "Option2": "Acknowledge it",
@@ -3169,7 +3169,7 @@
   },
   "NODE_0391": {
     "ID": "NODE_0391",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0392",
     "Option2": "Acknowledge it",
@@ -3249,7 +3249,7 @@
   },
   "NODE_0401": {
     "ID": "NODE_0401",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0402",
     "Option2": "Acknowledge it",
@@ -3329,7 +3329,7 @@
   },
   "NODE_0411": {
     "ID": "NODE_0411",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0412",
     "Option2": "Acknowledge it",
@@ -3409,7 +3409,7 @@
   },
   "NODE_0421": {
     "ID": "NODE_0421",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0422",
     "Option2": "Acknowledge it",
@@ -3489,7 +3489,7 @@
   },
   "NODE_0431": {
     "ID": "NODE_0431",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0432",
     "Option2": "Acknowledge it",
@@ -3569,7 +3569,7 @@
   },
   "NODE_0441": {
     "ID": "NODE_0441",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0442",
     "Option2": "Acknowledge it",
@@ -3649,7 +3649,7 @@
   },
   "NODE_0451": {
     "ID": "NODE_0451",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0452",
     "Option2": "Acknowledge it",
@@ -3729,7 +3729,7 @@
   },
   "NODE_0461": {
     "ID": "NODE_0461",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0462",
     "Option2": "Acknowledge it",
@@ -3809,7 +3809,7 @@
   },
   "NODE_0471": {
     "ID": "NODE_0471",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0472",
     "Option2": "Acknowledge it",
@@ -3889,7 +3889,7 @@
   },
   "NODE_0481": {
     "ID": "NODE_0481",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0482",
     "Option2": "Acknowledge it",
@@ -3969,7 +3969,7 @@
   },
   "NODE_0491": {
     "ID": "NODE_0491",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0492",
     "Option2": "Acknowledge it",
@@ -4049,7 +4049,7 @@
   },
   "NODE_0501": {
     "ID": "NODE_0501",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0502",
     "Option2": "Acknowledge it",
@@ -4129,7 +4129,7 @@
   },
   "NODE_0511": {
     "ID": "NODE_0511",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0512",
     "Option2": "Acknowledge it",
@@ -4209,7 +4209,7 @@
   },
   "NODE_0521": {
     "ID": "NODE_0521",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0522",
     "Option2": "Acknowledge it",
@@ -4289,7 +4289,7 @@
   },
   "NODE_0531": {
     "ID": "NODE_0531",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0532",
     "Option2": "Acknowledge it",
@@ -4369,7 +4369,7 @@
   },
   "NODE_0541": {
     "ID": "NODE_0541",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0542",
     "Option2": "Acknowledge it",
@@ -4449,7 +4449,7 @@
   },
   "NODE_0551": {
     "ID": "NODE_0551",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0552",
     "Option2": "Acknowledge it",
@@ -4529,7 +4529,7 @@
   },
   "NODE_0561": {
     "ID": "NODE_0561",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0562",
     "Option2": "Acknowledge it",
@@ -4609,7 +4609,7 @@
   },
   "NODE_0571": {
     "ID": "NODE_0571",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0572",
     "Option2": "Acknowledge it",
@@ -4689,7 +4689,7 @@
   },
   "NODE_0581": {
     "ID": "NODE_0581",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0582",
     "Option2": "Acknowledge it",
@@ -4769,7 +4769,7 @@
   },
   "NODE_0591": {
     "ID": "NODE_0591",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0592",
     "Option2": "Acknowledge it",
@@ -4849,7 +4849,7 @@
   },
   "NODE_0601": {
     "ID": "NODE_0601",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0602",
     "Option2": "Acknowledge it",
@@ -4929,7 +4929,7 @@
   },
   "NODE_0611": {
     "ID": "NODE_0611",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0612",
     "Option2": "Acknowledge it",
@@ -5009,7 +5009,7 @@
   },
   "NODE_0621": {
     "ID": "NODE_0621",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0622",
     "Option2": "Acknowledge it",
@@ -5089,7 +5089,7 @@
   },
   "NODE_0631": {
     "ID": "NODE_0631",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0632",
     "Option2": "Acknowledge it",
@@ -5169,7 +5169,7 @@
   },
   "NODE_0641": {
     "ID": "NODE_0641",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0642",
     "Option2": "Acknowledge it",
@@ -5249,7 +5249,7 @@
   },
   "NODE_0651": {
     "ID": "NODE_0651",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0652",
     "Option2": "Acknowledge it",
@@ -5329,7 +5329,7 @@
   },
   "NODE_0661": {
     "ID": "NODE_0661",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0662",
     "Option2": "Acknowledge it",
@@ -5409,7 +5409,7 @@
   },
   "NODE_0671": {
     "ID": "NODE_0671",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0672",
     "Option2": "Acknowledge it",
@@ -5489,7 +5489,7 @@
   },
   "NODE_0681": {
     "ID": "NODE_0681",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0682",
     "Option2": "Acknowledge it",
@@ -5569,7 +5569,7 @@
   },
   "NODE_0691": {
     "ID": "NODE_0691",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0692",
     "Option2": "Acknowledge it",
@@ -5649,7 +5649,7 @@
   },
   "NODE_0701": {
     "ID": "NODE_0701",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0702",
     "Option2": "Acknowledge it",
@@ -5729,7 +5729,7 @@
   },
   "NODE_0711": {
     "ID": "NODE_0711",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0712",
     "Option2": "Acknowledge it",
@@ -5809,7 +5809,7 @@
   },
   "NODE_0721": {
     "ID": "NODE_0721",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0722",
     "Option2": "Acknowledge it",
@@ -5889,7 +5889,7 @@
   },
   "NODE_0731": {
     "ID": "NODE_0731",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0732",
     "Option2": "Acknowledge it",
@@ -5969,7 +5969,7 @@
   },
   "NODE_0741": {
     "ID": "NODE_0741",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0742",
     "Option2": "Acknowledge it",
@@ -6049,7 +6049,7 @@
   },
   "NODE_0751": {
     "ID": "NODE_0751",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0752",
     "Option2": "Acknowledge it",
@@ -6129,7 +6129,7 @@
   },
   "NODE_0761": {
     "ID": "NODE_0761",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0762",
     "Option2": "Acknowledge it",
@@ -6209,7 +6209,7 @@
   },
   "NODE_0771": {
     "ID": "NODE_0771",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0772",
     "Option2": "Acknowledge it",
@@ -6289,7 +6289,7 @@
   },
   "NODE_0781": {
     "ID": "NODE_0781",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0782",
     "Option2": "Acknowledge it",
@@ -6369,7 +6369,7 @@
   },
   "NODE_0791": {
     "ID": "NODE_0791",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0792",
     "Option2": "Acknowledge it",
@@ -6449,7 +6449,7 @@
   },
   "NODE_0801": {
     "ID": "NODE_0801",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0802",
     "Option2": "Acknowledge it",
@@ -6529,7 +6529,7 @@
   },
   "NODE_0811": {
     "ID": "NODE_0811",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0812",
     "Option2": "Acknowledge it",
@@ -6609,7 +6609,7 @@
   },
   "NODE_0821": {
     "ID": "NODE_0821",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0822",
     "Option2": "Acknowledge it",
@@ -6689,7 +6689,7 @@
   },
   "NODE_0831": {
     "ID": "NODE_0831",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0832",
     "Option2": "Acknowledge it",
@@ -6769,7 +6769,7 @@
   },
   "NODE_0841": {
     "ID": "NODE_0841",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0842",
     "Option2": "Acknowledge it",
@@ -6849,7 +6849,7 @@
   },
   "NODE_0851": {
     "ID": "NODE_0851",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0852",
     "Option2": "Acknowledge it",
@@ -6929,7 +6929,7 @@
   },
   "NODE_0861": {
     "ID": "NODE_0861",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0862",
     "Option2": "Acknowledge it",
@@ -7009,7 +7009,7 @@
   },
   "NODE_0871": {
     "ID": "NODE_0871",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0872",
     "Option2": "Acknowledge it",
@@ -7089,7 +7089,7 @@
   },
   "NODE_0881": {
     "ID": "NODE_0881",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0882",
     "Option2": "Acknowledge it",
@@ -7169,7 +7169,7 @@
   },
   "NODE_0891": {
     "ID": "NODE_0891",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0892",
     "Option2": "Acknowledge it",
@@ -7249,7 +7249,7 @@
   },
   "NODE_0901": {
     "ID": "NODE_0901",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0902",
     "Option2": "Acknowledge it",
@@ -7329,7 +7329,7 @@
   },
   "NODE_0911": {
     "ID": "NODE_0911",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0912",
     "Option2": "Acknowledge it",
@@ -7409,7 +7409,7 @@
   },
   "NODE_0921": {
     "ID": "NODE_0921",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0922",
     "Option2": "Acknowledge it",
@@ -7489,7 +7489,7 @@
   },
   "NODE_0931": {
     "ID": "NODE_0931",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0932",
     "Option2": "Acknowledge it",
@@ -7569,7 +7569,7 @@
   },
   "NODE_0941": {
     "ID": "NODE_0941",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0942",
     "Option2": "Acknowledge it",
@@ -7649,7 +7649,7 @@
   },
   "NODE_0951": {
     "ID": "NODE_0951",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0952",
     "Option2": "Acknowledge it",
@@ -7729,7 +7729,7 @@
   },
   "NODE_0961": {
     "ID": "NODE_0961",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0962",
     "Option2": "Acknowledge it",
@@ -7809,7 +7809,7 @@
   },
   "NODE_0971": {
     "ID": "NODE_0971",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0972",
     "Option2": "Acknowledge it",
@@ -7889,7 +7889,7 @@
   },
   "NODE_0981": {
     "ID": "NODE_0981",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0982",
     "Option2": "Acknowledge it",
@@ -7969,7 +7969,7 @@
   },
   "NODE_0991": {
     "ID": "NODE_0991",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_0992",
     "Option2": "Acknowledge it",
@@ -8049,7 +8049,7 @@
   },
   "NODE_1001": {
     "ID": "NODE_1001",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1002",
     "Option2": "Acknowledge it",
@@ -8129,7 +8129,7 @@
   },
   "NODE_1011": {
     "ID": "NODE_1011",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1012",
     "Option2": "Acknowledge it",
@@ -8209,7 +8209,7 @@
   },
   "NODE_1021": {
     "ID": "NODE_1021",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1022",
     "Option2": "Acknowledge it",
@@ -8289,7 +8289,7 @@
   },
   "NODE_1031": {
     "ID": "NODE_1031",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1032",
     "Option2": "Acknowledge it",
@@ -8369,7 +8369,7 @@
   },
   "NODE_1041": {
     "ID": "NODE_1041",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1042",
     "Option2": "Acknowledge it",
@@ -8449,7 +8449,7 @@
   },
   "NODE_1051": {
     "ID": "NODE_1051",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1052",
     "Option2": "Acknowledge it",
@@ -8529,7 +8529,7 @@
   },
   "NODE_1061": {
     "ID": "NODE_1061",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1062",
     "Option2": "Acknowledge it",
@@ -8609,7 +8609,7 @@
   },
   "NODE_1071": {
     "ID": "NODE_1071",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1072",
     "Option2": "Acknowledge it",
@@ -8689,7 +8689,7 @@
   },
   "NODE_1081": {
     "ID": "NODE_1081",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1082",
     "Option2": "Acknowledge it",
@@ -8769,7 +8769,7 @@
   },
   "NODE_1091": {
     "ID": "NODE_1091",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1092",
     "Option2": "Acknowledge it",
@@ -8849,7 +8849,7 @@
   },
   "NODE_1101": {
     "ID": "NODE_1101",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1102",
     "Option2": "Acknowledge it",
@@ -8929,7 +8929,7 @@
   },
   "NODE_1111": {
     "ID": "NODE_1111",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1112",
     "Option2": "Acknowledge it",
@@ -9009,7 +9009,7 @@
   },
   "NODE_1121": {
     "ID": "NODE_1121",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1122",
     "Option2": "Acknowledge it",
@@ -9089,7 +9089,7 @@
   },
   "NODE_1131": {
     "ID": "NODE_1131",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1132",
     "Option2": "Acknowledge it",
@@ -9169,7 +9169,7 @@
   },
   "NODE_1141": {
     "ID": "NODE_1141",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1142",
     "Option2": "Acknowledge it",
@@ -9249,7 +9249,7 @@
   },
   "NODE_1151": {
     "ID": "NODE_1151",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1152",
     "Option2": "Acknowledge it",
@@ -9329,7 +9329,7 @@
   },
   "NODE_1161": {
     "ID": "NODE_1161",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1162",
     "Option2": "Acknowledge it",
@@ -9409,7 +9409,7 @@
   },
   "NODE_1171": {
     "ID": "NODE_1171",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1172",
     "Option2": "Acknowledge it",
@@ -9489,7 +9489,7 @@
   },
   "NODE_1181": {
     "ID": "NODE_1181",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1182",
     "Option2": "Acknowledge it",
@@ -9569,7 +9569,7 @@
   },
   "NODE_1191": {
     "ID": "NODE_1191",
-    "Text": "The sky above twists, reacting to your last decision: Press forward",
+    "Text": "The sky above twists, reacting to your last decision.\n\nSTAR_MEMORY: Press forward",
     "Option1": "Ignore it",
     "Option1_ID": "NODE_1192",
     "Option2": "Acknowledge it",
