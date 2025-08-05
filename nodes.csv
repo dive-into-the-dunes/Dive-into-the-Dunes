@@ -1,0 +1,841 @@
+ID,Text,Option1,Option1_ID,Option2,Option2_ID
+START,"A rusted sign stands before you. It reads:
+
+  DEAD END
+
+The wind is silent. The world feels paused.",Turn around,START,See what lies beyond,PLANE
+PLANE,"You step past the sign.
+The air fractures like glass.
+
+You are somewhere else.
+
+Sand stretches infinitely.
+Above: a black sky, blinking with unnatural stars.",Walk forward,STRANGER,Look back,START
+STRANGER,"A figure emerges from the heat.
+No face, only shadow.
+It speaks:
+
+'I offer you The Vein Atlas, a map from The Cosmos. 
+It leads to anything you desire.
+But the cost is unknown.'",Yes,NODE_0,(You hesitate),NODE_X
+NODE_X,"The stranger stares at you with confidence.
+
+He knows you have no other option.
+You must find Duskbloom.",Yes,NODE_0,(You hesitate again),NODE_X
+NODE_0,A whisper echoes from the dunes: 'Not yet.',Follow the light,NODE_1,Go deeper,NODE_2
+NODE_1,A star falls upward.,Turn around,NODE_2,Keep walking,NODE_3
+NODE_2,A tower in the distance vanishes when you blink.,Whisper a wish,NODE_3,Scream at the sky,NODE_4
+NODE_3,A whisper echoes from the dunes: 'Not yet.',Follow the light,NODE_4,Go deeper,NODE_5
+NODE_4,A tower in the distance vanishes when you blink.,Trace the lines,NODE_5,Tear the page,NODE_6
+NODE_5,The Vein Atlas turns a page on its own.,Turn around,NODE_6,Keep walking,NODE_7
+NODE_6,Your shadow walks away from you.,Touch the stone,NODE_7,Leave it,NODE_8
+NODE_7,You remember her laugh. The desert does too.,Cover the map,NODE_8,Feed it blood,NODE_9
+NODE_8,The sand glows faintly. A shape emerges.,Close your eyes,NODE_9,Call her name,NODE_10
+NODE_9,Something ancient stirs beneath your feet.,Dig,NODE_10,Walk away,NODE_11
+NODE_10,Something ancient stirs beneath your feet.,Dig,NODE_11,Walk away,NODE_12
+NODE_11,A footprint leads nowhere.,Whisper a wish,NODE_12,Scream at the sky,NODE_13
+NODE_12,Someone wrote your name in the sand. Backward.,Cover the map,NODE_13,Feed it blood,NODE_14
+NODE_13,A whisper echoes from the dunes: 'Not yet.',Close your eyes,NODE_14,Call her name,NODE_15
+NODE_14,A tower in the distance vanishes when you blink.,Cover the map,NODE_15,Feed it blood,NODE_16
+NODE_15,You feel eyes in the sky.,Dig,NODE_16,Walk away,NODE_17
+NODE_16,A footprint leads nowhere.,Step into the mirage,NODE_17,Hide under the sand,NODE_18
+NODE_17,A whisper echoes from the dunes: 'Not yet.',Step into the mirage,NODE_18,Hide under the sand,NODE_19
+NODE_18,A star falls upward.,Dig,NODE_19,Walk away,NODE_20
+NODE_19,You find a shard of glass. It's warm.,Step into the mirage,NODE_20,Hide under the sand,NODE_21
+NODE_20,A tower in the distance vanishes when you blink.,Close your eyes,NODE_21,Call her name,NODE_22
+NODE_21,The book hums. It’s listening.,Touch the stone,NODE_22,Leave it,NODE_23
+NODE_22,A footprint leads nowhere.,Speak to the voice,NODE_23,Ignore it,NODE_24
+NODE_23,Something ancient stirs beneath your feet.,Trace the lines,NODE_24,Tear the page,NODE_25
+NODE_24,A star falls upward.,Touch the stone,NODE_25,Leave it,NODE_26
+NODE_25,The Vein Atlas turns a page on its own.,Touch the stone,NODE_26,Leave it,NODE_27
+NODE_26,You remember her laugh. The desert does too.,Whisper a wish,NODE_27,Scream at the sky,NODE_28
+NODE_27,You find a shard of glass. It's warm.,Whisper a wish,NODE_28,Scream at the sky,NODE_29
+NODE_28,The sun flickers. Or blinks.,Turn around,NODE_29,Keep walking,NODE_30
+NODE_29,The sun flickers. Or blinks.,Whisper a wish,NODE_30,Scream at the sky,NODE_31
+NODE_30,Someone wrote your name in the sand. Backward.,Close your eyes,NODE_31,Call her name,NODE_32
+NODE_31,A footprint leads nowhere.,Dig,NODE_32,Walk away,NODE_33
+NODE_32,The Vein Atlas turns a page on its own.,Whisper a wish,NODE_33,Scream at the sky,NODE_34
+NODE_33,Your shadow walks away from you.,Cover the map,NODE_34,Feed it blood,NODE_35
+NODE_34,The Vein Atlas turns a page on its own.,Step into the mirage,NODE_35,Hide under the sand,NODE_36
+NODE_35,A whisper echoes from the dunes: 'Not yet.',Touch the stone,NODE_36,Leave it,NODE_37
+NODE_36,Something ancient stirs beneath your feet.,Step into the mirage,NODE_37,Hide under the sand,NODE_38
+NODE_37,Your shadow walks away from you.,Dig,NODE_38,Walk away,NODE_39
+NODE_38,A tower in the distance vanishes when you blink.,Speak to the voice,NODE_39,Ignore it,NODE_40
+NODE_39,The Vein Atlas turns a page on its own.,Touch the stone,NODE_40,Leave it,NODE_41
+NODE_40,You remember her laugh. The desert does too.,Step into the mirage,NODE_41,Hide under the sand,NODE_42
+NODE_41,Something ancient stirs beneath your feet.,Cover the map,NODE_42,Feed it blood,NODE_43
+NODE_42,The wind hisses in a language you almost know.,Trace the lines,NODE_43,Tear the page,NODE_44
+NODE_43,You find a shard of glass. It's warm.,Trace the lines,NODE_44,Tear the page,NODE_45
+NODE_44,The wind hisses in a language you almost know.,Step into the mirage,NODE_45,Hide under the sand,NODE_46
+NODE_45,Someone wrote your name in the sand. Backward.,Speak to the voice,NODE_46,Ignore it,NODE_47
+NODE_46,The Vein Atlas turns a page on its own.,Trace the lines,NODE_47,Tear the page,NODE_48
+NODE_47,A whisper echoes from the dunes: 'Not yet.',Whisper a wish,NODE_48,Scream at the sky,NODE_49
+NODE_48,A star falls upward.,Speak to the voice,NODE_49,Ignore it,NODE_50
+NODE_49,A footprint leads nowhere.,Dig,NODE_50,Walk away,NODE_51
+NODE_50,You feel eyes in the sky.,Dig,NODE_51,Walk away,NODE_52
+NODE_51,The wind hisses in a language you almost know.,Turn around,NODE_52,Keep walking,NODE_53
+NODE_52,You find a shard of glass. It's warm.,Whisper a wish,NODE_53,Scream at the sky,NODE_54
+NODE_53,The wind hisses in a language you almost know.,Touch the stone,NODE_54,Leave it,NODE_55
+NODE_54,A star falls upward.,Follow the light,NODE_55,Go deeper,NODE_56
+NODE_55,A tower in the distance vanishes when you blink.,Trace the lines,NODE_56,Tear the page,NODE_57
+NODE_56,A footprint leads nowhere.,Cover the map,NODE_57,Feed it blood,NODE_58
+NODE_57,A tower in the distance vanishes when you blink.,Close your eyes,NODE_58,Call her name,NODE_59
+NODE_58,You find a shard of glass. It's warm.,Cover the map,NODE_59,Feed it blood,NODE_60
+NODE_59,Your shadow walks away from you.,Step into the mirage,NODE_60,Hide under the sand,NODE_61
+NODE_60,The Vein Atlas turns a page on its own.,Close your eyes,NODE_61,Call her name,NODE_62
+NODE_61,You find a shard of glass. It's warm.,Follow the light,NODE_62,Go deeper,NODE_63
+NODE_62,A footprint leads nowhere.,Turn around,NODE_63,Keep walking,NODE_64
+NODE_63,Someone wrote your name in the sand. Backward.,Close your eyes,NODE_64,Call her name,NODE_65
+NODE_64,You feel eyes in the sky.,Dig,NODE_65,Walk away,NODE_66
+NODE_65,A tower in the distance vanishes when you blink.,Touch the stone,NODE_66,Leave it,NODE_67
+NODE_66,A tower in the distance vanishes when you blink.,Whisper a wish,NODE_67,Scream at the sky,NODE_68
+NODE_67,Something ancient stirs beneath your feet.,Speak to the voice,NODE_68,Ignore it,NODE_69
+NODE_68,You feel eyes in the sky.,Cover the map,NODE_69,Feed it blood,NODE_70
+NODE_69,Someone wrote your name in the sand. Backward.,Close your eyes,NODE_70,Call her name,NODE_71
+NODE_70,Someone wrote your name in the sand. Backward.,Close your eyes,NODE_71,Call her name,NODE_72
+NODE_71,The Vein Atlas turns a page on its own.,Turn around,NODE_72,Keep walking,NODE_73
+NODE_72,The wind hisses in a language you almost know.,Whisper a wish,NODE_73,Scream at the sky,NODE_74
+NODE_73,You remember her laugh. The desert does too.,Trace the lines,NODE_74,Tear the page,NODE_75
+NODE_74,A star falls upward.,Step into the mirage,NODE_75,Hide under the sand,NODE_76
+NODE_75,A star falls upward.,Dig,NODE_76,Walk away,NODE_77
+NODE_76,You find a shard of glass. It's warm.,Whisper a wish,NODE_77,Scream at the sky,NODE_78
+NODE_77,Your shadow walks away from you.,Speak to the voice,NODE_78,Ignore it,NODE_79
+NODE_78,A star falls upward.,Cover the map,NODE_79,Feed it blood,NODE_80
+NODE_79,A tower in the distance vanishes when you blink.,Close your eyes,NODE_80,Call her name,NODE_81
+NODE_80,The sun flickers. Or blinks.,Touch the stone,NODE_81,Leave it,NODE_82
+NODE_81,A whisper echoes from the dunes: 'Not yet.',Whisper a wish,NODE_82,Scream at the sky,NODE_83
+NODE_82,Your shadow walks away from you.,Turn around,NODE_83,Keep walking,NODE_84
+NODE_83,You feel eyes in the sky.,Close your eyes,NODE_84,Call her name,NODE_85
+NODE_84,You remember her laugh. The desert does too.,Whisper a wish,NODE_85,Scream at the sky,NODE_86
+NODE_85,Your shadow walks away from you.,Step into the mirage,NODE_86,Hide under the sand,NODE_87
+NODE_86,The book hums. It’s listening.,Trace the lines,NODE_87,Tear the page,NODE_88
+NODE_87,You remember her laugh. The desert does too.,Speak to the voice,NODE_88,Ignore it,NODE_89
+NODE_88,You remember her laugh. The desert does too.,Whisper a wish,NODE_89,Scream at the sky,NODE_90
+NODE_89,Something ancient stirs beneath your feet.,Step into the mirage,NODE_90,Hide under the sand,NODE_91
+NODE_90,You remember her laugh. The desert does too.,Close your eyes,NODE_91,Call her name,NODE_92
+NODE_91,A whisper echoes from the dunes: 'Not yet.',Follow the light,NODE_92,Go deeper,NODE_93
+NODE_92,The sun flickers. Or blinks.,Trace the lines,NODE_93,Tear the page,NODE_94
+NODE_93,The sand glows faintly. A shape emerges.,Follow the light,NODE_94,Go deeper,NODE_95
+NODE_94,You find a shard of glass. It's warm.,Dig,NODE_95,Walk away,NODE_96
+NODE_95,A footprint leads nowhere.,Turn around,NODE_96,Keep walking,NODE_97
+NODE_96,Someone wrote your name in the sand. Backward.,Close your eyes,NODE_97,Call her name,NODE_98
+NODE_97,Your shadow walks away from you.,Close your eyes,NODE_98,Call her name,NODE_99
+NODE_98,The book hums. It’s listening.,Touch the stone,NODE_99,Leave it,NODE_100
+NODE_99,The wind hisses in a language you almost know.,Dig,NODE_100,Walk away,NODE_101
+NODE_100,Something ancient stirs beneath your feet.,Whisper a wish,NODE_101,Scream at the sky,NODE_102
+NODE_101,The Vein Atlas turns a page on its own.,Trace the lines,NODE_102,Tear the page,NODE_103
+NODE_102,The wind hisses in a language you almost know.,Close your eyes,NODE_103,Call her name,NODE_104
+NODE_103,You feel eyes in the sky.,Speak to the voice,NODE_104,Ignore it,NODE_105
+NODE_104,You feel eyes in the sky.,Turn around,NODE_105,Keep walking,NODE_106
+NODE_105,The sand glows faintly. A shape emerges.,Turn around,NODE_106,Keep walking,NODE_107
+NODE_106,A tower in the distance vanishes when you blink.,Speak to the voice,NODE_107,Ignore it,NODE_108
+NODE_107,Something ancient stirs beneath your feet.,Whisper a wish,NODE_108,Scream at the sky,NODE_109
+NODE_108,A whisper echoes from the dunes: 'Not yet.',Trace the lines,NODE_109,Tear the page,NODE_110
+NODE_109,You find a shard of glass. It's warm.,Turn around,NODE_110,Keep walking,NODE_111
+NODE_110,Something ancient stirs beneath your feet.,Turn around,NODE_111,Keep walking,NODE_112
+NODE_111,A star falls upward.,Speak to the voice,NODE_112,Ignore it,NODE_113
+NODE_112,The book hums. It’s listening.,Turn around,NODE_113,Keep walking,NODE_114
+NODE_113,Something ancient stirs beneath your feet.,Touch the stone,NODE_114,Leave it,NODE_115
+NODE_114,A tower in the distance vanishes when you blink.,Close your eyes,NODE_115,Call her name,NODE_116
+NODE_115,You feel eyes in the sky.,Dig,NODE_116,Walk away,NODE_117
+NODE_116,The sand glows faintly. A shape emerges.,Touch the stone,NODE_117,Leave it,NODE_118
+NODE_117,You remember her laugh. The desert does too.,Dig,NODE_118,Walk away,NODE_119
+NODE_118,Someone wrote your name in the sand. Backward.,Trace the lines,NODE_119,Tear the page,NODE_120
+NODE_119,You find a shard of glass. It's warm.,Turn around,NODE_120,Keep walking,NODE_121
+NODE_120,A star falls upward.,Dig,NODE_121,Walk away,NODE_122
+NODE_121,The Vein Atlas turns a page on its own.,Turn around,NODE_122,Keep walking,NODE_123
+NODE_122,Something ancient stirs beneath your feet.,Close your eyes,NODE_123,Call her name,NODE_124
+NODE_123,Something ancient stirs beneath your feet.,Turn around,NODE_124,Keep walking,NODE_125
+NODE_124,Someone wrote your name in the sand. Backward.,Turn around,NODE_125,Keep walking,NODE_126
+NODE_125,Something ancient stirs beneath your feet.,Trace the lines,NODE_126,Tear the page,NODE_127
+NODE_126,A whisper echoes from the dunes: 'Not yet.',Cover the map,NODE_127,Feed it blood,NODE_128
+NODE_127,A whisper echoes from the dunes: 'Not yet.',Step into the mirage,NODE_128,Hide under the sand,NODE_129
+NODE_128,Your shadow walks away from you.,Whisper a wish,NODE_129,Scream at the sky,NODE_130
+NODE_129,Something ancient stirs beneath your feet.,Dig,NODE_130,Walk away,NODE_131
+NODE_130,A footprint leads nowhere.,Step into the mirage,NODE_131,Hide under the sand,NODE_132
+NODE_131,The Vein Atlas turns a page on its own.,Cover the map,NODE_132,Feed it blood,NODE_133
+NODE_132,The wind hisses in a language you almost know.,Trace the lines,NODE_133,Tear the page,NODE_134
+NODE_133,A footprint leads nowhere.,Whisper a wish,NODE_134,Scream at the sky,NODE_135
+NODE_134,Someone wrote your name in the sand. Backward.,Cover the map,NODE_135,Feed it blood,NODE_136
+NODE_135,Your shadow walks away from you.,Dig,NODE_136,Walk away,NODE_137
+NODE_136,A whisper echoes from the dunes: 'Not yet.',Follow the light,NODE_137,Go deeper,NODE_138
+NODE_137,A star falls upward.,Step into the mirage,NODE_138,Hide under the sand,NODE_139
+NODE_138,The wind hisses in a language you almost know.,Cover the map,NODE_139,Feed it blood,NODE_140
+NODE_139,You find a shard of glass. It's warm.,Follow the light,NODE_140,Go deeper,NODE_141
+NODE_140,Someone wrote your name in the sand. Backward.,Close your eyes,NODE_141,Call her name,NODE_142
+NODE_141,The wind hisses in a language you almost know.,Dig,NODE_142,Walk away,NODE_143
+NODE_142,The sand glows faintly. A shape emerges.,Whisper a wish,NODE_143,Scream at the sky,NODE_144
+NODE_143,The Vein Atlas turns a page on its own.,Dig,NODE_144,Walk away,NODE_145
+NODE_144,You feel eyes in the sky.,Close your eyes,NODE_145,Call her name,NODE_146
+NODE_145,A star falls upward.,Speak to the voice,NODE_146,Ignore it,NODE_147
+NODE_146,Something ancient stirs beneath your feet.,Step into the mirage,NODE_147,Hide under the sand,NODE_148
+NODE_147,Something ancient stirs beneath your feet.,Cover the map,NODE_148,Feed it blood,NODE_149
+NODE_148,Your shadow walks away from you.,Speak to the voice,NODE_149,Ignore it,NODE_150
+NODE_149,Someone wrote your name in the sand. Backward.,Speak to the voice,NODE_150,Ignore it,NODE_151
+NODE_150,A star falls upward.,Turn around,NODE_151,Keep walking,NODE_152
+NODE_151,The Vein Atlas turns a page on its own.,Step into the mirage,NODE_152,Hide under the sand,NODE_153
+NODE_152,The book hums. It’s listening.,Dig,NODE_153,Walk away,NODE_154
+NODE_153,A star falls upward.,Follow the light,NODE_154,Go deeper,NODE_155
+NODE_154,The book hums. It’s listening.,Dig,NODE_155,Walk away,NODE_156
+NODE_155,You find a shard of glass. It's warm.,Dig,NODE_156,Walk away,NODE_157
+NODE_156,Your shadow walks away from you.,Follow the light,NODE_157,Go deeper,NODE_158
+NODE_157,A star falls upward.,Speak to the voice,NODE_158,Ignore it,NODE_159
+NODE_158,A tower in the distance vanishes when you blink.,Follow the light,NODE_159,Go deeper,NODE_160
+NODE_159,The Vein Atlas turns a page on its own.,Cover the map,NODE_160,Feed it blood,NODE_161
+NODE_160,A tower in the distance vanishes when you blink.,Whisper a wish,NODE_161,Scream at the sky,NODE_162
+NODE_161,The wind hisses in a language you almost know.,Touch the stone,NODE_162,Leave it,NODE_163
+NODE_162,A footprint leads nowhere.,Close your eyes,NODE_163,Call her name,NODE_164
+NODE_163,The sand glows faintly. A shape emerges.,Whisper a wish,NODE_164,Scream at the sky,NODE_165
+NODE_164,The sun flickers. Or blinks.,Cover the map,NODE_165,Feed it blood,NODE_166
+NODE_165,Someone wrote your name in the sand. Backward.,Trace the lines,NODE_166,Tear the page,NODE_167
+NODE_166,You remember her laugh. The desert does too.,Step into the mirage,NODE_167,Hide under the sand,NODE_168
+NODE_167,A footprint leads nowhere.,Trace the lines,NODE_168,Tear the page,NODE_169
+NODE_168,A star falls upward.,Cover the map,NODE_169,Feed it blood,NODE_170
+NODE_169,Someone wrote your name in the sand. Backward.,Close your eyes,NODE_170,Call her name,NODE_171
+NODE_170,Your shadow walks away from you.,Cover the map,NODE_171,Feed it blood,NODE_172
+NODE_171,Something ancient stirs beneath your feet.,Touch the stone,NODE_172,Leave it,NODE_173
+NODE_172,Your shadow walks away from you.,Trace the lines,NODE_173,Tear the page,NODE_174
+NODE_173,Something ancient stirs beneath your feet.,Turn around,NODE_174,Keep walking,NODE_175
+NODE_174,The wind hisses in a language you almost know.,Cover the map,NODE_175,Feed it blood,NODE_176
+NODE_175,A star falls upward.,Trace the lines,NODE_176,Tear the page,NODE_177
+NODE_176,A footprint leads nowhere.,Follow the light,NODE_177,Go deeper,NODE_178
+NODE_177,The Vein Atlas turns a page on its own.,Whisper a wish,NODE_178,Scream at the sky,NODE_179
+NODE_178,The wind hisses in a language you almost know.,Step into the mirage,NODE_179,Hide under the sand,NODE_180
+NODE_179,The wind hisses in a language you almost know.,Speak to the voice,NODE_180,Ignore it,NODE_181
+NODE_180,Someone wrote your name in the sand. Backward.,Whisper a wish,NODE_181,Scream at the sky,NODE_182
+NODE_181,You remember her laugh. The desert does too.,Turn around,NODE_182,Keep walking,NODE_183
+NODE_182,A footprint leads nowhere.,Cover the map,NODE_183,Feed it blood,NODE_184
+NODE_183,You remember her laugh. The desert does too.,Close your eyes,NODE_184,Call her name,NODE_185
+NODE_184,A tower in the distance vanishes when you blink.,Follow the light,NODE_185,Go deeper,NODE_186
+NODE_185,A footprint leads nowhere.,Turn around,NODE_186,Keep walking,NODE_187
+NODE_186,A star falls upward.,Follow the light,NODE_187,Go deeper,NODE_188
+NODE_187,Something ancient stirs beneath your feet.,Close your eyes,NODE_188,Call her name,NODE_189
+NODE_188,A star falls upward.,Close your eyes,NODE_189,Call her name,NODE_190
+NODE_189,A star falls upward.,Speak to the voice,NODE_190,Ignore it,NODE_191
+NODE_190,The sand glows faintly. A shape emerges.,Cover the map,NODE_191,Feed it blood,NODE_192
+NODE_191,Your shadow walks away from you.,Step into the mirage,NODE_192,Hide under the sand,NODE_193
+NODE_192,The sand glows faintly. A shape emerges.,Speak to the voice,NODE_193,Ignore it,NODE_194
+NODE_193,You remember her laugh. The desert does too.,Cover the map,NODE_194,Feed it blood,NODE_195
+NODE_194,A tower in the distance vanishes when you blink.,Step into the mirage,NODE_195,Hide under the sand,NODE_196
+NODE_195,The sun flickers. Or blinks.,Close your eyes,NODE_196,Call her name,NODE_197
+NODE_196,The wind hisses in a language you almost know.,Follow the light,NODE_197,Go deeper,NODE_198
+NODE_197,You find a shard of glass. It's warm.,Step into the mirage,NODE_198,Hide under the sand,NODE_199
+NODE_198,A footprint leads nowhere.,Step into the mirage,NODE_199,Hide under the sand,END
+NODE_199,The Vein Atlas turns a page on its own.,Close your eyes,END,Call her name,END
+NODE_200,Something screams beneath the silence.,Light a match,NODE_201,Sleep in the open,NODE_202
+NODE_201,The Stranger’s voice echoes from nowhere: 'Almost there.',Run,NODE_202,Stand still,NODE_203
+NODE_202,Something screams beneath the silence.,Watch the stars,NODE_203,Speak to the wind,NODE_204
+NODE_203,A shadow follows you but casts no shape.,Call her name,NODE_204,Forget her name,NODE_205
+NODE_204,You feel the sky inhale.,Call her name,NODE_205,Forget her name,NODE_206
+NODE_205,You feel the sky inhale.,Call her name,NODE_206,Forget her name,NODE_207
+NODE_206,A shadow follows you but casts no shape.,Touch the map,NODE_207,Tear the map,NODE_208
+NODE_207,A shadow follows you but casts no shape.,Walk toward the shadow,NODE_208,Hide inside yourself,NODE_209
+NODE_208,An hourglass cracks. Sand bleeds upward.,Call her name,NODE_209,Forget her name,NODE_210
+NODE_209,An hourglass cracks. Sand bleeds upward.,Drink the sand,NODE_210,Bury the book,NODE_211
+NODE_210,A shadow follows you but casts no shape.,Touch the map,NODE_211,Tear the map,NODE_212
+NODE_211,A sandstorm whispers your sins.,Open your eyes,NODE_212,Close them again,NODE_213
+NODE_212,You pass a stone with her voice etched in it.,Run,NODE_213,Stand still,NODE_214
+NODE_213,A sandstorm whispers your sins.,Light a match,NODE_214,Sleep in the open,NODE_215
+NODE_214,A shadow follows you but casts no shape.,Scream back,NODE_215,Stay silent,NODE_216
+NODE_215,A sandstorm whispers your sins.,Walk toward the shadow,NODE_216,Hide inside yourself,NODE_217
+NODE_216,The dunes shift behind you. No footprints remain.,Watch the stars,NODE_217,Speak to the wind,NODE_218
+NODE_217,An hourglass cracks. Sand bleeds upward.,Light a match,NODE_218,Sleep in the open,NODE_219
+NODE_218,The stars rearrange into a warning.,Watch the stars,NODE_219,Speak to the wind,NODE_220
+NODE_219,An hourglass cracks. Sand bleeds upward.,Open your eyes,NODE_220,Close them again,NODE_221
+NODE_220,A sandstorm whispers your sins.,Run,NODE_221,Stand still,NODE_222
+NODE_221,A sandstorm whispers your sins.,Run,NODE_222,Stand still,NODE_223
+NODE_222,You pass a stone with her voice etched in it.,Dig deeper,NODE_223,Climb a dune,NODE_224
+NODE_223,You feel the sky inhale.,Run,NODE_224,Stand still,NODE_225
+NODE_224,You pass a stone with her voice etched in it.,Run,NODE_225,Stand still,NODE_226
+NODE_225,The map shows a road that loops into your name.,Light a match,NODE_226,Sleep in the open,NODE_227
+NODE_226,An hourglass cracks. Sand bleeds upward.,Watch the stars,NODE_227,Speak to the wind,NODE_228
+NODE_227,A sandstorm whispers your sins.,Light a match,NODE_228,Sleep in the open,NODE_229
+NODE_228,An hourglass cracks. Sand bleeds upward.,Call her name,NODE_229,Forget her name,NODE_230
+NODE_229,The dunes shift behind you. No footprints remain.,Walk toward the shadow,NODE_230,Hide inside yourself,NODE_231
+NODE_230,A shadow follows you but casts no shape.,Walk toward the shadow,NODE_231,Hide inside yourself,NODE_232
+NODE_231,The stars rearrange into a warning.,Light a match,NODE_232,Sleep in the open,NODE_233
+NODE_232,A sandstorm whispers your sins.,Open your eyes,NODE_233,Close them again,NODE_234
+NODE_233,A sandstorm whispers your sins.,Walk toward the shadow,NODE_234,Hide inside yourself,NODE_235
+NODE_234,The Stranger’s voice echoes from nowhere: 'Almost there.',Call her name,NODE_235,Forget her name,NODE_236
+NODE_235,You feel the sky inhale.,Walk toward the shadow,NODE_236,Hide inside yourself,NODE_237
+NODE_236,The map shows a road that loops into your name.,Call her name,NODE_237,Forget her name,NODE_238
+NODE_237,You pass a stone with her voice etched in it.,Walk toward the shadow,NODE_238,Hide inside yourself,NODE_239
+NODE_238,A shadow follows you but casts no shape.,Scream back,NODE_239,Stay silent,NODE_240
+NODE_239,The dunes shift behind you. No footprints remain.,Touch the map,NODE_240,Tear the map,NODE_241
+NODE_240,The map shows a road that loops into your name.,Touch the map,NODE_241,Tear the map,NODE_242
+NODE_241,The Stranger’s voice echoes from nowhere: 'Almost there.',Touch the map,NODE_242,Tear the map,NODE_243
+NODE_242,You pass a stone with her voice etched in it.,Touch the map,NODE_243,Tear the map,NODE_244
+NODE_243,Something screams beneath the silence.,Open your eyes,NODE_244,Close them again,NODE_245
+NODE_244,A shadow follows you but casts no shape.,Dig deeper,NODE_245,Climb a dune,NODE_246
+NODE_245,The dunes shift behind you. No footprints remain.,Touch the map,NODE_246,Tear the map,NODE_247
+NODE_246,The map shows a road that loops into your name.,Dig deeper,NODE_247,Climb a dune,NODE_248
+NODE_247,The dunes shift behind you. No footprints remain.,Walk toward the shadow,NODE_248,Hide inside yourself,NODE_249
+NODE_248,The Stranger’s voice echoes from nowhere: 'Almost there.',Light a match,NODE_249,Sleep in the open,NODE_250
+NODE_249,The map shows a road that loops into your name.,Dig deeper,NODE_250,Climb a dune,NODE_251
+NODE_250,The stars rearrange into a warning.,Light a match,NODE_251,Sleep in the open,NODE_252
+NODE_251,The Stranger’s voice echoes from nowhere: 'Almost there.',Touch the map,NODE_252,Tear the map,NODE_253
+NODE_252,You feel the sky inhale.,Drink the sand,NODE_253,Bury the book,NODE_254
+NODE_253,You pass a stone with her voice etched in it.,Watch the stars,NODE_254,Speak to the wind,NODE_255
+NODE_254,The Stranger’s voice echoes from nowhere: 'Almost there.',Call her name,NODE_255,Forget her name,NODE_256
+NODE_255,The stars rearrange into a warning.,Scream back,NODE_256,Stay silent,NODE_257
+NODE_256,The Stranger’s voice echoes from nowhere: 'Almost there.',Call her name,NODE_257,Forget her name,NODE_258
+NODE_257,You pass a stone with her voice etched in it.,Open your eyes,NODE_258,Close them again,NODE_259
+NODE_258,You pass a stone with her voice etched in it.,Touch the map,NODE_259,Tear the map,NODE_260
+NODE_259,The stars rearrange into a warning.,Touch the map,NODE_260,Tear the map,NODE_261
+NODE_260,The map shows a road that loops into your name.,Drink the sand,NODE_261,Bury the book,NODE_262
+NODE_261,An hourglass cracks. Sand bleeds upward.,Walk toward the shadow,NODE_262,Hide inside yourself,NODE_263
+NODE_262,A sandstorm whispers your sins.,Scream back,NODE_263,Stay silent,NODE_264
+NODE_263,The map shows a road that loops into your name.,Run,NODE_264,Stand still,NODE_265
+NODE_264,You pass a stone with her voice etched in it.,Scream back,NODE_265,Stay silent,NODE_266
+NODE_265,The map shows a road that loops into your name.,Scream back,NODE_266,Stay silent,NODE_267
+NODE_266,Something screams beneath the silence.,Scream back,NODE_267,Stay silent,NODE_268
+NODE_267,The dunes shift behind you. No footprints remain.,Walk toward the shadow,NODE_268,Hide inside yourself,NODE_269
+NODE_268,A sandstorm whispers your sins.,Open your eyes,NODE_269,Close them again,NODE_270
+NODE_269,You pass a stone with her voice etched in it.,Light a match,NODE_270,Sleep in the open,NODE_271
+NODE_270,An hourglass cracks. Sand bleeds upward.,Drink the sand,NODE_271,Bury the book,NODE_272
+NODE_271,The dunes shift behind you. No footprints remain.,Dig deeper,NODE_272,Climb a dune,NODE_273
+NODE_272,A sandstorm whispers your sins.,Touch the map,NODE_273,Tear the map,NODE_274
+NODE_273,You pass a stone with her voice etched in it.,Scream back,NODE_274,Stay silent,NODE_275
+NODE_274,You pass a stone with her voice etched in it.,Open your eyes,NODE_275,Close them again,NODE_276
+NODE_275,The dunes shift behind you. No footprints remain.,Light a match,NODE_276,Sleep in the open,NODE_277
+NODE_276,The Stranger’s voice echoes from nowhere: 'Almost there.',Drink the sand,NODE_277,Bury the book,NODE_278
+NODE_277,The dunes shift behind you. No footprints remain.,Run,NODE_278,Stand still,NODE_279
+NODE_278,The map shows a road that loops into your name.,Open your eyes,NODE_279,Close them again,NODE_280
+NODE_279,You feel the sky inhale.,Touch the map,NODE_280,Tear the map,NODE_281
+NODE_280,You feel the sky inhale.,Light a match,NODE_281,Sleep in the open,NODE_282
+NODE_281,The dunes shift behind you. No footprints remain.,Walk toward the shadow,NODE_282,Hide inside yourself,NODE_283
+NODE_282,The dunes shift behind you. No footprints remain.,Drink the sand,NODE_283,Bury the book,NODE_284
+NODE_283,The dunes shift behind you. No footprints remain.,Touch the map,NODE_284,Tear the map,NODE_285
+NODE_284,The map shows a road that loops into your name.,Touch the map,NODE_285,Tear the map,NODE_286
+NODE_285,An hourglass cracks. Sand bleeds upward.,Open your eyes,NODE_286,Close them again,NODE_287
+NODE_286,The dunes shift behind you. No footprints remain.,Call her name,NODE_287,Forget her name,NODE_288
+NODE_287,Something screams beneath the silence.,Run,NODE_288,Stand still,NODE_289
+NODE_288,A shadow follows you but casts no shape.,Drink the sand,NODE_289,Bury the book,NODE_290
+NODE_289,You feel the sky inhale.,Scream back,NODE_290,Stay silent,NODE_291
+NODE_290,You pass a stone with her voice etched in it.,Scream back,NODE_291,Stay silent,NODE_292
+NODE_291,Something screams beneath the silence.,Open your eyes,NODE_292,Close them again,NODE_293
+NODE_292,The stars rearrange into a warning.,Scream back,NODE_293,Stay silent,NODE_294
+NODE_293,Something screams beneath the silence.,Drink the sand,NODE_294,Bury the book,NODE_295
+NODE_294,A sandstorm whispers your sins.,Call her name,NODE_295,Forget her name,NODE_296
+NODE_295,The dunes shift behind you. No footprints remain.,Call her name,NODE_296,Forget her name,NODE_297
+NODE_296,The dunes shift behind you. No footprints remain.,Call her name,NODE_297,Forget her name,NODE_298
+NODE_297,The map shows a road that loops into your name.,Drink the sand,NODE_298,Bury the book,NODE_299
+NODE_298,A sandstorm whispers your sins.,Dig deeper,NODE_299,Climb a dune,NODE_300
+NODE_299,You feel the sky inhale.,Open your eyes,NODE_300,Close them again,NODE_301
+NODE_300,The stars rearrange into a warning.,Open your eyes,NODE_301,Close them again,NODE_302
+NODE_301,A sandstorm whispers your sins.,Touch the map,NODE_302,Tear the map,NODE_303
+NODE_302,The dunes shift behind you. No footprints remain.,Dig deeper,NODE_303,Climb a dune,NODE_304
+NODE_303,A shadow follows you but casts no shape.,Run,NODE_304,Stand still,NODE_305
+NODE_304,A sandstorm whispers your sins.,Scream back,NODE_305,Stay silent,NODE_306
+NODE_305,A shadow follows you but casts no shape.,Watch the stars,NODE_306,Speak to the wind,NODE_307
+NODE_306,A shadow follows you but casts no shape.,Light a match,NODE_307,Sleep in the open,NODE_308
+NODE_307,The Stranger’s voice echoes from nowhere: 'Almost there.',Watch the stars,NODE_308,Speak to the wind,NODE_309
+NODE_308,Something screams beneath the silence.,Touch the map,NODE_309,Tear the map,NODE_310
+NODE_309,You pass a stone with her voice etched in it.,Run,NODE_310,Stand still,NODE_311
+NODE_310,Something screams beneath the silence.,Run,NODE_311,Stand still,NODE_312
+NODE_311,You pass a stone with her voice etched in it.,Drink the sand,NODE_312,Bury the book,NODE_313
+NODE_312,The stars rearrange into a warning.,Drink the sand,NODE_313,Bury the book,NODE_314
+NODE_313,The stars rearrange into a warning.,Dig deeper,NODE_314,Climb a dune,NODE_315
+NODE_314,The dunes shift behind you. No footprints remain.,Light a match,NODE_315,Sleep in the open,NODE_316
+NODE_315,A sandstorm whispers your sins.,Dig deeper,NODE_316,Climb a dune,NODE_317
+NODE_316,The dunes shift behind you. No footprints remain.,Light a match,NODE_317,Sleep in the open,NODE_318
+NODE_317,You feel the sky inhale.,Open your eyes,NODE_318,Close them again,NODE_319
+NODE_318,An hourglass cracks. Sand bleeds upward.,Light a match,NODE_319,Sleep in the open,NODE_320
+NODE_319,The map shows a road that loops into your name.,Dig deeper,NODE_320,Climb a dune,NODE_321
+NODE_320,The map shows a road that loops into your name.,Drink the sand,NODE_321,Bury the book,NODE_322
+NODE_321,You feel the sky inhale.,Open your eyes,NODE_322,Close them again,NODE_323
+NODE_322,Something screams beneath the silence.,Open your eyes,NODE_323,Close them again,NODE_324
+NODE_323,Something screams beneath the silence.,Open your eyes,NODE_324,Close them again,NODE_325
+NODE_324,You feel the sky inhale.,Open your eyes,NODE_325,Close them again,NODE_326
+NODE_325,You pass a stone with her voice etched in it.,Walk toward the shadow,NODE_326,Hide inside yourself,NODE_327
+NODE_326,The dunes shift behind you. No footprints remain.,Run,NODE_327,Stand still,NODE_328
+NODE_327,The dunes shift behind you. No footprints remain.,Watch the stars,NODE_328,Speak to the wind,NODE_329
+NODE_328,Something screams beneath the silence.,Watch the stars,NODE_329,Speak to the wind,NODE_330
+NODE_329,A sandstorm whispers your sins.,Light a match,NODE_330,Sleep in the open,NODE_331
+NODE_330,You feel the sky inhale.,Watch the stars,NODE_331,Speak to the wind,NODE_332
+NODE_331,You pass a stone with her voice etched in it.,Run,NODE_332,Stand still,NODE_333
+NODE_332,A sandstorm whispers your sins.,Dig deeper,NODE_333,Climb a dune,NODE_334
+NODE_333,The map shows a road that loops into your name.,Open your eyes,NODE_334,Close them again,NODE_335
+NODE_334,Something screams beneath the silence.,Call her name,NODE_335,Forget her name,NODE_336
+NODE_335,You feel the sky inhale.,Light a match,NODE_336,Sleep in the open,NODE_337
+NODE_336,You feel the sky inhale.,Light a match,NODE_337,Sleep in the open,NODE_338
+NODE_337,An hourglass cracks. Sand bleeds upward.,Call her name,NODE_338,Forget her name,NODE_339
+NODE_338,You feel the sky inhale.,Touch the map,NODE_339,Tear the map,NODE_340
+NODE_339,The Stranger’s voice echoes from nowhere: 'Almost there.',Drink the sand,NODE_340,Bury the book,NODE_341
+NODE_340,You pass a stone with her voice etched in it.,Walk toward the shadow,NODE_341,Hide inside yourself,NODE_342
+NODE_341,The dunes shift behind you. No footprints remain.,Watch the stars,NODE_342,Speak to the wind,NODE_343
+NODE_342,An hourglass cracks. Sand bleeds upward.,Open your eyes,NODE_343,Close them again,NODE_344
+NODE_343,The Stranger’s voice echoes from nowhere: 'Almost there.',Light a match,NODE_344,Sleep in the open,NODE_345
+NODE_344,You pass a stone with her voice etched in it.,Touch the map,NODE_345,Tear the map,NODE_346
+NODE_345,A sandstorm whispers your sins.,Touch the map,NODE_346,Tear the map,NODE_347
+NODE_346,You pass a stone with her voice etched in it.,Open your eyes,NODE_347,Close them again,NODE_348
+NODE_347,An hourglass cracks. Sand bleeds upward.,Call her name,NODE_348,Forget her name,NODE_349
+NODE_348,An hourglass cracks. Sand bleeds upward.,Drink the sand,NODE_349,Bury the book,NODE_350
+NODE_349,A sandstorm whispers your sins.,Walk toward the shadow,NODE_350,Hide inside yourself,NODE_351
+NODE_350,The dunes shift behind you. No footprints remain.,Watch the stars,NODE_351,Speak to the wind,NODE_352
+NODE_351,The stars rearrange into a warning.,Dig deeper,NODE_352,Climb a dune,NODE_353
+NODE_352,The Stranger’s voice echoes from nowhere: 'Almost there.',Light a match,NODE_353,Sleep in the open,NODE_354
+NODE_353,You pass a stone with her voice etched in it.,Scream back,NODE_354,Stay silent,NODE_355
+NODE_354,You pass a stone with her voice etched in it.,Call her name,NODE_355,Forget her name,NODE_356
+NODE_355,The stars rearrange into a warning.,Dig deeper,NODE_356,Climb a dune,NODE_357
+NODE_356,You pass a stone with her voice etched in it.,Walk toward the shadow,NODE_357,Hide inside yourself,NODE_358
+NODE_357,The Stranger’s voice echoes from nowhere: 'Almost there.',Walk toward the shadow,NODE_358,Hide inside yourself,NODE_359
+NODE_358,A shadow follows you but casts no shape.,Touch the map,NODE_359,Tear the map,NODE_360
+NODE_359,You pass a stone with her voice etched in it.,Drink the sand,NODE_360,Bury the book,NODE_361
+NODE_360,A shadow follows you but casts no shape.,Call her name,NODE_361,Forget her name,NODE_362
+NODE_361,A sandstorm whispers your sins.,Open your eyes,NODE_362,Close them again,NODE_363
+NODE_362,You pass a stone with her voice etched in it.,Drink the sand,NODE_363,Bury the book,NODE_364
+NODE_363,A sandstorm whispers your sins.,Open your eyes,NODE_364,Close them again,NODE_365
+NODE_364,A shadow follows you but casts no shape.,Dig deeper,NODE_365,Climb a dune,NODE_366
+NODE_365,The dunes shift behind you. No footprints remain.,Scream back,NODE_366,Stay silent,NODE_367
+NODE_366,The map shows a road that loops into your name.,Light a match,NODE_367,Sleep in the open,NODE_368
+NODE_367,A shadow follows you but casts no shape.,Watch the stars,NODE_368,Speak to the wind,NODE_369
+NODE_368,Something screams beneath the silence.,Scream back,NODE_369,Stay silent,NODE_370
+NODE_369,A shadow follows you but casts no shape.,Watch the stars,NODE_370,Speak to the wind,NODE_371
+NODE_370,The Stranger’s voice echoes from nowhere: 'Almost there.',Run,NODE_371,Stand still,NODE_372
+NODE_371,Something screams beneath the silence.,Watch the stars,NODE_372,Speak to the wind,NODE_373
+NODE_372,A sandstorm whispers your sins.,Walk toward the shadow,NODE_373,Hide inside yourself,NODE_374
+NODE_373,You feel the sky inhale.,Run,NODE_374,Stand still,NODE_375
+NODE_374,You feel the sky inhale.,Touch the map,NODE_375,Tear the map,NODE_376
+NODE_375,The map shows a road that loops into your name.,Call her name,NODE_376,Forget her name,NODE_377
+NODE_376,The stars rearrange into a warning.,Dig deeper,NODE_377,Climb a dune,NODE_378
+NODE_377,Something screams beneath the silence.,Watch the stars,NODE_378,Speak to the wind,NODE_379
+NODE_378,A sandstorm whispers your sins.,Run,NODE_379,Stand still,NODE_380
+NODE_379,The map shows a road that loops into your name.,Dig deeper,NODE_380,Climb a dune,NODE_381
+NODE_380,The Stranger’s voice echoes from nowhere: 'Almost there.',Touch the map,NODE_381,Tear the map,NODE_382
+NODE_381,The dunes shift behind you. No footprints remain.,Run,NODE_382,Stand still,NODE_383
+NODE_382,A sandstorm whispers your sins.,Open your eyes,NODE_383,Close them again,NODE_384
+NODE_383,The Stranger’s voice echoes from nowhere: 'Almost there.',Light a match,NODE_384,Sleep in the open,NODE_385
+NODE_384,A shadow follows you but casts no shape.,Dig deeper,NODE_385,Climb a dune,NODE_386
+NODE_385,The dunes shift behind you. No footprints remain.,Dig deeper,NODE_386,Climb a dune,NODE_387
+NODE_386,The stars rearrange into a warning.,Call her name,NODE_387,Forget her name,NODE_388
+NODE_387,Something screams beneath the silence.,Drink the sand,NODE_388,Bury the book,NODE_389
+NODE_388,A sandstorm whispers your sins.,Light a match,NODE_389,Sleep in the open,NODE_390
+NODE_389,You pass a stone with her voice etched in it.,Walk toward the shadow,NODE_390,Hide inside yourself,NODE_391
+NODE_390,The stars rearrange into a warning.,Touch the map,NODE_391,Tear the map,NODE_392
+NODE_391,A sandstorm whispers your sins.,Scream back,NODE_392,Stay silent,NODE_393
+NODE_392,An hourglass cracks. Sand bleeds upward.,Touch the map,NODE_393,Tear the map,NODE_394
+NODE_393,The map shows a road that loops into your name.,Walk toward the shadow,NODE_394,Hide inside yourself,NODE_395
+NODE_394,The dunes shift behind you. No footprints remain.,Touch the map,NODE_395,Tear the map,NODE_396
+NODE_395,The dunes shift behind you. No footprints remain.,Touch the map,NODE_396,Tear the map,NODE_397
+NODE_396,You pass a stone with her voice etched in it.,Open your eyes,NODE_397,Close them again,NODE_398
+NODE_397,The map shows a road that loops into your name.,Touch the map,NODE_398,Tear the map,NODE_399
+NODE_398,A sandstorm whispers your sins.,Light a match,NODE_399,Sleep in the open,END
+NODE_399,The map shows a road that loops into your name.,Dig deeper,END,Climb a dune,END
+NODE_400,You walk through the ribs of something older than memory.,Touch its eye,NODE_401,Bow your head,NODE_402
+NODE_401,You meet a man with no face. He speaks only in your thoughts.,Open the door,NODE_402,Walk away,NODE_403
+NODE_402,The Vein Atlas burns with new glyphs. They scream when read.,Open the door,NODE_403,Walk away,NODE_404
+NODE_403,A statue of yourself waits on a throne of hourglasses.,Sing to it,NODE_404,Challenge it,NODE_405
+NODE_404,A door stands in the sand. A hand knocks from the other side.,Draw the glyph,NODE_405,Tear the page,NODE_406
+NODE_405,A centipede the size of a canyon coils around a buried temple.,Step into the light,NODE_406,Cover your eyes,NODE_407
+NODE_406,A bird of molten glass lands beside you. It whispers your childhood name.,Offer blood,NODE_407,Offer sand,NODE_408
+NODE_407,A bird of molten glass lands beside you. It whispers your childhood name.,Follow the voice,NODE_408,Ignore the sound,NODE_409
+NODE_408,A bird of molten glass lands beside you. It whispers your childhood name.,Speak its name,NODE_409,Remain silent,NODE_410
+NODE_409,You glimpse a serpent woven from constellations.,Step into the light,NODE_410,Cover your eyes,NODE_411
+NODE_410,You walk through the ribs of something older than memory.,Step into the light,NODE_411,Cover your eyes,NODE_412
+NODE_411,A colossal beast made of mirrors slithers across the horizon.,Speak its name,NODE_412,Remain silent,NODE_413
+NODE_412,A scar in the air bleeds starlight when touched.,Step into the light,NODE_413,Cover your eyes,NODE_414
+NODE_413,Your shadow becomes a creature with its own opinions.,Open the door,NODE_414,Walk away,NODE_415
+NODE_414,Your shadow becomes a creature with its own opinions.,Speak its name,NODE_415,Remain silent,NODE_416
+NODE_415,Something vast stirs beneath your feet. The dunes breathe.,Open the door,NODE_416,Walk away,NODE_417
+NODE_416,"The sand parts, a cathedral of bone rises from beneath.",Open the door,NODE_417,Walk away,NODE_418
+NODE_417,Something vast stirs beneath your feet. The dunes breathe.,Offer blood,NODE_418,Offer sand,NODE_419
+NODE_418,You meet a man with no face. He speaks only in your thoughts.,Climb it,NODE_419,Circle around,NODE_420
+NODE_419,You witness a duel between two suns. The loser falls.,Climb it,NODE_420,Circle around,NODE_421
+NODE_420,A bird of molten glass lands beside you. It whispers your childhood name.,Offer blood,NODE_421,Offer sand,NODE_422
+NODE_421,A bird of molten glass lands beside you. It whispers your childhood name.,Sing to it,NODE_422,Challenge it,NODE_423
+NODE_422,You walk through the ribs of something older than memory.,Speak its name,NODE_423,Remain silent,NODE_424
+NODE_423,You glimpse a serpent woven from constellations.,Draw the glyph,NODE_424,Tear the page,NODE_425
+NODE_424,Your shadow becomes a creature with its own opinions.,Step into the light,NODE_425,Cover your eyes,NODE_426
+NODE_425,A herd of star-eyed deer gallops across the sky.,Approach it,NODE_426,Hide and observe,NODE_427
+NODE_426,A colossal beast made of mirrors slithers across the horizon.,Offer blood,NODE_427,Offer sand,NODE_428
+NODE_427,Something vast stirs beneath your feet. The dunes breathe.,Step into the light,NODE_428,Cover your eyes,NODE_429
+NODE_428,"The sand parts, a cathedral of bone rises from beneath.",Draw the glyph,NODE_429,Tear the page,NODE_430
+NODE_429,A colossal beast made of mirrors slithers across the horizon.,Offer blood,NODE_430,Offer sand,NODE_431
+NODE_430,You witness a duel between two suns. The loser falls.,Step into the light,NODE_431,Cover your eyes,NODE_432
+NODE_431,A statue of yourself waits on a throne of hourglasses.,Open the door,NODE_432,Walk away,NODE_433
+NODE_432,A statue of yourself waits on a throne of hourglasses.,Follow the voice,NODE_433,Ignore the sound,NODE_434
+NODE_433,A centipede the size of a canyon coils around a buried temple.,Open the door,NODE_434,Walk away,NODE_435
+NODE_434,A centipede the size of a canyon coils around a buried temple.,Sing to it,NODE_435,Challenge it,NODE_436
+NODE_435,A door stands in the sand. A hand knocks from the other side.,Step into the light,NODE_436,Cover your eyes,NODE_437
+NODE_436,A scar in the air bleeds starlight when touched.,Draw the glyph,NODE_437,Tear the page,NODE_438
+NODE_437,A centipede the size of a canyon coils around a buried temple.,Offer blood,NODE_438,Offer sand,NODE_439
+NODE_438,A bird of molten glass lands beside you. It whispers your childhood name.,Climb it,NODE_439,Circle around,NODE_440
+NODE_439,Something vast stirs beneath your feet. The dunes breathe.,Open the door,NODE_440,Walk away,NODE_441
+NODE_440,A centipede the size of a canyon coils around a buried temple.,Climb it,NODE_441,Circle around,NODE_442
+NODE_441,"The sand parts, a cathedral of bone rises from beneath.",Climb it,NODE_442,Circle around,NODE_443
+NODE_442,You meet a man with no face. He speaks only in your thoughts.,Draw the glyph,NODE_443,Tear the page,NODE_444
+NODE_443,A bird of molten glass lands beside you. It whispers your childhood name.,Step into the light,NODE_444,Cover your eyes,NODE_445
+NODE_444,A herd of star-eyed deer gallops across the sky.,Offer blood,NODE_445,Offer sand,NODE_446
+NODE_445,A colossal beast made of mirrors slithers across the horizon.,Touch its eye,NODE_446,Bow your head,NODE_447
+NODE_446,You witness a duel between two suns. The loser falls.,Offer blood,NODE_447,Offer sand,NODE_448
+NODE_447,You meet a man with no face. He speaks only in your thoughts.,Approach it,NODE_448,Hide and observe,NODE_449
+NODE_448,A door stands in the sand. A hand knocks from the other side.,Approach it,NODE_449,Hide and observe,NODE_450
+NODE_449,You walk through the ribs of something older than memory.,Offer blood,NODE_450,Offer sand,NODE_451
+NODE_450,A statue of yourself waits on a throne of hourglasses.,Touch its eye,NODE_451,Bow your head,NODE_452
+NODE_451,A statue of yourself waits on a throne of hourglasses.,Step into the light,NODE_452,Cover your eyes,NODE_453
+NODE_452,Your shadow becomes a creature with its own opinions.,Touch its eye,NODE_453,Bow your head,NODE_454
+NODE_453,Your shadow becomes a creature with its own opinions.,Offer blood,NODE_454,Offer sand,NODE_455
+NODE_454,A herd of star-eyed deer gallops across the sky.,Climb it,NODE_455,Circle around,NODE_456
+NODE_455,You walk through the ribs of something older than memory.,Open the door,NODE_456,Walk away,NODE_457
+NODE_456,"The sand parts, a cathedral of bone rises from beneath.",Touch its eye,NODE_457,Bow your head,NODE_458
+NODE_457,A scar in the air bleeds starlight when touched.,Approach it,NODE_458,Hide and observe,NODE_459
+NODE_458,A herd of star-eyed deer gallops across the sky.,Step into the light,NODE_459,Cover your eyes,NODE_460
+NODE_459,You glimpse a serpent woven from constellations.,Sing to it,NODE_460,Challenge it,NODE_461
+NODE_460,Something vast stirs beneath your feet. The dunes breathe.,Approach it,NODE_461,Hide and observe,NODE_462
+NODE_461,You meet a man with no face. He speaks only in your thoughts.,Open the door,NODE_462,Walk away,NODE_463
+NODE_462,You meet a man with no face. He speaks only in your thoughts.,Open the door,NODE_463,Walk away,NODE_464
+NODE_463,"The sand parts, a cathedral of bone rises from beneath.",Open the door,NODE_464,Walk away,NODE_465
+NODE_464,Something vast stirs beneath your feet. The dunes breathe.,Draw the glyph,NODE_465,Tear the page,NODE_466
+NODE_465,A scar in the air bleeds starlight when touched.,Sing to it,NODE_466,Challenge it,NODE_467
+NODE_466,A colossal beast made of mirrors slithers across the horizon.,Touch its eye,NODE_467,Bow your head,NODE_468
+NODE_467,A statue of yourself waits on a throne of hourglasses.,Approach it,NODE_468,Hide and observe,NODE_469
+NODE_468,You witness a duel between two suns. The loser falls.,Speak its name,NODE_469,Remain silent,NODE_470
+NODE_469,A herd of star-eyed deer gallops across the sky.,Sing to it,NODE_470,Challenge it,NODE_471
+NODE_470,A statue of yourself waits on a throne of hourglasses.,Draw the glyph,NODE_471,Tear the page,NODE_472
+NODE_471,A centipede the size of a canyon coils around a buried temple.,Step into the light,NODE_472,Cover your eyes,NODE_473
+NODE_472,A statue of yourself waits on a throne of hourglasses.,Draw the glyph,NODE_473,Tear the page,NODE_474
+NODE_473,Your shadow becomes a creature with its own opinions.,Follow the voice,NODE_474,Ignore the sound,NODE_475
+NODE_474,A door stands in the sand. A hand knocks from the other side.,Approach it,NODE_475,Hide and observe,NODE_476
+NODE_475,A herd of star-eyed deer gallops across the sky.,Sing to it,NODE_476,Challenge it,NODE_477
+NODE_476,You walk through the ribs of something older than memory.,Follow the voice,NODE_477,Ignore the sound,NODE_478
+NODE_477,A statue of yourself waits on a throne of hourglasses.,Touch its eye,NODE_478,Bow your head,NODE_479
+NODE_478,You walk through the ribs of something older than memory.,Follow the voice,NODE_479,Ignore the sound,NODE_480
+NODE_479,A herd of star-eyed deer gallops across the sky.,Speak its name,NODE_480,Remain silent,NODE_481
+NODE_480,You witness a duel between two suns. The loser falls.,Draw the glyph,NODE_481,Tear the page,NODE_482
+NODE_481,A colossal beast made of mirrors slithers across the horizon.,Step into the light,NODE_482,Cover your eyes,NODE_483
+NODE_482,A herd of star-eyed deer gallops across the sky.,Sing to it,NODE_483,Challenge it,NODE_484
+NODE_483,Your shadow becomes a creature with its own opinions.,Climb it,NODE_484,Circle around,NODE_485
+NODE_484,A bird of molten glass lands beside you. It whispers your childhood name.,Touch its eye,NODE_485,Bow your head,NODE_486
+NODE_485,A scar in the air bleeds starlight when touched.,Offer blood,NODE_486,Offer sand,NODE_487
+NODE_486,You walk through the ribs of something older than memory.,Step into the light,NODE_487,Cover your eyes,NODE_488
+NODE_487,"The sand parts, a cathedral of bone rises from beneath.",Open the door,NODE_488,Walk away,NODE_489
+NODE_488,You meet a man with no face. He speaks only in your thoughts.,Offer blood,NODE_489,Offer sand,NODE_490
+NODE_489,A scar in the air bleeds starlight when touched.,Climb it,NODE_490,Circle around,NODE_491
+NODE_490,"The sand parts, a cathedral of bone rises from beneath.",Sing to it,NODE_491,Challenge it,NODE_492
+NODE_491,The Vein Atlas burns with new glyphs. They scream when read.,Sing to it,NODE_492,Challenge it,NODE_493
+NODE_492,A colossal beast made of mirrors slithers across the horizon.,Offer blood,NODE_493,Offer sand,NODE_494
+NODE_493,A door stands in the sand. A hand knocks from the other side.,Step into the light,NODE_494,Cover your eyes,NODE_495
+NODE_494,A herd of star-eyed deer gallops across the sky.,Open the door,NODE_495,Walk away,NODE_496
+NODE_495,A scar in the air bleeds starlight when touched.,Step into the light,NODE_496,Cover your eyes,NODE_497
+NODE_496,Your shadow becomes a creature with its own opinions.,Sing to it,NODE_497,Challenge it,NODE_498
+NODE_497,You meet a man with no face. He speaks only in your thoughts.,Step into the light,NODE_498,Cover your eyes,NODE_499
+NODE_498,You witness a duel between two suns. The loser falls.,Open the door,NODE_499,Walk away,NODE_500
+NODE_499,Your shadow becomes a creature with its own opinions.,Open the door,NODE_500,Walk away,NODE_501
+NODE_500,You witness a duel between two suns. The loser falls.,Touch its eye,NODE_501,Bow your head,NODE_502
+NODE_501,The Vein Atlas burns with new glyphs. They scream when read.,Approach it,NODE_502,Hide and observe,NODE_503
+NODE_502,A door stands in the sand. A hand knocks from the other side.,Speak its name,NODE_503,Remain silent,NODE_504
+NODE_503,You walk through the ribs of something older than memory.,Touch its eye,NODE_504,Bow your head,NODE_505
+NODE_504,A colossal beast made of mirrors slithers across the horizon.,Open the door,NODE_505,Walk away,NODE_506
+NODE_505,You glimpse a serpent woven from constellations.,Step into the light,NODE_506,Cover your eyes,NODE_507
+NODE_506,A herd of star-eyed deer gallops across the sky.,Draw the glyph,NODE_507,Tear the page,NODE_508
+NODE_507,"The sand parts, a cathedral of bone rises from beneath.",Climb it,NODE_508,Circle around,NODE_509
+NODE_508,You witness a duel between two suns. The loser falls.,Open the door,NODE_509,Walk away,NODE_510
+NODE_509,Your shadow becomes a creature with its own opinions.,Touch its eye,NODE_510,Bow your head,NODE_511
+NODE_510,A herd of star-eyed deer gallops across the sky.,Approach it,NODE_511,Hide and observe,NODE_512
+NODE_511,A scar in the air bleeds starlight when touched.,Touch its eye,NODE_512,Bow your head,NODE_513
+NODE_512,You meet a man with no face. He speaks only in your thoughts.,Sing to it,NODE_513,Challenge it,NODE_514
+NODE_513,Your shadow becomes a creature with its own opinions.,Step into the light,NODE_514,Cover your eyes,NODE_515
+NODE_514,A bird of molten glass lands beside you. It whispers your childhood name.,Touch its eye,NODE_515,Bow your head,NODE_516
+NODE_515,A statue of yourself waits on a throne of hourglasses.,Speak its name,NODE_516,Remain silent,NODE_517
+NODE_516,A centipede the size of a canyon coils around a buried temple.,Offer blood,NODE_517,Offer sand,NODE_518
+NODE_517,A herd of star-eyed deer gallops across the sky.,Draw the glyph,NODE_518,Tear the page,NODE_519
+NODE_518,A colossal beast made of mirrors slithers across the horizon.,Climb it,NODE_519,Circle around,NODE_520
+NODE_519,A statue of yourself waits on a throne of hourglasses.,Touch its eye,NODE_520,Bow your head,NODE_521
+NODE_520,A statue of yourself waits on a throne of hourglasses.,Follow the voice,NODE_521,Ignore the sound,NODE_522
+NODE_521,A colossal beast made of mirrors slithers across the horizon.,Offer blood,NODE_522,Offer sand,NODE_523
+NODE_522,The Vein Atlas burns with new glyphs. They scream when read.,Speak its name,NODE_523,Remain silent,NODE_524
+NODE_523,You walk through the ribs of something older than memory.,Touch its eye,NODE_524,Bow your head,NODE_525
+NODE_524,Your shadow becomes a creature with its own opinions.,Step into the light,NODE_525,Cover your eyes,NODE_526
+NODE_525,A statue of yourself waits on a throne of hourglasses.,Open the door,NODE_526,Walk away,NODE_527
+NODE_526,A statue of yourself waits on a throne of hourglasses.,Open the door,NODE_527,Walk away,NODE_528
+NODE_527,A statue of yourself waits on a throne of hourglasses.,Draw the glyph,NODE_528,Tear the page,NODE_529
+NODE_528,A statue of yourself waits on a throne of hourglasses.,Follow the voice,NODE_529,Ignore the sound,NODE_530
+NODE_529,Your shadow becomes a creature with its own opinions.,Follow the voice,NODE_530,Ignore the sound,NODE_531
+NODE_530,You walk through the ribs of something older than memory.,Step into the light,NODE_531,Cover your eyes,NODE_532
+NODE_531,A scar in the air bleeds starlight when touched.,Touch its eye,NODE_532,Bow your head,NODE_533
+NODE_532,Your shadow becomes a creature with its own opinions.,Climb it,NODE_533,Circle around,NODE_534
+NODE_533,A colossal beast made of mirrors slithers across the horizon.,Sing to it,NODE_534,Challenge it,NODE_535
+NODE_534,A door stands in the sand. A hand knocks from the other side.,Follow the voice,NODE_535,Ignore the sound,NODE_536
+NODE_535,You walk through the ribs of something older than memory.,Follow the voice,NODE_536,Ignore the sound,NODE_537
+NODE_536,A bird of molten glass lands beside you. It whispers your childhood name.,Speak its name,NODE_537,Remain silent,NODE_538
+NODE_537,A door stands in the sand. A hand knocks from the other side.,Open the door,NODE_538,Walk away,NODE_539
+NODE_538,A door stands in the sand. A hand knocks from the other side.,Open the door,NODE_539,Walk away,NODE_540
+NODE_539,You witness a duel between two suns. The loser falls.,Draw the glyph,NODE_540,Tear the page,NODE_541
+NODE_540,Something vast stirs beneath your feet. The dunes breathe.,Offer blood,NODE_541,Offer sand,NODE_542
+NODE_541,You glimpse a serpent woven from constellations.,Climb it,NODE_542,Circle around,NODE_543
+NODE_542,A bird of molten glass lands beside you. It whispers your childhood name.,Follow the voice,NODE_543,Ignore the sound,NODE_544
+NODE_543,A centipede the size of a canyon coils around a buried temple.,Climb it,NODE_544,Circle around,NODE_545
+NODE_544,A colossal beast made of mirrors slithers across the horizon.,Touch its eye,NODE_545,Bow your head,NODE_546
+NODE_545,You witness a duel between two suns. The loser falls.,Sing to it,NODE_546,Challenge it,NODE_547
+NODE_546,You glimpse a serpent woven from constellations.,Offer blood,NODE_547,Offer sand,NODE_548
+NODE_547,You meet a man with no face. He speaks only in your thoughts.,Step into the light,NODE_548,Cover your eyes,NODE_549
+NODE_548,Your shadow becomes a creature with its own opinions.,Step into the light,NODE_549,Cover your eyes,NODE_550
+NODE_549,Your shadow becomes a creature with its own opinions.,Offer blood,NODE_550,Offer sand,NODE_551
+NODE_550,The Vein Atlas burns with new glyphs. They scream when read.,Climb it,NODE_551,Circle around,NODE_552
+NODE_551,You meet a man with no face. He speaks only in your thoughts.,Sing to it,NODE_552,Challenge it,NODE_553
+NODE_552,The Vein Atlas burns with new glyphs. They scream when read.,Speak its name,NODE_553,Remain silent,NODE_554
+NODE_553,A statue of yourself waits on a throne of hourglasses.,Follow the voice,NODE_554,Ignore the sound,NODE_555
+NODE_554,Your shadow becomes a creature with its own opinions.,Climb it,NODE_555,Circle around,NODE_556
+NODE_555,You meet a man with no face. He speaks only in your thoughts.,Offer blood,NODE_556,Offer sand,NODE_557
+NODE_556,A bird of molten glass lands beside you. It whispers your childhood name.,Approach it,NODE_557,Hide and observe,NODE_558
+NODE_557,Your shadow becomes a creature with its own opinions.,Speak its name,NODE_558,Remain silent,NODE_559
+NODE_558,You witness a duel between two suns. The loser falls.,Speak its name,NODE_559,Remain silent,NODE_560
+NODE_559,A door stands in the sand. A hand knocks from the other side.,Sing to it,NODE_560,Challenge it,NODE_561
+NODE_560,A herd of star-eyed deer gallops across the sky.,Open the door,NODE_561,Walk away,NODE_562
+NODE_561,The Vein Atlas burns with new glyphs. They scream when read.,Speak its name,NODE_562,Remain silent,NODE_563
+NODE_562,"The sand parts, a cathedral of bone rises from beneath.",Open the door,NODE_563,Walk away,NODE_564
+NODE_563,Something vast stirs beneath your feet. The dunes breathe.,Offer blood,NODE_564,Offer sand,NODE_565
+NODE_564,Something vast stirs beneath your feet. The dunes breathe.,Climb it,NODE_565,Circle around,NODE_566
+NODE_565,You walk through the ribs of something older than memory.,Open the door,NODE_566,Walk away,NODE_567
+NODE_566,A bird of molten glass lands beside you. It whispers your childhood name.,Open the door,NODE_567,Walk away,NODE_568
+NODE_567,The Vein Atlas burns with new glyphs. They scream when read.,Speak its name,NODE_568,Remain silent,NODE_569
+NODE_568,A scar in the air bleeds starlight when touched.,Open the door,NODE_569,Walk away,NODE_570
+NODE_569,A door stands in the sand. A hand knocks from the other side.,Open the door,NODE_570,Walk away,NODE_571
+NODE_570,A door stands in the sand. A hand knocks from the other side.,Touch its eye,NODE_571,Bow your head,NODE_572
+NODE_571,A herd of star-eyed deer gallops across the sky.,Sing to it,NODE_572,Challenge it,NODE_573
+NODE_572,A colossal beast made of mirrors slithers across the horizon.,Offer blood,NODE_573,Offer sand,NODE_574
+NODE_573,A herd of star-eyed deer gallops across the sky.,Step into the light,NODE_574,Cover your eyes,NODE_575
+NODE_574,You walk through the ribs of something older than memory.,Touch its eye,NODE_575,Bow your head,NODE_576
+NODE_575,You meet a man with no face. He speaks only in your thoughts.,Step into the light,NODE_576,Cover your eyes,NODE_577
+NODE_576,A bird of molten glass lands beside you. It whispers your childhood name.,Approach it,NODE_577,Hide and observe,NODE_578
+NODE_577,A statue of yourself waits on a throne of hourglasses.,Sing to it,NODE_578,Challenge it,NODE_579
+NODE_578,A statue of yourself waits on a throne of hourglasses.,Touch its eye,NODE_579,Bow your head,NODE_580
+NODE_579,Something vast stirs beneath your feet. The dunes breathe.,Climb it,NODE_580,Circle around,NODE_581
+NODE_580,A centipede the size of a canyon coils around a buried temple.,Follow the voice,NODE_581,Ignore the sound,NODE_582
+NODE_581,A colossal beast made of mirrors slithers across the horizon.,Touch its eye,NODE_582,Bow your head,NODE_583
+NODE_582,"The sand parts, a cathedral of bone rises from beneath.",Follow the voice,NODE_583,Ignore the sound,NODE_584
+NODE_583,A colossal beast made of mirrors slithers across the horizon.,Step into the light,NODE_584,Cover your eyes,NODE_585
+NODE_584,Your shadow becomes a creature with its own opinions.,Approach it,NODE_585,Hide and observe,NODE_586
+NODE_585,Your shadow becomes a creature with its own opinions.,Draw the glyph,NODE_586,Tear the page,NODE_587
+NODE_586,A centipede the size of a canyon coils around a buried temple.,Step into the light,NODE_587,Cover your eyes,NODE_588
+NODE_587,A statue of yourself waits on a throne of hourglasses.,Climb it,NODE_588,Circle around,NODE_589
+NODE_588,You walk through the ribs of something older than memory.,Climb it,NODE_589,Circle around,NODE_590
+NODE_589,A statue of yourself waits on a throne of hourglasses.,Follow the voice,NODE_590,Ignore the sound,NODE_591
+NODE_590,Something vast stirs beneath your feet. The dunes breathe.,Speak its name,NODE_591,Remain silent,NODE_592
+NODE_591,A door stands in the sand. A hand knocks from the other side.,Climb it,NODE_592,Circle around,NODE_593
+NODE_592,You meet a man with no face. He speaks only in your thoughts.,Approach it,NODE_593,Hide and observe,NODE_594
+NODE_593,The Vein Atlas burns with new glyphs. They scream when read.,Climb it,NODE_594,Circle around,NODE_595
+NODE_594,A bird of molten glass lands beside you. It whispers your childhood name.,Step into the light,NODE_595,Cover your eyes,NODE_596
+NODE_595,A bird of molten glass lands beside you. It whispers your childhood name.,Draw the glyph,NODE_596,Tear the page,NODE_597
+NODE_596,"The sand parts, a cathedral of bone rises from beneath.",Open the door,NODE_597,Walk away,NODE_598
+NODE_597,A centipede the size of a canyon coils around a buried temple.,Draw the glyph,NODE_598,Tear the page,NODE_599
+NODE_598,A colossal beast made of mirrors slithers across the horizon.,Follow the voice,NODE_599,Ignore the sound,END
+NODE_599,A bird of molten glass lands beside you. It whispers your childhood name.,Touch its eye,END,Bow your head,END
+NODE_600,Your name is scratched into the sky. Backwards. Repeated.,Erase your name,NODE_601,Write hers,NODE_602
+NODE_601,The map melts when you look too long. It reforms into a face.,Look away,NODE_602,Stare back,NODE_603
+NODE_602,You step on a bone. It pulses. It’s yours.,Touch the reflection,NODE_603,Break the mirror,NODE_604
+NODE_603,"Your heartbeat echoes, from beneath the earth.",Ignore it,NODE_604,Investigate,NODE_605
+NODE_604,You wake up in a place you haven't reached yet.,Offer your voice,NODE_605,Offer your sight,NODE_606
+NODE_605,"A second moon rises, dragging the sky behind it like a torn curtain.",Touch the reflection,NODE_606,Break the mirror,NODE_607
+NODE_606,The sun refuses to rise. It stares instead.,Ignore it,NODE_607,Investigate,NODE_608
+NODE_607,The stars blink in a pattern. It's Morse code. It spells your name.,Erase your name,NODE_608,Write hers,NODE_609
+NODE_608,"Your heartbeat echoes, from beneath the earth.",Look away,NODE_609,Stare back,NODE_610
+NODE_609,Something is writing in the sand with no visible hand.,Ignore it,NODE_610,Investigate,NODE_611
+NODE_610,The ground chants a word you forgot you knew.,Run toward it,NODE_611,Sink into the sand,NODE_612
+NODE_611,The sun refuses to rise. It stares instead.,Run toward it,NODE_612,Sink into the sand,NODE_613
+NODE_612,Something massive exhales. The dunes collapse in fear.,Offer your voice,NODE_613,Offer your sight,NODE_614
+NODE_613,You wake up in a place you haven't reached yet.,Look away,NODE_614,Stare back,NODE_615
+NODE_614,"Your heartbeat echoes, from beneath the earth.",Ignore it,NODE_615,Investigate,NODE_616
+NODE_615,A child-sized figure whispers your secrets from behind your back.,Light the page,NODE_616,Read it aloud,NODE_617
+NODE_616,Your name is scratched into the sky. Backwards. Repeated.,Erase your name,NODE_617,Write hers,NODE_618
+NODE_617,The map melts when you look too long. It reforms into a face.,Touch the reflection,NODE_618,Break the mirror,NODE_619
+NODE_618,A child-sized figure whispers your secrets from behind your back.,Speak your name,NODE_619,Stay silent,NODE_620
+NODE_619,"A second moon rises, dragging the sky behind it like a torn curtain.",Run toward it,NODE_620,Sink into the sand,NODE_621
+NODE_620,The map melts when you look too long. It reforms into a face.,Sing to the sky,NODE_621,Dig deeper,NODE_622
+NODE_621,"Your heartbeat echoes, from beneath the earth.",Run toward it,NODE_622,Sink into the sand,NODE_623
+NODE_622,A tower of skin weeps light into the dunes.,Light the page,NODE_623,Read it aloud,NODE_624
+NODE_623,The sun refuses to rise. It stares instead.,Look away,NODE_624,Stare back,NODE_625
+NODE_624,Your name is scratched into the sky. Backwards. Repeated.,Follow the wind,NODE_625,Let it pass through you,NODE_626
+NODE_625,The sun refuses to rise. It stares instead.,Touch the reflection,NODE_626,Break the mirror,NODE_627
+NODE_626,Something massive exhales. The dunes collapse in fear.,Ignore it,NODE_627,Investigate,NODE_628
+NODE_627,Something massive exhales. The dunes collapse in fear.,Offer your voice,NODE_628,Offer your sight,NODE_629
+NODE_628,The ground chants a word you forgot you knew.,Look away,NODE_629,Stare back,NODE_630
+NODE_629,You wake up in a place you haven't reached yet.,Touch the reflection,NODE_630,Break the mirror,NODE_631
+NODE_630,Something is writing in the sand with no visible hand.,Follow the wind,NODE_631,Let it pass through you,NODE_632
+NODE_631,Something massive exhales. The dunes collapse in fear.,Follow the wind,NODE_632,Let it pass through you,NODE_633
+NODE_632,The sun refuses to rise. It stares instead.,Offer your voice,NODE_633,Offer your sight,NODE_634
+NODE_633,The map melts when you look too long. It reforms into a face.,Run toward it,NODE_634,Sink into the sand,NODE_635
+NODE_634,"A second moon rises, dragging the sky behind it like a torn curtain.",Run toward it,NODE_635,Sink into the sand,NODE_636
+NODE_635,The sun refuses to rise. It stares instead.,Touch the reflection,NODE_636,Break the mirror,NODE_637
+NODE_636,Your name is scratched into the sky. Backwards. Repeated.,Touch the reflection,NODE_637,Break the mirror,NODE_638
+NODE_637,The map melts when you look too long. It reforms into a face.,Look away,NODE_638,Stare back,NODE_639
+NODE_638,You step on a bone. It pulses. It’s yours.,Erase your name,NODE_639,Write hers,NODE_640
+NODE_639,You step on a bone. It pulses. It’s yours.,Touch the reflection,NODE_640,Break the mirror,NODE_641
+NODE_640,The map melts when you look too long. It reforms into a face.,Run toward it,NODE_641,Sink into the sand,NODE_642
+NODE_641,The sun refuses to rise. It stares instead.,Look away,NODE_642,Stare back,NODE_643
+NODE_642,The sun refuses to rise. It stares instead.,Offer your voice,NODE_643,Offer your sight,NODE_644
+NODE_643,Something massive exhales. The dunes collapse in fear.,Sing to the sky,NODE_644,Dig deeper,NODE_645
+NODE_644,Your name is scratched into the sky. Backwards. Repeated.,Speak your name,NODE_645,Stay silent,NODE_646
+NODE_645,Something massive exhales. The dunes collapse in fear.,Ignore it,NODE_646,Investigate,NODE_647
+NODE_646,"Your heartbeat echoes, from beneath the earth.",Touch the reflection,NODE_647,Break the mirror,NODE_648
+NODE_647,You step on a bone. It pulses. It’s yours.,Speak your name,NODE_648,Stay silent,NODE_649
+NODE_648,A book opens itself. The pages are made of eyelids.,Light the page,NODE_649,Read it aloud,NODE_650
+NODE_649,The map melts when you look too long. It reforms into a face.,Ignore it,NODE_650,Investigate,NODE_651
+NODE_650,The ground chants a word you forgot you knew.,Ignore it,NODE_651,Investigate,NODE_652
+NODE_651,"Your heartbeat echoes, from beneath the earth.",Offer your voice,NODE_652,Offer your sight,NODE_653
+NODE_652,A child-sized figure whispers your secrets from behind your back.,Offer your voice,NODE_653,Offer your sight,NODE_654
+NODE_653,The stars blink in a pattern. It's Morse code. It spells your name.,Follow the wind,NODE_654,Let it pass through you,NODE_655
+NODE_654,You find a mirror buried in the dunes. You are not in the reflection.,Offer your voice,NODE_655,Offer your sight,NODE_656
+NODE_655,"Your heartbeat echoes, from beneath the earth.",Touch the reflection,NODE_656,Break the mirror,NODE_657
+NODE_656,The ground chants a word you forgot you knew.,Offer your voice,NODE_657,Offer your sight,NODE_658
+NODE_657,A tower of skin weeps light into the dunes.,Light the page,NODE_658,Read it aloud,NODE_659
+NODE_658,"Your heartbeat echoes, from beneath the earth.",Run toward it,NODE_659,Sink into the sand,NODE_660
+NODE_659,The stars blink in a pattern. It's Morse code. It spells your name.,Look away,NODE_660,Stare back,NODE_661
+NODE_660,The map melts when you look too long. It reforms into a face.,Ignore it,NODE_661,Investigate,NODE_662
+NODE_661,You step on a bone. It pulses. It’s yours.,Sing to the sky,NODE_662,Dig deeper,NODE_663
+NODE_662,The map melts when you look too long. It reforms into a face.,Speak your name,NODE_663,Stay silent,NODE_664
+NODE_663,Something is writing in the sand with no visible hand.,Run toward it,NODE_664,Sink into the sand,NODE_665
+NODE_664,Something is writing in the sand with no visible hand.,Touch the reflection,NODE_665,Break the mirror,NODE_666
+NODE_665,You wake up in a place you haven't reached yet.,Ignore it,NODE_666,Investigate,NODE_667
+NODE_666,"A second moon rises, dragging the sky behind it like a torn curtain.",Erase your name,NODE_667,Write hers,NODE_668
+NODE_667,"A second moon rises, dragging the sky behind it like a torn curtain.",Offer your voice,NODE_668,Offer your sight,NODE_669
+NODE_668,A child-sized figure whispers your secrets from behind your back.,Offer your voice,NODE_669,Offer your sight,NODE_670
+NODE_669,The stars blink in a pattern. It's Morse code. It spells your name.,Touch the reflection,NODE_670,Break the mirror,NODE_671
+NODE_670,The map melts when you look too long. It reforms into a face.,Offer your voice,NODE_671,Offer your sight,NODE_672
+NODE_671,The stars blink in a pattern. It's Morse code. It spells your name.,Offer your voice,NODE_672,Offer your sight,NODE_673
+NODE_672,Something massive exhales. The dunes collapse in fear.,Speak your name,NODE_673,Stay silent,NODE_674
+NODE_673,A tower of skin weeps light into the dunes.,Look away,NODE_674,Stare back,NODE_675
+NODE_674,A tower of skin weeps light into the dunes.,Touch the reflection,NODE_675,Break the mirror,NODE_676
+NODE_675,Something is writing in the sand with no visible hand.,Touch the reflection,NODE_676,Break the mirror,NODE_677
+NODE_676,The ground chants a word you forgot you knew.,Follow the wind,NODE_677,Let it pass through you,NODE_678
+NODE_677,Your name is scratched into the sky. Backwards. Repeated.,Follow the wind,NODE_678,Let it pass through you,NODE_679
+NODE_678,A tower of skin weeps light into the dunes.,Ignore it,NODE_679,Investigate,NODE_680
+NODE_679,Something massive exhales. The dunes collapse in fear.,Offer your voice,NODE_680,Offer your sight,NODE_681
+NODE_680,A tower of skin weeps light into the dunes.,Erase your name,NODE_681,Write hers,NODE_682
+NODE_681,A child-sized figure whispers your secrets from behind your back.,Offer your voice,NODE_682,Offer your sight,NODE_683
+NODE_682,You step on a bone. It pulses. It’s yours.,Light the page,NODE_683,Read it aloud,NODE_684
+NODE_683,Something massive exhales. The dunes collapse in fear.,Follow the wind,NODE_684,Let it pass through you,NODE_685
+NODE_684,Something is writing in the sand with no visible hand.,Ignore it,NODE_685,Investigate,NODE_686
+NODE_685,A child-sized figure whispers your secrets from behind your back.,Speak your name,NODE_686,Stay silent,NODE_687
+NODE_686,"A second moon rises, dragging the sky behind it like a torn curtain.",Sing to the sky,NODE_687,Dig deeper,NODE_688
+NODE_687,You wake up in a place you haven't reached yet.,Light the page,NODE_688,Read it aloud,NODE_689
+NODE_688,The stars blink in a pattern. It's Morse code. It spells your name.,Erase your name,NODE_689,Write hers,NODE_690
+NODE_689,A child-sized figure whispers your secrets from behind your back.,Speak your name,NODE_690,Stay silent,NODE_691
+NODE_690,A tower of skin weeps light into the dunes.,Offer your voice,NODE_691,Offer your sight,NODE_692
+NODE_691,A child-sized figure whispers your secrets from behind your back.,Erase your name,NODE_692,Write hers,NODE_693
+NODE_692,Something is writing in the sand with no visible hand.,Look away,NODE_693,Stare back,NODE_694
+NODE_693,Something is writing in the sand with no visible hand.,Light the page,NODE_694,Read it aloud,NODE_695
+NODE_694,You find a mirror buried in the dunes. You are not in the reflection.,Run toward it,NODE_695,Sink into the sand,NODE_696
+NODE_695,The stars blink in a pattern. It's Morse code. It spells your name.,Follow the wind,NODE_696,Let it pass through you,NODE_697
+NODE_696,"Your heartbeat echoes, from beneath the earth.",Sing to the sky,NODE_697,Dig deeper,NODE_698
+NODE_697,The ground chants a word you forgot you knew.,Touch the reflection,NODE_698,Break the mirror,NODE_699
+NODE_698,A tower of skin weeps light into the dunes.,Touch the reflection,NODE_699,Break the mirror,NODE_700
+NODE_699,A child-sized figure whispers your secrets from behind your back.,Run toward it,NODE_700,Sink into the sand,NODE_701
+NODE_700,"Your heartbeat echoes, from beneath the earth.",Ignore it,NODE_701,Investigate,NODE_702
+NODE_701,Something is writing in the sand with no visible hand.,Look away,NODE_702,Stare back,NODE_703
+NODE_702,"Your heartbeat echoes, from beneath the earth.",Follow the wind,NODE_703,Let it pass through you,NODE_704
+NODE_703,Something is writing in the sand with no visible hand.,Sing to the sky,NODE_704,Dig deeper,NODE_705
+NODE_704,You wake up in a place you haven't reached yet.,Follow the wind,NODE_705,Let it pass through you,NODE_706
+NODE_705,The stars blink in a pattern. It's Morse code. It spells your name.,Look away,NODE_706,Stare back,NODE_707
+NODE_706,Something massive exhales. The dunes collapse in fear.,Follow the wind,NODE_707,Let it pass through you,NODE_708
+NODE_707,A book opens itself. The pages are made of eyelids.,Look away,NODE_708,Stare back,NODE_709
+NODE_708,The ground chants a word you forgot you knew.,Look away,NODE_709,Stare back,NODE_710
+NODE_709,The sun refuses to rise. It stares instead.,Look away,NODE_710,Stare back,NODE_711
+NODE_710,A book opens itself. The pages are made of eyelids.,Erase your name,NODE_711,Write hers,NODE_712
+NODE_711,You find a mirror buried in the dunes. You are not in the reflection.,Follow the wind,NODE_712,Let it pass through you,NODE_713
+NODE_712,Something massive exhales. The dunes collapse in fear.,Follow the wind,NODE_713,Let it pass through you,NODE_714
+NODE_713,Something massive exhales. The dunes collapse in fear.,Look away,NODE_714,Stare back,NODE_715
+NODE_714,Something is writing in the sand with no visible hand.,Light the page,NODE_715,Read it aloud,NODE_716
+NODE_715,You step on a bone. It pulses. It’s yours.,Touch the reflection,NODE_716,Break the mirror,NODE_717
+NODE_716,"Your heartbeat echoes, from beneath the earth.",Speak your name,NODE_717,Stay silent,NODE_718
+NODE_717,Something is writing in the sand with no visible hand.,Light the page,NODE_718,Read it aloud,NODE_719
+NODE_718,The stars blink in a pattern. It's Morse code. It spells your name.,Erase your name,NODE_719,Write hers,NODE_720
+NODE_719,You find a mirror buried in the dunes. You are not in the reflection.,Touch the reflection,NODE_720,Break the mirror,NODE_721
+NODE_720,The ground chants a word you forgot you knew.,Look away,NODE_721,Stare back,NODE_722
+NODE_721,The sun refuses to rise. It stares instead.,Light the page,NODE_722,Read it aloud,NODE_723
+NODE_722,"Your heartbeat echoes, from beneath the earth.",Light the page,NODE_723,Read it aloud,NODE_724
+NODE_723,You step on a bone. It pulses. It’s yours.,Light the page,NODE_724,Read it aloud,NODE_725
+NODE_724,You step on a bone. It pulses. It’s yours.,Light the page,NODE_725,Read it aloud,NODE_726
+NODE_725,The stars blink in a pattern. It's Morse code. It spells your name.,Sing to the sky,NODE_726,Dig deeper,NODE_727
+NODE_726,The stars blink in a pattern. It's Morse code. It spells your name.,Run toward it,NODE_727,Sink into the sand,NODE_728
+NODE_727,The map melts when you look too long. It reforms into a face.,Erase your name,NODE_728,Write hers,NODE_729
+NODE_728,You find a mirror buried in the dunes. You are not in the reflection.,Ignore it,NODE_729,Investigate,NODE_730
+NODE_729,A book opens itself. The pages are made of eyelids.,Erase your name,NODE_730,Write hers,NODE_731
+NODE_730,Your name is scratched into the sky. Backwards. Repeated.,Speak your name,NODE_731,Stay silent,NODE_732
+NODE_731,Something is writing in the sand with no visible hand.,Sing to the sky,NODE_732,Dig deeper,NODE_733
+NODE_732,The map melts when you look too long. It reforms into a face.,Speak your name,NODE_733,Stay silent,NODE_734
+NODE_733,The ground chants a word you forgot you knew.,Run toward it,NODE_734,Sink into the sand,NODE_735
+NODE_734,"A second moon rises, dragging the sky behind it like a torn curtain.",Offer your voice,NODE_735,Offer your sight,NODE_736
+NODE_735,You wake up in a place you haven't reached yet.,Ignore it,NODE_736,Investigate,NODE_737
+NODE_736,A book opens itself. The pages are made of eyelids.,Sing to the sky,NODE_737,Dig deeper,NODE_738
+NODE_737,You find a mirror buried in the dunes. You are not in the reflection.,Follow the wind,NODE_738,Let it pass through you,NODE_739
+NODE_738,Something is writing in the sand with no visible hand.,Offer your voice,NODE_739,Offer your sight,NODE_740
+NODE_739,Something massive exhales. The dunes collapse in fear.,Offer your voice,NODE_740,Offer your sight,NODE_741
+NODE_740,Your name is scratched into the sky. Backwards. Repeated.,Touch the reflection,NODE_741,Break the mirror,NODE_742
+NODE_741,Something is writing in the sand with no visible hand.,Erase your name,NODE_742,Write hers,NODE_743
+NODE_742,Your name is scratched into the sky. Backwards. Repeated.,Light the page,NODE_743,Read it aloud,NODE_744
+NODE_743,"Your heartbeat echoes, from beneath the earth.",Speak your name,NODE_744,Stay silent,NODE_745
+NODE_744,The ground chants a word you forgot you knew.,Touch the reflection,NODE_745,Break the mirror,NODE_746
+NODE_745,"Your heartbeat echoes, from beneath the earth.",Erase your name,NODE_746,Write hers,NODE_747
+NODE_746,"A second moon rises, dragging the sky behind it like a torn curtain.",Erase your name,NODE_747,Write hers,NODE_748
+NODE_747,The stars blink in a pattern. It's Morse code. It spells your name.,Sing to the sky,NODE_748,Dig deeper,NODE_749
+NODE_748,Something massive exhales. The dunes collapse in fear.,Ignore it,NODE_749,Investigate,NODE_750
+NODE_749,The ground chants a word you forgot you knew.,Touch the reflection,NODE_750,Break the mirror,NODE_751
+NODE_750,The stars blink in a pattern. It's Morse code. It spells your name.,Follow the wind,NODE_751,Let it pass through you,NODE_752
+NODE_751,A book opens itself. The pages are made of eyelids.,Sing to the sky,NODE_752,Dig deeper,NODE_753
+NODE_752,The map melts when you look too long. It reforms into a face.,Speak your name,NODE_753,Stay silent,NODE_754
+NODE_753,"Your heartbeat echoes, from beneath the earth.",Run toward it,NODE_754,Sink into the sand,NODE_755
+NODE_754,A book opens itself. The pages are made of eyelids.,Look away,NODE_755,Stare back,NODE_756
+NODE_755,Your name is scratched into the sky. Backwards. Repeated.,Offer your voice,NODE_756,Offer your sight,NODE_757
+NODE_756,"Your heartbeat echoes, from beneath the earth.",Light the page,NODE_757,Read it aloud,NODE_758
+NODE_757,A child-sized figure whispers your secrets from behind your back.,Ignore it,NODE_758,Investigate,NODE_759
+NODE_758,You wake up in a place you haven't reached yet.,Run toward it,NODE_759,Sink into the sand,NODE_760
+NODE_759,Something is writing in the sand with no visible hand.,Look away,NODE_760,Stare back,NODE_761
+NODE_760,The ground chants a word you forgot you knew.,Sing to the sky,NODE_761,Dig deeper,NODE_762
+NODE_761,Your name is scratched into the sky. Backwards. Repeated.,Ignore it,NODE_762,Investigate,NODE_763
+NODE_762,You wake up in a place you haven't reached yet.,Run toward it,NODE_763,Sink into the sand,NODE_764
+NODE_763,Something massive exhales. The dunes collapse in fear.,Touch the reflection,NODE_764,Break the mirror,NODE_765
+NODE_764,You step on a bone. It pulses. It’s yours.,Ignore it,NODE_765,Investigate,NODE_766
+NODE_765,A book opens itself. The pages are made of eyelids.,Run toward it,NODE_766,Sink into the sand,NODE_767
+NODE_766,The sun refuses to rise. It stares instead.,Offer your voice,NODE_767,Offer your sight,NODE_768
+NODE_767,The ground chants a word you forgot you knew.,Run toward it,NODE_768,Sink into the sand,NODE_769
+NODE_768,A tower of skin weeps light into the dunes.,Ignore it,NODE_769,Investigate,NODE_770
+NODE_769,The map melts when you look too long. It reforms into a face.,Erase your name,NODE_770,Write hers,NODE_771
+NODE_770,The map melts when you look too long. It reforms into a face.,Look away,NODE_771,Stare back,NODE_772
+NODE_771,A child-sized figure whispers your secrets from behind your back.,Run toward it,NODE_772,Sink into the sand,NODE_773
+NODE_772,A book opens itself. The pages are made of eyelids.,Sing to the sky,NODE_773,Dig deeper,NODE_774
+NODE_773,The sun refuses to rise. It stares instead.,Speak your name,NODE_774,Stay silent,NODE_775
+NODE_774,The map melts when you look too long. It reforms into a face.,Light the page,NODE_775,Read it aloud,NODE_776
+NODE_775,The map melts when you look too long. It reforms into a face.,Ignore it,NODE_776,Investigate,NODE_777
+NODE_776,A child-sized figure whispers your secrets from behind your back.,Sing to the sky,NODE_777,Dig deeper,NODE_778
+NODE_777,A book opens itself. The pages are made of eyelids.,Speak your name,NODE_778,Stay silent,NODE_779
+NODE_778,Something massive exhales. The dunes collapse in fear.,Touch the reflection,NODE_779,Break the mirror,NODE_780
+NODE_779,The ground chants a word you forgot you knew.,Speak your name,NODE_780,Stay silent,NODE_781
+NODE_780,You step on a bone. It pulses. It’s yours.,Sing to the sky,NODE_781,Dig deeper,NODE_782
+NODE_781,Your name is scratched into the sky. Backwards. Repeated.,Ignore it,NODE_782,Investigate,NODE_783
+NODE_782,A tower of skin weeps light into the dunes.,Touch the reflection,NODE_783,Break the mirror,NODE_784
+NODE_783,Something massive exhales. The dunes collapse in fear.,Erase your name,NODE_784,Write hers,NODE_785
+NODE_784,"A second moon rises, dragging the sky behind it like a torn curtain.",Run toward it,NODE_785,Sink into the sand,NODE_786
+NODE_785,The map melts when you look too long. It reforms into a face.,Touch the reflection,NODE_786,Break the mirror,NODE_787
+NODE_786,You find a mirror buried in the dunes. You are not in the reflection.,Sing to the sky,NODE_787,Dig deeper,NODE_788
+NODE_787,Something is writing in the sand with no visible hand.,Erase your name,NODE_788,Write hers,NODE_789
+NODE_788,A tower of skin weeps light into the dunes.,Sing to the sky,NODE_789,Dig deeper,NODE_790
+NODE_789,"Your heartbeat echoes, from beneath the earth.",Light the page,NODE_790,Read it aloud,NODE_791
+NODE_790,A book opens itself. The pages are made of eyelids.,Sing to the sky,NODE_791,Dig deeper,NODE_792
+NODE_791,You step on a bone. It pulses. It’s yours.,Light the page,NODE_792,Read it aloud,NODE_793
+NODE_792,"Your heartbeat echoes, from beneath the earth.",Follow the wind,NODE_793,Let it pass through you,NODE_794
+NODE_793,A child-sized figure whispers your secrets from behind your back.,Follow the wind,NODE_794,Let it pass through you,NODE_795
+NODE_794,"Your heartbeat echoes, from beneath the earth.",Offer your voice,NODE_795,Offer your sight,NODE_796
+NODE_795,The stars blink in a pattern. It's Morse code. It spells your name.,Offer your voice,NODE_796,Offer your sight,NODE_797
+NODE_796,Your name is scratched into the sky. Backwards. Repeated.,Touch the reflection,NODE_797,Break the mirror,NODE_798
+NODE_797,You wake up in a place you haven't reached yet.,Light the page,NODE_798,Read it aloud,NODE_799
+NODE_798,You find a mirror buried in the dunes. You are not in the reflection.,Erase your name,NODE_799,Write hers,END
+NODE_799,You find a mirror buried in the dunes. You are not in the reflection.,Run toward it,END,Sink into the sand,END
+BLOOD_MOON,"The Vein Atlas trembles.
+Above, the sky splits.
+A BLOOD MOON rises.
+Your name burns away, replaced by hers.
+Something ancient has made its choice.",Accept the offering,REVIVAL,Close the book,NODE_0
+REVIVAL,"You awaken beneath red light.
+Bones mended. Map sealed shut.
+You are walking now, not drifting.
+The dunes are behind you.
+Ahead: a slope, a trail, a final ascent.",Begin the climb,SUMMIT,Look back one last time,NODE_1
+SUMMIT,"You reach the summit.
+The stars hush. The air holds its breath.
+
+Duskbloom is there, facing the moon.
+Her petals gleam like water.
+You lie beside her.
+And you are no longer lost.",(Rest forever),END,(Let the wind carry your story),END
