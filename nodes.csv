@@ -1,5 +1,5 @@
 ID,Text,Option1,Option1_ID,Option2,Option2_ID
-START,"The Wayfarer – Dive into the Dunes
+TITLE,"The Wayfarer – Dive into the Dunes
 
 Begin your adventure?",YES,DEADEND,NO,GOODBYE
 DEADEND,"A rusted sign stands before you. It reads:
