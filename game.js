@@ -10,7 +10,6 @@ async function fetchData() {
 function loadEntry(id) {
   currentNodeId = id;
   const data = nodes[id];
-
   const storyDiv = document.getElementById('story');
   const optionsDiv = document.getElementById('options');
 
@@ -20,29 +19,43 @@ function loadEntry(id) {
     return;
   }
 
-  storyDiv.innerText = data.Text;
+  storyDiv.innerText = '';
   storyDiv.dataset.nodeId = data.ID;
   optionsDiv.innerHTML = '';
 
-  if (data.Option1 && data.Option1_ID) {
-    const btn1 = document.createElement('button');
-    btn1.textContent = data.Option1;
-    btn1.onclick = () => {
-      localStorage.setItem("wayfarer_save", data.Option1_ID);
-      loadEntry(data.Option1_ID);
-    };
-    optionsDiv.appendChild(btn1);
+  const text = data.Text;
+  let index = 0;
+  const speed = 15;
+
+  function type() {
+    if (index < text.length) {
+      storyDiv.innerText += text.charAt(index);
+      index++;
+      setTimeout(type, speed);
+    } else {
+      if (data.Option1 && data.Option1_ID) {
+        const btn1 = document.createElement('button');
+        btn1.textContent = data.Option1;
+        btn1.onclick = () => {
+          localStorage.setItem("wayfarer_save", data.Option1_ID);
+          loadEntry(data.Option1_ID);
+        };
+        optionsDiv.appendChild(btn1);
+      }
+
+      if (data.Option2 && data.Option2_ID) {
+        const btn2 = document.createElement('button');
+        btn2.textContent = data.Option2;
+        btn2.onclick = () => {
+          localStorage.setItem("wayfarer_save", data.Option2_ID);
+          loadEntry(data.Option2_ID);
+        };
+        optionsDiv.appendChild(btn2);
+      }
+    }
   }
 
-  if (data.Option2 && data.Option2_ID) {
-    const btn2 = document.createElement('button');
-    btn2.textContent = data.Option2;
-    btn2.onclick = () => {
-      localStorage.setItem("wayfarer_save", data.Option2_ID);
-      loadEntry(data.Option2_ID);
-    };
-    optionsDiv.appendChild(btn2);
-  }
+  type();
 }
 
 function saveGame() {
