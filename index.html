@@ -16,30 +16,48 @@
       align-items: center;
       min-height: 100vh;
     }
+
     .terminal-wrapper {
       max-width: 600px;
       width: 100%;
       text-align: left;
     }
+
     #story {
       white-space: pre-wrap;
       margin-bottom: 20px;
       line-height: 1.6;
     }
-    #options, .save-load-buttons {
+
+    #options {
       display: flex;
       flex-direction: column;
       gap: 10px;
+      margin-bottom: 15px;
     }
+
+    .save-load-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .save-load-buttons button {
+      flex: 1;
+      max-width: 100px;
+      font-size: 0.8em;
+      padding: 6px 8px;
+    }
+
     button {
       background: #111;
       color: #00ff88;
       border: 1px solid #00ff88;
-      padding: 10px;
       font-family: 'Courier New', Courier, monospace;
       cursor: pointer;
       transition: background 0.3s ease;
     }
+
     button:hover {
       background: #00ff88;
       color: #0d0d0d;
@@ -50,7 +68,7 @@
   <div class="terminal-wrapper">
     <div id="story">Loading...</div>
     <div id="options"></div>
-    <div class="save-load-buttons" style="margin-top: 20px;">
+    <div class="save-load-buttons">
       <button onclick="saveGame()">🖪 Save</button>
       <button onclick="loadGame()">↻ Load</button>
       <button onclick="resetGame()">🗘 Restart</button>
@@ -59,4 +77,3 @@
   <script src="game.js"></script>
 </body>
 </html>
-
