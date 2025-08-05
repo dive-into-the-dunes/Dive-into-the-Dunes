@@ -18470,5 +18470,13 @@
     "Option1_ID": "END",
     "Option2": "Deny it",
     "Option2_ID": "END"
+  },
+  "NODE_X": {
+    "ID": "NODE_X",
+    "Text": "A dry echo rattles through the dunes near something unusual.\n\nThe stranger stares at you with confidence.\n\nHe knows you have no other option.\nYou must find Duskbloom.",
+    "Option1": "Take the deal",
+    "Option1_ID": "BEGIN",
+    "Option2": "(You hesitate again)",
+    "Option2_ID": "NODE_X"
   }
 }
