@@ -1,9 +1,7 @@
 ID,Text,Option1,Option1_ID,Option2,Option2_ID
-START,"A rusted sign stands before you. It reads:
+START,"The Wayfarer – Dive into the Dunes
 
-  DEAD END
-
-The wind is silent. The world feels paused.",Turn around,START,See what lies beyond,PLANE
+Begin your adventure?",YES,PLANE,NO,GOODBYE
 PLANE,"You step past the sign.
 The air fractures like glass.
 
@@ -271,6 +269,506 @@ NODE_245,The dunes shift behind you. No footprints remain.,Touch the map,NODE_24
 NODE_246,The map shows a road that loops into your name.,Dig deeper,NODE_247,Climb a dune,NODE_248
 NODE_247,The dunes shift behind you. No footprints remain.,Walk toward the shadow,NODE_248,Hide inside yourself,NODE_249
 NODE_248,The Stranger’s voice echoes from nowhere: 'Almost there.',Light a match,NODE_249,Sleep in the open,NODE_250
+NODE_1000,A voice under the dunes recites your name in reverse.,Trace the stars,NODE_1001,Close your eyes,NODE_1002
+NODE_1001,"The dunes hum. Beneath, something vast is waking.",Climb the echo,NODE_1002,Dig downward,NODE_1003
+NODE_1002,A spiral of bones surrounds a single flickering flame.,Whisper your truth,NODE_1003,Stay silent,NODE_1004
+NODE_1003,"The sky fractures like glass, but nothing falls.",Let your shadow lead,NODE_1004,Call it back,NODE_1005
+NODE_1004,You find a mirror buried in the sand. It reflects only lies.,Follow the symbol,NODE_1005,Bury it,NODE_1006
+NODE_1005,"A second sun rises. It has no warmth, only judgment.",Trace the stars,NODE_1006,Close your eyes,NODE_1007
+NODE_1006,"The sky fractures like glass, but nothing falls.",Face the second sun,NODE_1007,Hide beneath the sand,NODE_1008
+NODE_1007,A spiral of bones surrounds a single flickering flame.,Let your shadow lead,NODE_1008,Call it back,NODE_1009
+NODE_1008,The Black Compass points backward — toward something you forgot.,Climb the echo,NODE_1009,Dig downward,NODE_1010
+NODE_1009,The stars rearrange themselves into a word: FORGOTTEN.,Face the second sun,NODE_1010,Hide beneath the sand,NODE_1011
+NODE_1010,"The sky fractures like glass, but nothing falls.",Follow the symbol,NODE_1011,Bury it,NODE_1012
+NODE_1011,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Whisper your truth,NODE_1012,Stay silent,NODE_1013
+NODE_1012,"A thorny flower blooms upside-down, whispering, 'Return.'",Face the second sun,NODE_1013,Hide beneath the sand,NODE_1014
+NODE_1013,"The sky fractures like glass, but nothing falls.",Speak to the bones,NODE_1014,Offer your name,NODE_1015
+NODE_1014,You speak without meaning to. The wind answers.,Face the second sun,NODE_1015,Hide beneath the sand,NODE_1016
+NODE_1015,The stars rearrange themselves into a word: FORGOTTEN.,Climb the echo,NODE_1016,Dig downward,NODE_1017
+NODE_1016,"The sky fractures like glass, but nothing falls.",Step into the mirror,NODE_1017,Cover it,NODE_1018
+NODE_1017,"A thorny flower blooms upside-down, whispering, 'Return.'",Face the second sun,NODE_1018,Hide beneath the sand,NODE_1019
+NODE_1018,You find a mirror buried in the sand. It reflects only lies.,Let your shadow lead,NODE_1019,Call it back,NODE_1020
+NODE_1019,"The sky fractures like glass, but nothing falls.",Speak to the bones,NODE_1020,Offer your name,NODE_1021
+NODE_1020,You speak without meaning to. The wind answers.,Approach the flame,NODE_1021,Walk the spiral,NODE_1022
+NODE_1021,The Black Compass points backward — toward something you forgot.,Approach the flame,NODE_1022,Walk the spiral,NODE_1023
+NODE_1022,"A thorny flower blooms upside-down, whispering, 'Return.'",Trace the stars,NODE_1023,Close your eyes,NODE_1024
+NODE_1023,You find a mirror buried in the sand. It reflects only lies.,Drop the compass,NODE_1024,Trust the spin,NODE_1025
+NODE_1024,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Climb the echo,NODE_1025,Dig downward,NODE_1026
+NODE_1025,The stars rearrange themselves into a word: FORGOTTEN.,Face the second sun,NODE_1026,Hide beneath the sand,NODE_1027
+NODE_1026,Your shadow detaches and begins walking the other direction.,Climb the echo,NODE_1027,Dig downward,NODE_1028
+NODE_1027,You speak without meaning to. The wind answers.,Speak to the bones,NODE_1028,Offer your name,NODE_1029
+NODE_1028,"The sky fractures like glass, but nothing falls.",Climb the echo,NODE_1029,Dig downward,NODE_1030
+NODE_1029,You find a mirror buried in the sand. It reflects only lies.,Face the second sun,NODE_1030,Hide beneath the sand,NODE_1031
+NODE_1030,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Trace the stars,NODE_1031,Close your eyes,NODE_1032
+NODE_1031,The Black Compass spins so violently it draws blood from your palm.,Whisper your truth,NODE_1032,Stay silent,NODE_1033
+NODE_1032,The Black Compass spins so violently it draws blood from your palm.,Step into the mirror,NODE_1033,Cover it,NODE_1034
+NODE_1033,The Black Compass points backward — toward something you forgot.,Face the second sun,NODE_1034,Hide beneath the sand,NODE_1035
+NODE_1034,You speak without meaning to. The wind answers.,Approach the flame,NODE_1035,Walk the spiral,NODE_1036
+NODE_1035,"The dunes hum. Beneath, something vast is waking.",Approach the flame,NODE_1036,Walk the spiral,NODE_1037
+NODE_1036,You see your own footprints leading into the sky.,Drop the compass,NODE_1037,Trust the spin,NODE_1038
+NODE_1037,"A thorny flower blooms upside-down, whispering, 'Return.'",Whisper your truth,NODE_1038,Stay silent,NODE_1039
+NODE_1038,The stars rearrange themselves into a word: FORGOTTEN.,Trace the stars,NODE_1039,Close your eyes,NODE_1040
+NODE_1039,"The sky fractures like glass, but nothing falls.",Let your shadow lead,NODE_1040,Call it back,NODE_1041
+NODE_1040,You see your own footprints leading into the sky.,Approach the flame,NODE_1041,Walk the spiral,NODE_1042
+NODE_1041,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1042,Dig downward,NODE_1043
+NODE_1042,The Black Compass points backward — toward something you forgot.,Speak to the bones,NODE_1043,Offer your name,NODE_1044
+NODE_1043,The Black Compass points backward — toward something you forgot.,Let your shadow lead,NODE_1044,Call it back,NODE_1045
+NODE_1044,The Black Compass points backward — toward something you forgot.,Face the second sun,NODE_1045,Hide beneath the sand,NODE_1046
+NODE_1045,"The dunes hum. Beneath, something vast is waking.",Follow the symbol,NODE_1046,Bury it,NODE_1047
+NODE_1046,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Speak to the bones,NODE_1047,Offer your name,NODE_1048
+NODE_1047,You find a mirror buried in the sand. It reflects only lies.,Whisper your truth,NODE_1048,Stay silent,NODE_1049
+NODE_1048,You find a mirror buried in the sand. It reflects only lies.,Climb the echo,NODE_1049,Dig downward,NODE_1050
+NODE_1049,"The dunes hum. Beneath, something vast is waking.",Speak to the bones,NODE_1050,Offer your name,NODE_1051
+NODE_1050,The stars rearrange themselves into a word: FORGOTTEN.,Speak to the bones,NODE_1051,Offer your name,NODE_1052
+NODE_1051,A spiral of bones surrounds a single flickering flame.,Speak to the bones,NODE_1052,Offer your name,NODE_1053
+NODE_1052,Your shadow detaches and begins walking the other direction.,Climb the echo,NODE_1053,Dig downward,NODE_1054
+NODE_1053,"The dunes hum. Beneath, something vast is waking.",Follow the symbol,NODE_1054,Bury it,NODE_1055
+NODE_1054,You speak without meaning to. The wind answers.,Trace the stars,NODE_1055,Close your eyes,NODE_1056
+NODE_1055,The Black Compass points backward — toward something you forgot.,Let your shadow lead,NODE_1056,Call it back,NODE_1057
+NODE_1056,A spiral of bones surrounds a single flickering flame.,Whisper your truth,NODE_1057,Stay silent,NODE_1058
+NODE_1057,You speak without meaning to. The wind answers.,Climb the echo,NODE_1058,Dig downward,NODE_1059
+NODE_1058,A voice under the dunes recites your name in reverse.,Step into the mirror,NODE_1059,Cover it,NODE_1060
+NODE_1059,"The dunes hum. Beneath, something vast is waking.",Speak to the bones,NODE_1060,Offer your name,NODE_1061
+NODE_1060,The stars rearrange themselves into a word: FORGOTTEN.,Let your shadow lead,NODE_1061,Call it back,NODE_1062
+NODE_1061,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1062,Dig downward,NODE_1063
+NODE_1062,"The sky fractures like glass, but nothing falls.",Climb the echo,NODE_1063,Dig downward,NODE_1064
+NODE_1063,"The dunes hum. Beneath, something vast is waking.",Let your shadow lead,NODE_1064,Call it back,NODE_1065
+NODE_1064,The Black Compass spins so violently it draws blood from your palm.,Trace the stars,NODE_1065,Close your eyes,NODE_1066
+NODE_1065,"A thorny flower blooms upside-down, whispering, 'Return.'",Approach the flame,NODE_1066,Walk the spiral,NODE_1067
+NODE_1066,"The dunes hum. Beneath, something vast is waking.",Let your shadow lead,NODE_1067,Call it back,NODE_1068
+NODE_1067,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1068,Dig downward,NODE_1069
+NODE_1068,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Whisper your truth,NODE_1069,Stay silent,NODE_1070
+NODE_1069,"A thorny flower blooms upside-down, whispering, 'Return.'",Face the second sun,NODE_1070,Hide beneath the sand,NODE_1071
+NODE_1070,A voice under the dunes recites your name in reverse.,Drop the compass,NODE_1071,Trust the spin,NODE_1072
+NODE_1071,"A second sun rises. It has no warmth, only judgment.",Climb the echo,NODE_1072,Dig downward,NODE_1073
+NODE_1072,Your shadow detaches and begins walking the other direction.,Approach the flame,NODE_1073,Walk the spiral,NODE_1074
+NODE_1073,You see your own footprints leading into the sky.,Drop the compass,NODE_1074,Trust the spin,NODE_1075
+NODE_1074,The Black Compass points backward — toward something you forgot.,Climb the echo,NODE_1075,Dig downward,NODE_1076
+NODE_1075,The stars rearrange themselves into a word: FORGOTTEN.,Face the second sun,NODE_1076,Hide beneath the sand,NODE_1077
+NODE_1076,"A second sun rises. It has no warmth, only judgment.",Approach the flame,NODE_1077,Walk the spiral,NODE_1078
+NODE_1077,You see your own footprints leading into the sky.,Climb the echo,NODE_1078,Dig downward,NODE_1079
+NODE_1078,The stars rearrange themselves into a word: FORGOTTEN.,Let your shadow lead,NODE_1079,Call it back,NODE_1080
+NODE_1079,The Black Compass spins so violently it draws blood from your palm.,Face the second sun,NODE_1080,Hide beneath the sand,NODE_1081
+NODE_1080,"A second sun rises. It has no warmth, only judgment.",Trace the stars,NODE_1081,Close your eyes,NODE_1082
+NODE_1081,"A thorny flower blooms upside-down, whispering, 'Return.'",Let your shadow lead,NODE_1082,Call it back,NODE_1083
+NODE_1082,"The dunes hum. Beneath, something vast is waking.",Follow the symbol,NODE_1083,Bury it,NODE_1084
+NODE_1083,A voice under the dunes recites your name in reverse.,Whisper your truth,NODE_1084,Stay silent,NODE_1085
+NODE_1084,"The sky fractures like glass, but nothing falls.",Let your shadow lead,NODE_1085,Call it back,NODE_1086
+NODE_1085,You find a mirror buried in the sand. It reflects only lies.,Whisper your truth,NODE_1086,Stay silent,NODE_1087
+NODE_1086,A spiral of bones surrounds a single flickering flame.,Trace the stars,NODE_1087,Close your eyes,NODE_1088
+NODE_1087,"The dunes hum. Beneath, something vast is waking.",Trace the stars,NODE_1088,Close your eyes,NODE_1089
+NODE_1088,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Let your shadow lead,NODE_1089,Call it back,NODE_1090
+NODE_1089,You speak without meaning to. The wind answers.,Speak to the bones,NODE_1090,Offer your name,NODE_1091
+NODE_1090,"The sky fractures like glass, but nothing falls.",Follow the symbol,NODE_1091,Bury it,NODE_1092
+NODE_1091,A spiral of bones surrounds a single flickering flame.,Let your shadow lead,NODE_1092,Call it back,NODE_1093
+NODE_1092,You find a mirror buried in the sand. It reflects only lies.,Step into the mirror,NODE_1093,Cover it,NODE_1094
+NODE_1093,"The sky fractures like glass, but nothing falls.",Face the second sun,NODE_1094,Hide beneath the sand,NODE_1095
+NODE_1094,You find a mirror buried in the sand. It reflects only lies.,Trace the stars,NODE_1095,Close your eyes,NODE_1096
+NODE_1095,The Black Compass spins so violently it draws blood from your palm.,Approach the flame,NODE_1096,Walk the spiral,NODE_1097
+NODE_1096,"The dunes hum. Beneath, something vast is waking.",Whisper your truth,NODE_1097,Stay silent,NODE_1098
+NODE_1097,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Step into the mirror,NODE_1098,Cover it,NODE_1099
+NODE_1098,"A second sun rises. It has no warmth, only judgment.",Approach the flame,NODE_1099,Walk the spiral,NODE_1100
+NODE_1099,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Trace the stars,NODE_1100,Close your eyes,NODE_1101
+NODE_1100,Your shadow detaches and begins walking the other direction.,Step into the mirror,NODE_1101,Cover it,NODE_1102
+NODE_1101,"The dunes hum. Beneath, something vast is waking.",Whisper your truth,NODE_1102,Stay silent,NODE_1103
+NODE_1102,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Face the second sun,NODE_1103,Hide beneath the sand,NODE_1104
+NODE_1103,You find a mirror buried in the sand. It reflects only lies.,Follow the symbol,NODE_1104,Bury it,NODE_1105
+NODE_1104,A voice under the dunes recites your name in reverse.,Step into the mirror,NODE_1105,Cover it,NODE_1106
+NODE_1105,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Speak to the bones,NODE_1106,Offer your name,NODE_1107
+NODE_1106,You see your own footprints leading into the sky.,Climb the echo,NODE_1107,Dig downward,NODE_1108
+NODE_1107,The Black Compass spins so violently it draws blood from your palm.,Drop the compass,NODE_1108,Trust the spin,NODE_1109
+NODE_1108,You speak without meaning to. The wind answers.,Speak to the bones,NODE_1109,Offer your name,NODE_1110
+NODE_1109,A spiral of bones surrounds a single flickering flame.,Approach the flame,NODE_1110,Walk the spiral,NODE_1111
+NODE_1110,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Approach the flame,NODE_1111,Walk the spiral,NODE_1112
+NODE_1111,The Black Compass points backward — toward something you forgot.,Trace the stars,NODE_1112,Close your eyes,NODE_1113
+NODE_1112,A spiral of bones surrounds a single flickering flame.,Speak to the bones,NODE_1113,Offer your name,NODE_1114
+NODE_1113,A spiral of bones surrounds a single flickering flame.,Drop the compass,NODE_1114,Trust the spin,NODE_1115
+NODE_1114,"The sky fractures like glass, but nothing falls.",Trace the stars,NODE_1115,Close your eyes,NODE_1116
+NODE_1115,The Black Compass points backward — toward something you forgot.,Face the second sun,NODE_1116,Hide beneath the sand,NODE_1117
+NODE_1116,Your shadow detaches and begins walking the other direction.,Follow the symbol,NODE_1117,Bury it,NODE_1118
+NODE_1117,A spiral of bones surrounds a single flickering flame.,Follow the symbol,NODE_1118,Bury it,NODE_1119
+NODE_1118,You find a mirror buried in the sand. It reflects only lies.,Trace the stars,NODE_1119,Close your eyes,NODE_1120
+NODE_1119,"The dunes hum. Beneath, something vast is waking.",Approach the flame,NODE_1120,Walk the spiral,NODE_1121
+NODE_1120,The Black Compass points backward — toward something you forgot.,Face the second sun,NODE_1121,Hide beneath the sand,NODE_1122
+NODE_1121,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1122,Dig downward,NODE_1123
+NODE_1122,A voice under the dunes recites your name in reverse.,Approach the flame,NODE_1123,Walk the spiral,NODE_1124
+NODE_1123,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Follow the symbol,NODE_1124,Bury it,NODE_1125
+NODE_1124,"A thorny flower blooms upside-down, whispering, 'Return.'",Whisper your truth,NODE_1125,Stay silent,NODE_1126
+NODE_1125,Your shadow detaches and begins walking the other direction.,Drop the compass,NODE_1126,Trust the spin,NODE_1127
+NODE_1126,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Approach the flame,NODE_1127,Walk the spiral,NODE_1128
+NODE_1127,You find a mirror buried in the sand. It reflects only lies.,Speak to the bones,NODE_1128,Offer your name,NODE_1129
+NODE_1128,The Black Compass points backward — toward something you forgot.,Climb the echo,NODE_1129,Dig downward,NODE_1130
+NODE_1129,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Follow the symbol,NODE_1130,Bury it,NODE_1131
+NODE_1130,The Black Compass spins so violently it draws blood from your palm.,Approach the flame,NODE_1131,Walk the spiral,NODE_1132
+NODE_1131,"A thorny flower blooms upside-down, whispering, 'Return.'",Drop the compass,NODE_1132,Trust the spin,NODE_1133
+NODE_1132,"A thorny flower blooms upside-down, whispering, 'Return.'",Let your shadow lead,NODE_1133,Call it back,NODE_1134
+NODE_1133,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Follow the symbol,NODE_1134,Bury it,NODE_1135
+NODE_1134,The Black Compass spins so violently it draws blood from your palm.,Approach the flame,NODE_1135,Walk the spiral,NODE_1136
+NODE_1135,The stars rearrange themselves into a word: FORGOTTEN.,Let your shadow lead,NODE_1136,Call it back,NODE_1137
+NODE_1136,The Black Compass points backward — toward something you forgot.,Whisper your truth,NODE_1137,Stay silent,NODE_1138
+NODE_1137,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Speak to the bones,NODE_1138,Offer your name,NODE_1139
+NODE_1138,The Black Compass spins so violently it draws blood from your palm.,Let your shadow lead,NODE_1139,Call it back,NODE_1140
+NODE_1139,"The dunes hum. Beneath, something vast is waking.",Whisper your truth,NODE_1140,Stay silent,NODE_1141
+NODE_1140,Your shadow detaches and begins walking the other direction.,Step into the mirror,NODE_1141,Cover it,NODE_1142
+NODE_1141,You find a mirror buried in the sand. It reflects only lies.,Speak to the bones,NODE_1142,Offer your name,NODE_1143
+NODE_1142,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Drop the compass,NODE_1143,Trust the spin,NODE_1144
+NODE_1143,You find a mirror buried in the sand. It reflects only lies.,Face the second sun,NODE_1144,Hide beneath the sand,NODE_1145
+NODE_1144,"The sky fractures like glass, but nothing falls.",Drop the compass,NODE_1145,Trust the spin,NODE_1146
+NODE_1145,The Black Compass spins so violently it draws blood from your palm.,Drop the compass,NODE_1146,Trust the spin,NODE_1147
+NODE_1146,Your shadow detaches and begins walking the other direction.,Follow the symbol,NODE_1147,Bury it,NODE_1148
+NODE_1147,A voice under the dunes recites your name in reverse.,Approach the flame,NODE_1148,Walk the spiral,NODE_1149
+NODE_1148,The Black Compass spins so violently it draws blood from your palm.,Face the second sun,NODE_1149,Hide beneath the sand,NODE_1150
+NODE_1149,You see your own footprints leading into the sky.,Drop the compass,NODE_1150,Trust the spin,NODE_1151
+NODE_1150,"The sky fractures like glass, but nothing falls.",Speak to the bones,NODE_1151,Offer your name,NODE_1152
+NODE_1151,Your shadow detaches and begins walking the other direction.,Follow the symbol,NODE_1152,Bury it,NODE_1153
+NODE_1152,The Black Compass points backward — toward something you forgot.,Trace the stars,NODE_1153,Close your eyes,NODE_1154
+NODE_1153,Your shadow detaches and begins walking the other direction.,Step into the mirror,NODE_1154,Cover it,NODE_1155
+NODE_1154,"The sky fractures like glass, but nothing falls.",Whisper your truth,NODE_1155,Stay silent,NODE_1156
+NODE_1155,"The dunes hum. Beneath, something vast is waking.",Let your shadow lead,NODE_1156,Call it back,NODE_1157
+NODE_1156,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Approach the flame,NODE_1157,Walk the spiral,NODE_1158
+NODE_1157,"A second sun rises. It has no warmth, only judgment.",Whisper your truth,NODE_1158,Stay silent,NODE_1159
+NODE_1158,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Let your shadow lead,NODE_1159,Call it back,NODE_1160
+NODE_1159,"A second sun rises. It has no warmth, only judgment.",Speak to the bones,NODE_1160,Offer your name,NODE_1161
+NODE_1160,"The sky fractures like glass, but nothing falls.",Approach the flame,NODE_1161,Walk the spiral,NODE_1162
+NODE_1161,"A second sun rises. It has no warmth, only judgment.",Face the second sun,NODE_1162,Hide beneath the sand,NODE_1163
+NODE_1162,"A second sun rises. It has no warmth, only judgment.",Climb the echo,NODE_1163,Dig downward,NODE_1164
+NODE_1163,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Face the second sun,NODE_1164,Hide beneath the sand,NODE_1165
+NODE_1164,"A thorny flower blooms upside-down, whispering, 'Return.'",Climb the echo,NODE_1165,Dig downward,NODE_1166
+NODE_1165,A spiral of bones surrounds a single flickering flame.,Approach the flame,NODE_1166,Walk the spiral,NODE_1167
+NODE_1166,"A second sun rises. It has no warmth, only judgment.",Follow the symbol,NODE_1167,Bury it,NODE_1168
+NODE_1167,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Climb the echo,NODE_1168,Dig downward,NODE_1169
+NODE_1168,You see your own footprints leading into the sky.,Drop the compass,NODE_1169,Trust the spin,NODE_1170
+NODE_1169,"A second sun rises. It has no warmth, only judgment.",Step into the mirror,NODE_1170,Cover it,NODE_1171
+NODE_1170,"A thorny flower blooms upside-down, whispering, 'Return.'",Climb the echo,NODE_1171,Dig downward,NODE_1172
+NODE_1171,The Black Compass spins so violently it draws blood from your palm.,Speak to the bones,NODE_1172,Offer your name,NODE_1173
+NODE_1172,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1173,Dig downward,NODE_1174
+NODE_1173,The Black Compass spins so violently it draws blood from your palm.,Climb the echo,NODE_1174,Dig downward,NODE_1175
+NODE_1174,Your shadow detaches and begins walking the other direction.,Climb the echo,NODE_1175,Dig downward,NODE_1176
+NODE_1175,A voice under the dunes recites your name in reverse.,Drop the compass,NODE_1176,Trust the spin,NODE_1177
+NODE_1176,You see your own footprints leading into the sky.,Climb the echo,NODE_1177,Dig downward,NODE_1178
+NODE_1177,The Black Compass spins so violently it draws blood from your palm.,Face the second sun,NODE_1178,Hide beneath the sand,NODE_1179
+NODE_1178,"The dunes hum. Beneath, something vast is waking.",Drop the compass,NODE_1179,Trust the spin,NODE_1180
+NODE_1179,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Trace the stars,NODE_1180,Close your eyes,NODE_1181
+NODE_1180,You speak without meaning to. The wind answers.,Face the second sun,NODE_1181,Hide beneath the sand,NODE_1182
+NODE_1181,"The dunes hum. Beneath, something vast is waking.",Climb the echo,NODE_1182,Dig downward,NODE_1183
+NODE_1182,You see your own footprints leading into the sky.,Approach the flame,NODE_1183,Walk the spiral,NODE_1184
+NODE_1183,"A second sun rises. It has no warmth, only judgment.",Speak to the bones,NODE_1184,Offer your name,NODE_1185
+NODE_1184,A voice under the dunes recites your name in reverse.,Climb the echo,NODE_1185,Dig downward,NODE_1186
+NODE_1185,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Step into the mirror,NODE_1186,Cover it,NODE_1187
+NODE_1186,You find a mirror buried in the sand. It reflects only lies.,Step into the mirror,NODE_1187,Cover it,NODE_1188
+NODE_1187,Your shadow detaches and begins walking the other direction.,Step into the mirror,NODE_1188,Cover it,NODE_1189
+NODE_1188,"A second sun rises. It has no warmth, only judgment.",Trace the stars,NODE_1189,Close your eyes,NODE_1190
+NODE_1189,You see your own footprints leading into the sky.,Drop the compass,NODE_1190,Trust the spin,NODE_1191
+NODE_1190,You speak without meaning to. The wind answers.,Follow the symbol,NODE_1191,Bury it,NODE_1192
+NODE_1191,Your shadow detaches and begins walking the other direction.,Step into the mirror,NODE_1192,Cover it,NODE_1193
+NODE_1192,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Let your shadow lead,NODE_1193,Call it back,NODE_1194
+NODE_1193,You find a mirror buried in the sand. It reflects only lies.,Trace the stars,NODE_1194,Close your eyes,NODE_1195
+NODE_1194,The Black Compass points backward — toward something you forgot.,Speak to the bones,NODE_1195,Offer your name,NODE_1196
+NODE_1195,"The dunes hum. Beneath, something vast is waking.",Whisper your truth,NODE_1196,Stay silent,NODE_1197
+NODE_1196,"The dunes hum. Beneath, something vast is waking.",Trace the stars,NODE_1197,Close your eyes,NODE_1198
+NODE_1197,"The sky fractures like glass, but nothing falls.",Drop the compass,NODE_1198,Trust the spin,NODE_1199
+NODE_1198,A voice under the dunes recites your name in reverse.,Let your shadow lead,NODE_1199,Call it back,NODE_1200
+NODE_1199,"A second sun rises. It has no warmth, only judgment.",Trace the stars,NODE_1200,Close your eyes,NODE_1201
+NODE_1200,"The dunes hum. Beneath, something vast is waking.",Trace the stars,NODE_1201,Close your eyes,NODE_1202
+NODE_1201,You see your own footprints leading into the sky.,Let your shadow lead,NODE_1202,Call it back,NODE_1203
+NODE_1202,The Black Compass points backward — toward something you forgot.,Trace the stars,NODE_1203,Close your eyes,NODE_1204
+NODE_1203,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Let your shadow lead,NODE_1204,Call it back,NODE_1205
+NODE_1204,You speak without meaning to. The wind answers.,Step into the mirror,NODE_1205,Cover it,NODE_1206
+NODE_1205,"A thorny flower blooms upside-down, whispering, 'Return.'",Step into the mirror,NODE_1206,Cover it,NODE_1207
+NODE_1206,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Climb the echo,NODE_1207,Dig downward,NODE_1208
+NODE_1207,You speak without meaning to. The wind answers.,Approach the flame,NODE_1208,Walk the spiral,NODE_1209
+NODE_1208,A spiral of bones surrounds a single flickering flame.,Drop the compass,NODE_1209,Trust the spin,NODE_1210
+NODE_1209,You find a mirror buried in the sand. It reflects only lies.,Face the second sun,NODE_1210,Hide beneath the sand,NODE_1211
+NODE_1210,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Let your shadow lead,NODE_1211,Call it back,NODE_1212
+NODE_1211,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Whisper your truth,NODE_1212,Stay silent,NODE_1213
+NODE_1212,"A second sun rises. It has no warmth, only judgment.",Let your shadow lead,NODE_1213,Call it back,NODE_1214
+NODE_1213,The Black Compass spins so violently it draws blood from your palm.,Face the second sun,NODE_1214,Hide beneath the sand,NODE_1215
+NODE_1214,"A second sun rises. It has no warmth, only judgment.",Whisper your truth,NODE_1215,Stay silent,NODE_1216
+NODE_1215,The stars rearrange themselves into a word: FORGOTTEN.,Follow the symbol,NODE_1216,Bury it,NODE_1217
+NODE_1216,The stars rearrange themselves into a word: FORGOTTEN.,Climb the echo,NODE_1217,Dig downward,NODE_1218
+NODE_1217,"A second sun rises. It has no warmth, only judgment.",Follow the symbol,NODE_1218,Bury it,NODE_1219
+NODE_1218,You speak without meaning to. The wind answers.,Whisper your truth,NODE_1219,Stay silent,NODE_1220
+NODE_1219,You find a mirror buried in the sand. It reflects only lies.,Step into the mirror,NODE_1220,Cover it,NODE_1221
+NODE_1220,The Black Compass points backward — toward something you forgot.,Trace the stars,NODE_1221,Close your eyes,NODE_1222
+NODE_1221,The Black Compass points backward — toward something you forgot.,Step into the mirror,NODE_1222,Cover it,NODE_1223
+NODE_1222,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Step into the mirror,NODE_1223,Cover it,NODE_1224
+NODE_1223,The Black Compass points backward — toward something you forgot.,Follow the symbol,NODE_1224,Bury it,NODE_1225
+NODE_1224,The stars rearrange themselves into a word: FORGOTTEN.,Trace the stars,NODE_1225,Close your eyes,NODE_1226
+NODE_1225,The stars rearrange themselves into a word: FORGOTTEN.,Step into the mirror,NODE_1226,Cover it,NODE_1227
+NODE_1226,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Drop the compass,NODE_1227,Trust the spin,NODE_1228
+NODE_1227,A spiral of bones surrounds a single flickering flame.,Speak to the bones,NODE_1228,Offer your name,NODE_1229
+NODE_1228,You see your own footprints leading into the sky.,Step into the mirror,NODE_1229,Cover it,NODE_1230
+NODE_1229,The stars rearrange themselves into a word: FORGOTTEN.,Let your shadow lead,NODE_1230,Call it back,NODE_1231
+NODE_1230,"A thorny flower blooms upside-down, whispering, 'Return.'",Climb the echo,NODE_1231,Dig downward,NODE_1232
+NODE_1231,You speak without meaning to. The wind answers.,Face the second sun,NODE_1232,Hide beneath the sand,NODE_1233
+NODE_1232,You see your own footprints leading into the sky.,Climb the echo,NODE_1233,Dig downward,NODE_1234
+NODE_1233,The Black Compass spins so violently it draws blood from your palm.,Follow the symbol,NODE_1234,Bury it,NODE_1235
+NODE_1234,"The sky fractures like glass, but nothing falls.",Drop the compass,NODE_1235,Trust the spin,NODE_1236
+NODE_1235,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Trace the stars,NODE_1236,Close your eyes,NODE_1237
+NODE_1236,You see your own footprints leading into the sky.,Let your shadow lead,NODE_1237,Call it back,NODE_1238
+NODE_1237,You find a mirror buried in the sand. It reflects only lies.,Climb the echo,NODE_1238,Dig downward,NODE_1239
+NODE_1238,You speak without meaning to. The wind answers.,Whisper your truth,NODE_1239,Stay silent,NODE_1240
+NODE_1239,A spiral of bones surrounds a single flickering flame.,Drop the compass,NODE_1240,Trust the spin,NODE_1241
+NODE_1240,The Black Compass points backward — toward something you forgot.,Drop the compass,NODE_1241,Trust the spin,NODE_1242
+NODE_1241,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Whisper your truth,NODE_1242,Stay silent,NODE_1243
+NODE_1242,Your shadow detaches and begins walking the other direction.,Speak to the bones,NODE_1243,Offer your name,NODE_1244
+NODE_1243,The Black Compass points backward — toward something you forgot.,Step into the mirror,NODE_1244,Cover it,NODE_1245
+NODE_1244,The stars rearrange themselves into a word: FORGOTTEN.,Let your shadow lead,NODE_1245,Call it back,NODE_1246
+NODE_1245,A voice under the dunes recites your name in reverse.,Speak to the bones,NODE_1246,Offer your name,NODE_1247
+NODE_1246,You find a mirror buried in the sand. It reflects only lies.,Approach the flame,NODE_1247,Walk the spiral,NODE_1248
+NODE_1247,Your shadow detaches and begins walking the other direction.,Let your shadow lead,NODE_1248,Call it back,NODE_1249
+NODE_1248,The Black Compass points backward — toward something you forgot.,Approach the flame,NODE_1249,Walk the spiral,NODE_1250
+NODE_1249,"The sky fractures like glass, but nothing falls.",Approach the flame,NODE_1250,Walk the spiral,NODE_1251
+NODE_1250,The Black Compass points backward — toward something you forgot.,Step into the mirror,NODE_1251,Cover it,NODE_1252
+NODE_1251,"The sky fractures like glass, but nothing falls.",Climb the echo,NODE_1252,Dig downward,NODE_1253
+NODE_1252,Your shadow detaches and begins walking the other direction.,Face the second sun,NODE_1253,Hide beneath the sand,NODE_1254
+NODE_1253,The stars rearrange themselves into a word: FORGOTTEN.,Trace the stars,NODE_1254,Close your eyes,NODE_1255
+NODE_1254,"The dunes hum. Beneath, something vast is waking.",Speak to the bones,NODE_1255,Offer your name,NODE_1256
+NODE_1255,Your shadow detaches and begins walking the other direction.,Drop the compass,NODE_1256,Trust the spin,NODE_1257
+NODE_1256,"A second sun rises. It has no warmth, only judgment.",Speak to the bones,NODE_1257,Offer your name,NODE_1258
+NODE_1257,You speak without meaning to. The wind answers.,Let your shadow lead,NODE_1258,Call it back,NODE_1259
+NODE_1258,"A thorny flower blooms upside-down, whispering, 'Return.'",Trace the stars,NODE_1259,Close your eyes,NODE_1260
+NODE_1259,A spiral of bones surrounds a single flickering flame.,Climb the echo,NODE_1260,Dig downward,NODE_1261
+NODE_1260,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Whisper your truth,NODE_1261,Stay silent,NODE_1262
+NODE_1261,"A thorny flower blooms upside-down, whispering, 'Return.'",Follow the symbol,NODE_1262,Bury it,NODE_1263
+NODE_1262,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Step into the mirror,NODE_1263,Cover it,NODE_1264
+NODE_1263,You see your own footprints leading into the sky.,Whisper your truth,NODE_1264,Stay silent,NODE_1265
+NODE_1264,"The dunes hum. Beneath, something vast is waking.",Drop the compass,NODE_1265,Trust the spin,NODE_1266
+NODE_1265,The stars rearrange themselves into a word: FORGOTTEN.,Whisper your truth,NODE_1266,Stay silent,NODE_1267
+NODE_1266,The Black Compass points backward — toward something you forgot.,Let your shadow lead,NODE_1267,Call it back,NODE_1268
+NODE_1267,The stars rearrange themselves into a word: FORGOTTEN.,Speak to the bones,NODE_1268,Offer your name,NODE_1269
+NODE_1268,The Black Compass spins so violently it draws blood from your palm.,Let your shadow lead,NODE_1269,Call it back,NODE_1270
+NODE_1269,"The dunes hum. Beneath, something vast is waking.",Speak to the bones,NODE_1270,Offer your name,NODE_1271
+NODE_1270,A spiral of bones surrounds a single flickering flame.,Face the second sun,NODE_1271,Hide beneath the sand,NODE_1272
+NODE_1271,Your shadow detaches and begins walking the other direction.,Approach the flame,NODE_1272,Walk the spiral,NODE_1273
+NODE_1272,Your shadow detaches and begins walking the other direction.,Drop the compass,NODE_1273,Trust the spin,NODE_1274
+NODE_1273,"The sky fractures like glass, but nothing falls.",Trace the stars,NODE_1274,Close your eyes,NODE_1275
+NODE_1274,"The sky fractures like glass, but nothing falls.",Face the second sun,NODE_1275,Hide beneath the sand,NODE_1276
+NODE_1275,"A thorny flower blooms upside-down, whispering, 'Return.'",Whisper your truth,NODE_1276,Stay silent,NODE_1277
+NODE_1276,You find a mirror buried in the sand. It reflects only lies.,Follow the symbol,NODE_1277,Bury it,NODE_1278
+NODE_1277,"A thorny flower blooms upside-down, whispering, 'Return.'",Follow the symbol,NODE_1278,Bury it,NODE_1279
+NODE_1278,You see your own footprints leading into the sky.,Climb the echo,NODE_1279,Dig downward,NODE_1280
+NODE_1279,The Black Compass points backward — toward something you forgot.,Step into the mirror,NODE_1280,Cover it,NODE_1281
+NODE_1280,"The sky fractures like glass, but nothing falls.",Trace the stars,NODE_1281,Close your eyes,NODE_1282
+NODE_1281,"A thorny flower blooms upside-down, whispering, 'Return.'",Face the second sun,NODE_1282,Hide beneath the sand,NODE_1283
+NODE_1282,The Black Compass points backward — toward something you forgot.,Approach the flame,NODE_1283,Walk the spiral,NODE_1284
+NODE_1283,You see your own footprints leading into the sky.,Speak to the bones,NODE_1284,Offer your name,NODE_1285
+NODE_1284,The stars rearrange themselves into a word: FORGOTTEN.,Speak to the bones,NODE_1285,Offer your name,NODE_1286
+NODE_1285,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Step into the mirror,NODE_1286,Cover it,NODE_1287
+NODE_1286,A spiral of bones surrounds a single flickering flame.,Speak to the bones,NODE_1287,Offer your name,NODE_1288
+NODE_1287,"A thorny flower blooms upside-down, whispering, 'Return.'",Speak to the bones,NODE_1288,Offer your name,NODE_1289
+NODE_1288,"A second sun rises. It has no warmth, only judgment.",Whisper your truth,NODE_1289,Stay silent,NODE_1290
+NODE_1289,The stars rearrange themselves into a word: FORGOTTEN.,Face the second sun,NODE_1290,Hide beneath the sand,NODE_1291
+NODE_1290,The Black Compass points backward — toward something you forgot.,Speak to the bones,NODE_1291,Offer your name,NODE_1292
+NODE_1291,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Speak to the bones,NODE_1292,Offer your name,NODE_1293
+NODE_1292,You find a mirror buried in the sand. It reflects only lies.,Trace the stars,NODE_1293,Close your eyes,NODE_1294
+NODE_1293,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Follow the symbol,NODE_1294,Bury it,NODE_1295
+NODE_1294,The Black Compass points backward — toward something you forgot.,Follow the symbol,NODE_1295,Bury it,NODE_1296
+NODE_1295,The stars rearrange themselves into a word: FORGOTTEN.,Let your shadow lead,NODE_1296,Call it back,NODE_1297
+NODE_1296,The Black Compass points backward — toward something you forgot.,Climb the echo,NODE_1297,Dig downward,NODE_1298
+NODE_1297,"The sky fractures like glass, but nothing falls.",Whisper your truth,NODE_1298,Stay silent,NODE_1299
+NODE_1298,"A second sun rises. It has no warmth, only judgment.",Drop the compass,NODE_1299,Trust the spin,NODE_1300
+NODE_1299,The Black Compass points backward — toward something you forgot.,Climb the echo,NODE_1300,Dig downward,NODE_1301
+NODE_1300,You find a mirror buried in the sand. It reflects only lies.,Face the second sun,NODE_1301,Hide beneath the sand,NODE_1302
+NODE_1301,The Black Compass spins so violently it draws blood from your palm.,Whisper your truth,NODE_1302,Stay silent,NODE_1303
+NODE_1302,"A thorny flower blooms upside-down, whispering, 'Return.'",Face the second sun,NODE_1303,Hide beneath the sand,NODE_1304
+NODE_1303,You speak without meaning to. The wind answers.,Whisper your truth,NODE_1304,Stay silent,NODE_1305
+NODE_1304,"The dunes hum. Beneath, something vast is waking.",Let your shadow lead,NODE_1305,Call it back,NODE_1306
+NODE_1305,"A second sun rises. It has no warmth, only judgment.",Climb the echo,NODE_1306,Dig downward,NODE_1307
+NODE_1306,"A second sun rises. It has no warmth, only judgment.",Face the second sun,NODE_1307,Hide beneath the sand,NODE_1308
+NODE_1307,You see your own footprints leading into the sky.,Trace the stars,NODE_1308,Close your eyes,NODE_1309
+NODE_1308,The Black Compass spins so violently it draws blood from your palm.,Whisper your truth,NODE_1309,Stay silent,NODE_1310
+NODE_1309,You find a mirror buried in the sand. It reflects only lies.,Whisper your truth,NODE_1310,Stay silent,NODE_1311
+NODE_1310,You see your own footprints leading into the sky.,Let your shadow lead,NODE_1311,Call it back,NODE_1312
+NODE_1311,Your shadow detaches and begins walking the other direction.,Whisper your truth,NODE_1312,Stay silent,NODE_1313
+NODE_1312,A spiral of bones surrounds a single flickering flame.,Step into the mirror,NODE_1313,Cover it,NODE_1314
+NODE_1313,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Speak to the bones,NODE_1314,Offer your name,NODE_1315
+NODE_1314,A voice under the dunes recites your name in reverse.,Trace the stars,NODE_1315,Close your eyes,NODE_1316
+NODE_1315,You find a mirror buried in the sand. It reflects only lies.,Step into the mirror,NODE_1316,Cover it,NODE_1317
+NODE_1316,"A thorny flower blooms upside-down, whispering, 'Return.'",Approach the flame,NODE_1317,Walk the spiral,NODE_1318
+NODE_1317,A spiral of bones surrounds a single flickering flame.,Climb the echo,NODE_1318,Dig downward,NODE_1319
+NODE_1318,"The dunes hum. Beneath, something vast is waking.",Speak to the bones,NODE_1319,Offer your name,NODE_1320
+NODE_1319,The stars rearrange themselves into a word: FORGOTTEN.,Climb the echo,NODE_1320,Dig downward,NODE_1321
+NODE_1320,You find a mirror buried in the sand. It reflects only lies.,Whisper your truth,NODE_1321,Stay silent,NODE_1322
+NODE_1321,The stars rearrange themselves into a word: FORGOTTEN.,Face the second sun,NODE_1322,Hide beneath the sand,NODE_1323
+NODE_1322,"The dunes hum. Beneath, something vast is waking.",Drop the compass,NODE_1323,Trust the spin,NODE_1324
+NODE_1323,The Black Compass spins so violently it draws blood from your palm.,Whisper your truth,NODE_1324,Stay silent,NODE_1325
+NODE_1324,You see your own footprints leading into the sky.,Step into the mirror,NODE_1325,Cover it,NODE_1326
+NODE_1325,A voice under the dunes recites your name in reverse.,Trace the stars,NODE_1326,Close your eyes,NODE_1327
+NODE_1326,You find a mirror buried in the sand. It reflects only lies.,Let your shadow lead,NODE_1327,Call it back,NODE_1328
+NODE_1327,The Black Compass points backward — toward something you forgot.,Drop the compass,NODE_1328,Trust the spin,NODE_1329
+NODE_1328,You see your own footprints leading into the sky.,Follow the symbol,NODE_1329,Bury it,NODE_1330
+NODE_1329,"The sky fractures like glass, but nothing falls.",Drop the compass,NODE_1330,Trust the spin,NODE_1331
+NODE_1330,The Black Compass points backward — toward something you forgot.,Drop the compass,NODE_1331,Trust the spin,NODE_1332
+NODE_1331,The stars rearrange themselves into a word: FORGOTTEN.,Whisper your truth,NODE_1332,Stay silent,NODE_1333
+NODE_1332,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Speak to the bones,NODE_1333,Offer your name,NODE_1334
+NODE_1333,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Speak to the bones,NODE_1334,Offer your name,NODE_1335
+NODE_1334,"A thorny flower blooms upside-down, whispering, 'Return.'",Drop the compass,NODE_1335,Trust the spin,NODE_1336
+NODE_1335,"The sky fractures like glass, but nothing falls.",Speak to the bones,NODE_1336,Offer your name,NODE_1337
+NODE_1336,A spiral of bones surrounds a single flickering flame.,Step into the mirror,NODE_1337,Cover it,NODE_1338
+NODE_1337,A spiral of bones surrounds a single flickering flame.,Drop the compass,NODE_1338,Trust the spin,NODE_1339
+NODE_1338,You speak without meaning to. The wind answers.,Approach the flame,NODE_1339,Walk the spiral,NODE_1340
+NODE_1339,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Face the second sun,NODE_1340,Hide beneath the sand,NODE_1341
+NODE_1340,You speak without meaning to. The wind answers.,Speak to the bones,NODE_1341,Offer your name,NODE_1342
+NODE_1341,You find a mirror buried in the sand. It reflects only lies.,Step into the mirror,NODE_1342,Cover it,NODE_1343
+NODE_1342,You find a mirror buried in the sand. It reflects only lies.,Drop the compass,NODE_1343,Trust the spin,NODE_1344
+NODE_1343,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Let your shadow lead,NODE_1344,Call it back,NODE_1345
+NODE_1344,A spiral of bones surrounds a single flickering flame.,Speak to the bones,NODE_1345,Offer your name,NODE_1346
+NODE_1345,The Black Compass spins so violently it draws blood from your palm.,Trace the stars,NODE_1346,Close your eyes,NODE_1347
+NODE_1346,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Let your shadow lead,NODE_1347,Call it back,NODE_1348
+NODE_1347,The Black Compass spins so violently it draws blood from your palm.,Trace the stars,NODE_1348,Close your eyes,NODE_1349
+NODE_1348,"The dunes hum. Beneath, something vast is waking.",Climb the echo,NODE_1349,Dig downward,NODE_1350
+NODE_1349,A spiral of bones surrounds a single flickering flame.,Face the second sun,NODE_1350,Hide beneath the sand,NODE_1351
+NODE_1350,You see your own footprints leading into the sky.,Trace the stars,NODE_1351,Close your eyes,NODE_1352
+NODE_1351,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Step into the mirror,NODE_1352,Cover it,NODE_1353
+NODE_1352,The stars rearrange themselves into a word: FORGOTTEN.,Step into the mirror,NODE_1353,Cover it,NODE_1354
+NODE_1353,The Black Compass points backward — toward something you forgot.,Climb the echo,NODE_1354,Dig downward,NODE_1355
+NODE_1354,The Black Compass spins so violently it draws blood from your palm.,Drop the compass,NODE_1355,Trust the spin,NODE_1356
+NODE_1355,A voice under the dunes recites your name in reverse.,Face the second sun,NODE_1356,Hide beneath the sand,NODE_1357
+NODE_1356,The stars rearrange themselves into a word: FORGOTTEN.,Climb the echo,NODE_1357,Dig downward,NODE_1358
+NODE_1357,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Whisper your truth,NODE_1358,Stay silent,NODE_1359
+NODE_1358,You speak without meaning to. The wind answers.,Trace the stars,NODE_1359,Close your eyes,NODE_1360
+NODE_1359,"The dunes hum. Beneath, something vast is waking.",Step into the mirror,NODE_1360,Cover it,NODE_1361
+NODE_1360,The Black Compass spins so violently it draws blood from your palm.,Speak to the bones,NODE_1361,Offer your name,NODE_1362
+NODE_1361,A spiral of bones surrounds a single flickering flame.,Face the second sun,NODE_1362,Hide beneath the sand,NODE_1363
+NODE_1362,The Black Compass points backward — toward something you forgot.,Climb the echo,NODE_1363,Dig downward,NODE_1364
+NODE_1363,"A thorny flower blooms upside-down, whispering, 'Return.'",Speak to the bones,NODE_1364,Offer your name,NODE_1365
+NODE_1364,The Black Compass points backward — toward something you forgot.,Whisper your truth,NODE_1365,Stay silent,NODE_1366
+NODE_1365,"The sky fractures like glass, but nothing falls.",Climb the echo,NODE_1366,Dig downward,NODE_1367
+NODE_1366,Your shadow detaches and begins walking the other direction.,Drop the compass,NODE_1367,Trust the spin,NODE_1368
+NODE_1367,The Black Compass points backward — toward something you forgot.,Follow the symbol,NODE_1368,Bury it,NODE_1369
+NODE_1368,"The sky fractures like glass, but nothing falls.",Drop the compass,NODE_1369,Trust the spin,NODE_1370
+NODE_1369,"The dunes hum. Beneath, something vast is waking.",Step into the mirror,NODE_1370,Cover it,NODE_1371
+NODE_1370,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Whisper your truth,NODE_1371,Stay silent,NODE_1372
+NODE_1371,You speak without meaning to. The wind answers.,Climb the echo,NODE_1372,Dig downward,NODE_1373
+NODE_1372,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Speak to the bones,NODE_1373,Offer your name,NODE_1374
+NODE_1373,A voice under the dunes recites your name in reverse.,Drop the compass,NODE_1374,Trust the spin,NODE_1375
+NODE_1374,You find a mirror buried in the sand. It reflects only lies.,Step into the mirror,NODE_1375,Cover it,NODE_1376
+NODE_1375,A spiral of bones surrounds a single flickering flame.,Follow the symbol,NODE_1376,Bury it,NODE_1377
+NODE_1376,The Black Compass points backward — toward something you forgot.,Follow the symbol,NODE_1377,Bury it,NODE_1378
+NODE_1377,A spiral of bones surrounds a single flickering flame.,Speak to the bones,NODE_1378,Offer your name,NODE_1379
+NODE_1378,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1379,Dig downward,NODE_1380
+NODE_1379,"A thorny flower blooms upside-down, whispering, 'Return.'",Speak to the bones,NODE_1380,Offer your name,NODE_1381
+NODE_1380,You see your own footprints leading into the sky.,Step into the mirror,NODE_1381,Cover it,NODE_1382
+NODE_1381,You find a mirror buried in the sand. It reflects only lies.,Approach the flame,NODE_1382,Walk the spiral,NODE_1383
+NODE_1382,You find a mirror buried in the sand. It reflects only lies.,Face the second sun,NODE_1383,Hide beneath the sand,NODE_1384
+NODE_1383,"A second sun rises. It has no warmth, only judgment.",Approach the flame,NODE_1384,Walk the spiral,NODE_1385
+NODE_1384,The stars rearrange themselves into a word: FORGOTTEN.,Whisper your truth,NODE_1385,Stay silent,NODE_1386
+NODE_1385,A voice under the dunes recites your name in reverse.,Approach the flame,NODE_1386,Walk the spiral,NODE_1387
+NODE_1386,You see your own footprints leading into the sky.,Climb the echo,NODE_1387,Dig downward,NODE_1388
+NODE_1387,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Trace the stars,NODE_1388,Close your eyes,NODE_1389
+NODE_1388,You find a mirror buried in the sand. It reflects only lies.,Approach the flame,NODE_1389,Walk the spiral,NODE_1390
+NODE_1389,"The sky fractures like glass, but nothing falls.",Step into the mirror,NODE_1390,Cover it,NODE_1391
+NODE_1390,The Black Compass spins so violently it draws blood from your palm.,Speak to the bones,NODE_1391,Offer your name,NODE_1392
+NODE_1391,"The sky fractures like glass, but nothing falls.",Follow the symbol,NODE_1392,Bury it,NODE_1393
+NODE_1392,"A thorny flower blooms upside-down, whispering, 'Return.'",Drop the compass,NODE_1393,Trust the spin,NODE_1394
+NODE_1393,The Black Compass spins so violently it draws blood from your palm.,Let your shadow lead,NODE_1394,Call it back,NODE_1395
+NODE_1394,"A second sun rises. It has no warmth, only judgment.",Speak to the bones,NODE_1395,Offer your name,NODE_1396
+NODE_1395,"The sky fractures like glass, but nothing falls.",Follow the symbol,NODE_1396,Bury it,NODE_1397
+NODE_1396,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Follow the symbol,NODE_1397,Bury it,NODE_1398
+NODE_1397,The stars rearrange themselves into a word: FORGOTTEN.,Speak to the bones,NODE_1398,Offer your name,NODE_1399
+NODE_1398,The Black Compass spins so violently it draws blood from your palm.,Face the second sun,NODE_1399,Hide beneath the sand,NODE_1400
+NODE_1399,"A second sun rises. It has no warmth, only judgment.",Follow the symbol,NODE_1400,Bury it,NODE_1401
+NODE_1400,The Black Compass points backward — toward something you forgot.,Face the second sun,NODE_1401,Hide beneath the sand,NODE_1402
+NODE_1401,The Black Compass spins so violently it draws blood from your palm.,Step into the mirror,NODE_1402,Cover it,NODE_1403
+NODE_1402,"The dunes hum. Beneath, something vast is waking.",Trace the stars,NODE_1403,Close your eyes,NODE_1404
+NODE_1403,The Black Compass points backward — toward something you forgot.,Let your shadow lead,NODE_1404,Call it back,NODE_1405
+NODE_1404,"The dunes hum. Beneath, something vast is waking.",Approach the flame,NODE_1405,Walk the spiral,NODE_1406
+NODE_1405,Your shadow detaches and begins walking the other direction.,Step into the mirror,NODE_1406,Cover it,NODE_1407
+NODE_1406,The Black Compass points backward — toward something you forgot.,Face the second sun,NODE_1407,Hide beneath the sand,NODE_1408
+NODE_1407,You find a mirror buried in the sand. It reflects only lies.,Follow the symbol,NODE_1408,Bury it,NODE_1409
+NODE_1408,A voice under the dunes recites your name in reverse.,Follow the symbol,NODE_1409,Bury it,NODE_1410
+NODE_1409,The Black Compass points backward — toward something you forgot.,Step into the mirror,NODE_1410,Cover it,NODE_1411
+NODE_1410,"The sky fractures like glass, but nothing falls.",Whisper your truth,NODE_1411,Stay silent,NODE_1412
+NODE_1411,"A second sun rises. It has no warmth, only judgment.",Trace the stars,NODE_1412,Close your eyes,NODE_1413
+NODE_1412,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1413,Dig downward,NODE_1414
+NODE_1413,A spiral of bones surrounds a single flickering flame.,Climb the echo,NODE_1414,Dig downward,NODE_1415
+NODE_1414,"A second sun rises. It has no warmth, only judgment.",Step into the mirror,NODE_1415,Cover it,NODE_1416
+NODE_1415,The stars rearrange themselves into a word: FORGOTTEN.,Step into the mirror,NODE_1416,Cover it,NODE_1417
+NODE_1416,"The sky fractures like glass, but nothing falls.",Trace the stars,NODE_1417,Close your eyes,NODE_1418
+NODE_1417,"A second sun rises. It has no warmth, only judgment.",Climb the echo,NODE_1418,Dig downward,NODE_1419
+NODE_1418,The Black Compass spins so violently it draws blood from your palm.,Approach the flame,NODE_1419,Walk the spiral,NODE_1420
+NODE_1419,"The sky fractures like glass, but nothing falls.",Follow the symbol,NODE_1420,Bury it,NODE_1421
+NODE_1420,"A thorny flower blooms upside-down, whispering, 'Return.'",Follow the symbol,NODE_1421,Bury it,NODE_1422
+NODE_1421,"The dunes hum. Beneath, something vast is waking.",Step into the mirror,NODE_1422,Cover it,NODE_1423
+NODE_1422,The stars rearrange themselves into a word: FORGOTTEN.,Step into the mirror,NODE_1423,Cover it,NODE_1424
+NODE_1423,The Black Compass spins so violently it draws blood from your palm.,Step into the mirror,NODE_1424,Cover it,NODE_1425
+NODE_1424,"The sky fractures like glass, but nothing falls.",Speak to the bones,NODE_1425,Offer your name,NODE_1426
+NODE_1425,"The sky fractures like glass, but nothing falls.",Face the second sun,NODE_1426,Hide beneath the sand,NODE_1427
+NODE_1426,A voice under the dunes recites your name in reverse.,Drop the compass,NODE_1427,Trust the spin,NODE_1428
+NODE_1427,A voice under the dunes recites your name in reverse.,Trace the stars,NODE_1428,Close your eyes,NODE_1429
+NODE_1428,You speak without meaning to. The wind answers.,Let your shadow lead,NODE_1429,Call it back,NODE_1430
+NODE_1429,A spiral of bones surrounds a single flickering flame.,Whisper your truth,NODE_1430,Stay silent,NODE_1431
+NODE_1430,"A thorny flower blooms upside-down, whispering, 'Return.'",Approach the flame,NODE_1431,Walk the spiral,NODE_1432
+NODE_1431,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Drop the compass,NODE_1432,Trust the spin,NODE_1433
+NODE_1432,Your shadow detaches and begins walking the other direction.,Drop the compass,NODE_1433,Trust the spin,NODE_1434
+NODE_1433,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Whisper your truth,NODE_1434,Stay silent,NODE_1435
+NODE_1434,The stars rearrange themselves into a word: FORGOTTEN.,Face the second sun,NODE_1435,Hide beneath the sand,NODE_1436
+NODE_1435,The Black Compass points backward — toward something you forgot.,Approach the flame,NODE_1436,Walk the spiral,NODE_1437
+NODE_1436,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Whisper your truth,NODE_1437,Stay silent,NODE_1438
+NODE_1437,The Black Compass spins so violently it draws blood from your palm.,Step into the mirror,NODE_1438,Cover it,NODE_1439
+NODE_1438,You speak without meaning to. The wind answers.,Climb the echo,NODE_1439,Dig downward,NODE_1440
+NODE_1439,You find a mirror buried in the sand. It reflects only lies.,Whisper your truth,NODE_1440,Stay silent,NODE_1441
+NODE_1440,"The dunes hum. Beneath, something vast is waking.",Let your shadow lead,NODE_1441,Call it back,NODE_1442
+NODE_1441,You find a mirror buried in the sand. It reflects only lies.,Drop the compass,NODE_1442,Trust the spin,NODE_1443
+NODE_1442,A voice under the dunes recites your name in reverse.,Drop the compass,NODE_1443,Trust the spin,NODE_1444
+NODE_1443,"The sky fractures like glass, but nothing falls.",Let your shadow lead,NODE_1444,Call it back,NODE_1445
+NODE_1444,Your shadow detaches and begins walking the other direction.,Face the second sun,NODE_1445,Hide beneath the sand,NODE_1446
+NODE_1445,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Let your shadow lead,NODE_1446,Call it back,NODE_1447
+NODE_1446,The Black Compass points backward — toward something you forgot.,Face the second sun,NODE_1447,Hide beneath the sand,NODE_1448
+NODE_1447,"A second sun rises. It has no warmth, only judgment.",Let your shadow lead,NODE_1448,Call it back,NODE_1449
+NODE_1448,You see your own footprints leading into the sky.,Whisper your truth,NODE_1449,Stay silent,NODE_1450
+NODE_1449,"The dunes hum. Beneath, something vast is waking.",Drop the compass,NODE_1450,Trust the spin,NODE_1451
+NODE_1450,"A second sun rises. It has no warmth, only judgment.",Whisper your truth,NODE_1451,Stay silent,NODE_1452
+NODE_1451,"The sky fractures like glass, but nothing falls.",Follow the symbol,NODE_1452,Bury it,NODE_1453
+NODE_1452,The stars rearrange themselves into a word: FORGOTTEN.,Climb the echo,NODE_1453,Dig downward,NODE_1454
+NODE_1453,"A thorny flower blooms upside-down, whispering, 'Return.'",Trace the stars,NODE_1454,Close your eyes,NODE_1455
+NODE_1454,"A thorny flower blooms upside-down, whispering, 'Return.'",Speak to the bones,NODE_1455,Offer your name,NODE_1456
+NODE_1455,You see your own footprints leading into the sky.,Trace the stars,NODE_1456,Close your eyes,NODE_1457
+NODE_1456,A spiral of bones surrounds a single flickering flame.,Climb the echo,NODE_1457,Dig downward,NODE_1458
+NODE_1457,You find a mirror buried in the sand. It reflects only lies.,Whisper your truth,NODE_1458,Stay silent,NODE_1459
+NODE_1458,A voice under the dunes recites your name in reverse.,Face the second sun,NODE_1459,Hide beneath the sand,NODE_1460
+NODE_1459,Your shadow detaches and begins walking the other direction.,Whisper your truth,NODE_1460,Stay silent,NODE_1461
+NODE_1460,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Speak to the bones,NODE_1461,Offer your name,NODE_1462
+NODE_1461,Your shadow detaches and begins walking the other direction.,Climb the echo,NODE_1462,Dig downward,NODE_1463
+NODE_1462,Your shadow detaches and begins walking the other direction.,Face the second sun,NODE_1463,Hide beneath the sand,NODE_1464
+NODE_1463,"The sky fractures like glass, but nothing falls.",Let your shadow lead,NODE_1464,Call it back,NODE_1465
+NODE_1464,A spiral of bones surrounds a single flickering flame.,Let your shadow lead,NODE_1465,Call it back,NODE_1466
+NODE_1465,"A second sun rises. It has no warmth, only judgment.",Speak to the bones,NODE_1466,Offer your name,NODE_1467
+NODE_1466,The Black Compass points backward — toward something you forgot.,Drop the compass,NODE_1467,Trust the spin,NODE_1468
+NODE_1467,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Face the second sun,NODE_1468,Hide beneath the sand,NODE_1469
+NODE_1468,"A thorny flower blooms upside-down, whispering, 'Return.'",Let your shadow lead,NODE_1469,Call it back,NODE_1470
+NODE_1469,The stars rearrange themselves into a word: FORGOTTEN.,Let your shadow lead,NODE_1470,Call it back,NODE_1471
+NODE_1470,"A thorny flower blooms upside-down, whispering, 'Return.'",Let your shadow lead,NODE_1471,Call it back,NODE_1472
+NODE_1471,"A thorny flower blooms upside-down, whispering, 'Return.'",Face the second sun,NODE_1472,Hide beneath the sand,NODE_1473
+NODE_1472,You speak without meaning to. The wind answers.,Climb the echo,NODE_1473,Dig downward,NODE_1474
+NODE_1473,"The dunes hum. Beneath, something vast is waking.",Whisper your truth,NODE_1474,Stay silent,NODE_1475
+NODE_1474,A voice under the dunes recites your name in reverse.,Drop the compass,NODE_1475,Trust the spin,NODE_1476
+NODE_1475,You speak without meaning to. The wind answers.,Speak to the bones,NODE_1476,Offer your name,NODE_1477
+NODE_1476,The Black Compass spins so violently it draws blood from your palm.,Whisper your truth,NODE_1477,Stay silent,NODE_1478
+NODE_1477,"The dunes hum. Beneath, something vast is waking.",Drop the compass,NODE_1478,Trust the spin,NODE_1479
+NODE_1478,A spiral of bones surrounds a single flickering flame.,Whisper your truth,NODE_1479,Stay silent,NODE_1480
+NODE_1479,Your shadow detaches and begins walking the other direction.,Let your shadow lead,NODE_1480,Call it back,NODE_1481
+NODE_1480,"The sky fractures like glass, but nothing falls.",Whisper your truth,NODE_1481,Stay silent,NODE_1482
+NODE_1481,The Black Compass spins so violently it draws blood from your palm.,Step into the mirror,NODE_1482,Cover it,NODE_1483
+NODE_1482,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Follow the symbol,NODE_1483,Bury it,NODE_1484
+NODE_1483,"A second sun rises. It has no warmth, only judgment.",Let your shadow lead,NODE_1484,Call it back,NODE_1485
+NODE_1484,You find a mirror buried in the sand. It reflects only lies.,Face the second sun,NODE_1485,Hide beneath the sand,NODE_1486
+NODE_1485,You speak without meaning to. The wind answers.,Step into the mirror,NODE_1486,Cover it,NODE_1487
+NODE_1486,The stars rearrange themselves into a word: FORGOTTEN.,Climb the echo,NODE_1487,Dig downward,NODE_1488
+NODE_1487,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1488,Dig downward,NODE_1489
+NODE_1488,You find a mirror buried in the sand. It reflects only lies.,Step into the mirror,NODE_1489,Cover it,NODE_1490
+NODE_1489,"The sand shifts, revealing a symbol you've never seen, but instantly remember.",Climb the echo,NODE_1490,Dig downward,NODE_1491
+NODE_1490,"A skeleton reaches toward the sun, mouth frozen mid-scream.",Let your shadow lead,NODE_1491,Call it back,NODE_1492
+NODE_1491,A spiral of bones surrounds a single flickering flame.,Approach the flame,NODE_1492,Walk the spiral,NODE_1493
+NODE_1492,You speak without meaning to. The wind answers.,Trace the stars,NODE_1493,Close your eyes,NODE_1494
+NODE_1493,The Black Compass points backward — toward something you forgot.,Let your shadow lead,NODE_1494,Call it back,NODE_1495
+NODE_1494,You speak without meaning to. The wind answers.,Whisper your truth,NODE_1495,Stay silent,NODE_1496
+NODE_1495,You see your own footprints leading into the sky.,Climb the echo,NODE_1496,Dig downward,NODE_1497
+NODE_1496,The stars rearrange themselves into a word: FORGOTTEN.,Climb the echo,NODE_1497,Dig downward,NODE_1498
+NODE_1497,The Black Compass spins so violently it draws blood from your palm.,Let your shadow lead,NODE_1498,Call it back,NODE_1499
+NODE_1498,You find a mirror buried in the sand. It reflects only lies.,Approach the flame,NODE_1499,Walk the spiral,NODE_1500
+NODE_1499,You see your own footprints leading into the sky.,Follow the symbol,NODE_1500,Bury it,NODE_1501
 NODE_249,The map shows a road that loops into your name.,Dig deeper,NODE_250,Climb a dune,NODE_251
 NODE_250,The stars rearrange into a warning.,Light a match,NODE_251,Sleep in the open,NODE_252
 NODE_251,The Stranger’s voice echoes from nowhere: 'Almost there.',Touch the map,NODE_252,Tear the map,NODE_253
@@ -839,3 +1337,6 @@ Duskbloom is there, facing the moon.
 Her petals gleam like water.
 You lie beside her.
 And you are no longer lost.",(Rest forever),END,(Let the wind carry your story),END
+GOODBYE,"You turn away.
+The dunes vanish.
+The story waits for another time.",(restart),START,(exit),END
