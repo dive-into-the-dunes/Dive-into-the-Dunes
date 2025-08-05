@@ -15,18 +15,41 @@
       justify-content: center;
       align-items: center;
       min-height: 100vh;
+      overflow: hidden;
+      position: relative;
+    }
+
+    body::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      background-image: repeating-linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.15) 0px,
+        rgba(0, 0, 0, 0.15) 1px,
+        transparent 1px,
+        transparent 3px
+      );
+      z-index: 2;
     }
 
     .terminal-wrapper {
       max-width: 600px;
       width: 100%;
       text-align: left;
+      z-index: 3;
     }
 
     #story {
       white-space: pre-wrap;
       margin-bottom: 20px;
       line-height: 1.6;
+      min-height: 120px;
+      position: relative;
     }
 
     #options {
