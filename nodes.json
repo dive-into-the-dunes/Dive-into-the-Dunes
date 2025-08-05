@@ -25,7 +25,7 @@
   },
   "STRANGER": {
     "ID": "STRANGER",
-    "Text": "He waits in the dune's shadow—stitched from maps and moonlight.\n\nHe offers you a map in silence. Eyes full of stars that do not belong.\n\n'Give me something unknown,' he rasps.\n\nYou know he means your soul.",
+    "Text": "He waits in the dune's shadow, stitched from maps and moonlight.\n\nHe offers you a map in silence. Eyes full of stars that do not belong.\n\n'Give me something unknown,' he rasps.\n\nYou know he means your soul.",
     "Option1": "Take the deal",
     "Option1_ID": "NODE_0000",
     "Option2": "(You hesitate)",
@@ -73,7 +73,7 @@
   },
   "NODE_0004": {
     "ID": "NODE_0004",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0005",
     "Option2": "Turn around",
@@ -153,7 +153,7 @@
   },
   "NODE_0014": {
     "ID": "NODE_0014",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0015",
     "Option2": "Turn around",
@@ -233,7 +233,7 @@
   },
   "NODE_0024": {
     "ID": "NODE_0024",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0025",
     "Option2": "Turn around",
@@ -313,7 +313,7 @@
   },
   "NODE_0034": {
     "ID": "NODE_0034",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0035",
     "Option2": "Turn around",
@@ -393,7 +393,7 @@
   },
   "NODE_0044": {
     "ID": "NODE_0044",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0045",
     "Option2": "Turn around",
@@ -473,7 +473,7 @@
   },
   "NODE_0054": {
     "ID": "NODE_0054",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0055",
     "Option2": "Turn around",
@@ -553,7 +553,7 @@
   },
   "NODE_0064": {
     "ID": "NODE_0064",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0065",
     "Option2": "Turn around",
@@ -633,7 +633,7 @@
   },
   "NODE_0074": {
     "ID": "NODE_0074",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0075",
     "Option2": "Turn around",
@@ -713,7 +713,7 @@
   },
   "NODE_0084": {
     "ID": "NODE_0084",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0085",
     "Option2": "Turn around",
@@ -793,7 +793,7 @@
   },
   "NODE_0094": {
     "ID": "NODE_0094",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0095",
     "Option2": "Turn around",
@@ -873,7 +873,7 @@
   },
   "NODE_0104": {
     "ID": "NODE_0104",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0105",
     "Option2": "Turn around",
@@ -953,7 +953,7 @@
   },
   "NODE_0114": {
     "ID": "NODE_0114",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0115",
     "Option2": "Turn around",
@@ -1033,7 +1033,7 @@
   },
   "NODE_0124": {
     "ID": "NODE_0124",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0125",
     "Option2": "Turn around",
@@ -1113,7 +1113,7 @@
   },
   "NODE_0134": {
     "ID": "NODE_0134",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0135",
     "Option2": "Turn around",
@@ -1193,7 +1193,7 @@
   },
   "NODE_0144": {
     "ID": "NODE_0144",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0145",
     "Option2": "Turn around",
@@ -1273,7 +1273,7 @@
   },
   "NODE_0154": {
     "ID": "NODE_0154",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0155",
     "Option2": "Turn around",
@@ -1353,7 +1353,7 @@
   },
   "NODE_0164": {
     "ID": "NODE_0164",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0165",
     "Option2": "Turn around",
@@ -1433,7 +1433,7 @@
   },
   "NODE_0174": {
     "ID": "NODE_0174",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0175",
     "Option2": "Turn around",
@@ -1513,7 +1513,7 @@
   },
   "NODE_0184": {
     "ID": "NODE_0184",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0185",
     "Option2": "Turn around",
@@ -1593,7 +1593,7 @@
   },
   "NODE_0194": {
     "ID": "NODE_0194",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0195",
     "Option2": "Turn around",
@@ -1673,7 +1673,7 @@
   },
   "NODE_0204": {
     "ID": "NODE_0204",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0205",
     "Option2": "Turn around",
@@ -1753,7 +1753,7 @@
   },
   "NODE_0214": {
     "ID": "NODE_0214",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0215",
     "Option2": "Turn around",
@@ -1833,7 +1833,7 @@
   },
   "NODE_0224": {
     "ID": "NODE_0224",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0225",
     "Option2": "Turn around",
@@ -1913,7 +1913,7 @@
   },
   "NODE_0234": {
     "ID": "NODE_0234",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0235",
     "Option2": "Turn around",
@@ -1993,7 +1993,7 @@
   },
   "NODE_0244": {
     "ID": "NODE_0244",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0245",
     "Option2": "Turn around",
@@ -2073,7 +2073,7 @@
   },
   "NODE_0254": {
     "ID": "NODE_0254",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0255",
     "Option2": "Turn around",
@@ -2153,7 +2153,7 @@
   },
   "NODE_0264": {
     "ID": "NODE_0264",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0265",
     "Option2": "Turn around",
@@ -2233,7 +2233,7 @@
   },
   "NODE_0274": {
     "ID": "NODE_0274",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0275",
     "Option2": "Turn around",
@@ -2313,7 +2313,7 @@
   },
   "NODE_0284": {
     "ID": "NODE_0284",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0285",
     "Option2": "Turn around",
@@ -2393,7 +2393,7 @@
   },
   "NODE_0294": {
     "ID": "NODE_0294",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0295",
     "Option2": "Turn around",
@@ -2473,7 +2473,7 @@
   },
   "NODE_0304": {
     "ID": "NODE_0304",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0305",
     "Option2": "Turn around",
@@ -2553,7 +2553,7 @@
   },
   "NODE_0314": {
     "ID": "NODE_0314",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0315",
     "Option2": "Turn around",
@@ -2633,7 +2633,7 @@
   },
   "NODE_0324": {
     "ID": "NODE_0324",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0325",
     "Option2": "Turn around",
@@ -2713,7 +2713,7 @@
   },
   "NODE_0334": {
     "ID": "NODE_0334",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0335",
     "Option2": "Turn around",
@@ -2793,7 +2793,7 @@
   },
   "NODE_0344": {
     "ID": "NODE_0344",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0345",
     "Option2": "Turn around",
@@ -2873,7 +2873,7 @@
   },
   "NODE_0354": {
     "ID": "NODE_0354",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0355",
     "Option2": "Turn around",
@@ -2953,7 +2953,7 @@
   },
   "NODE_0364": {
     "ID": "NODE_0364",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0365",
     "Option2": "Turn around",
@@ -3033,7 +3033,7 @@
   },
   "NODE_0374": {
     "ID": "NODE_0374",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0375",
     "Option2": "Turn around",
@@ -3113,7 +3113,7 @@
   },
   "NODE_0384": {
     "ID": "NODE_0384",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0385",
     "Option2": "Turn around",
@@ -3193,7 +3193,7 @@
   },
   "NODE_0394": {
     "ID": "NODE_0394",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0395",
     "Option2": "Turn around",
@@ -3273,7 +3273,7 @@
   },
   "NODE_0404": {
     "ID": "NODE_0404",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0405",
     "Option2": "Turn around",
@@ -3353,7 +3353,7 @@
   },
   "NODE_0414": {
     "ID": "NODE_0414",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0415",
     "Option2": "Turn around",
@@ -3433,7 +3433,7 @@
   },
   "NODE_0424": {
     "ID": "NODE_0424",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0425",
     "Option2": "Turn around",
@@ -3513,7 +3513,7 @@
   },
   "NODE_0434": {
     "ID": "NODE_0434",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0435",
     "Option2": "Turn around",
@@ -3593,7 +3593,7 @@
   },
   "NODE_0444": {
     "ID": "NODE_0444",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0445",
     "Option2": "Turn around",
@@ -3673,7 +3673,7 @@
   },
   "NODE_0454": {
     "ID": "NODE_0454",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0455",
     "Option2": "Turn around",
@@ -3753,7 +3753,7 @@
   },
   "NODE_0464": {
     "ID": "NODE_0464",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0465",
     "Option2": "Turn around",
@@ -3833,7 +3833,7 @@
   },
   "NODE_0474": {
     "ID": "NODE_0474",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0475",
     "Option2": "Turn around",
@@ -3913,7 +3913,7 @@
   },
   "NODE_0484": {
     "ID": "NODE_0484",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0485",
     "Option2": "Turn around",
@@ -3993,7 +3993,7 @@
   },
   "NODE_0494": {
     "ID": "NODE_0494",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0495",
     "Option2": "Turn around",
@@ -4073,7 +4073,7 @@
   },
   "NODE_0504": {
     "ID": "NODE_0504",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0505",
     "Option2": "Turn around",
@@ -4153,7 +4153,7 @@
   },
   "NODE_0514": {
     "ID": "NODE_0514",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0515",
     "Option2": "Turn around",
@@ -4233,7 +4233,7 @@
   },
   "NODE_0524": {
     "ID": "NODE_0524",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0525",
     "Option2": "Turn around",
@@ -4313,7 +4313,7 @@
   },
   "NODE_0534": {
     "ID": "NODE_0534",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0535",
     "Option2": "Turn around",
@@ -4393,7 +4393,7 @@
   },
   "NODE_0544": {
     "ID": "NODE_0544",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0545",
     "Option2": "Turn around",
@@ -4473,7 +4473,7 @@
   },
   "NODE_0554": {
     "ID": "NODE_0554",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0555",
     "Option2": "Turn around",
@@ -4553,7 +4553,7 @@
   },
   "NODE_0564": {
     "ID": "NODE_0564",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0565",
     "Option2": "Turn around",
@@ -4633,7 +4633,7 @@
   },
   "NODE_0574": {
     "ID": "NODE_0574",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0575",
     "Option2": "Turn around",
@@ -4713,7 +4713,7 @@
   },
   "NODE_0584": {
     "ID": "NODE_0584",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0585",
     "Option2": "Turn around",
@@ -4793,7 +4793,7 @@
   },
   "NODE_0594": {
     "ID": "NODE_0594",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0595",
     "Option2": "Turn around",
@@ -4873,7 +4873,7 @@
   },
   "NODE_0604": {
     "ID": "NODE_0604",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0605",
     "Option2": "Turn around",
@@ -4953,7 +4953,7 @@
   },
   "NODE_0614": {
     "ID": "NODE_0614",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0615",
     "Option2": "Turn around",
@@ -5033,7 +5033,7 @@
   },
   "NODE_0624": {
     "ID": "NODE_0624",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0625",
     "Option2": "Turn around",
@@ -5113,7 +5113,7 @@
   },
   "NODE_0634": {
     "ID": "NODE_0634",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0635",
     "Option2": "Turn around",
@@ -5193,7 +5193,7 @@
   },
   "NODE_0644": {
     "ID": "NODE_0644",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0645",
     "Option2": "Turn around",
@@ -5273,7 +5273,7 @@
   },
   "NODE_0654": {
     "ID": "NODE_0654",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0655",
     "Option2": "Turn around",
@@ -5353,7 +5353,7 @@
   },
   "NODE_0664": {
     "ID": "NODE_0664",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0665",
     "Option2": "Turn around",
@@ -5433,7 +5433,7 @@
   },
   "NODE_0674": {
     "ID": "NODE_0674",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0675",
     "Option2": "Turn around",
@@ -5513,7 +5513,7 @@
   },
   "NODE_0684": {
     "ID": "NODE_0684",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0685",
     "Option2": "Turn around",
@@ -5593,7 +5593,7 @@
   },
   "NODE_0694": {
     "ID": "NODE_0694",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0695",
     "Option2": "Turn around",
@@ -5673,7 +5673,7 @@
   },
   "NODE_0704": {
     "ID": "NODE_0704",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0705",
     "Option2": "Turn around",
@@ -5753,7 +5753,7 @@
   },
   "NODE_0714": {
     "ID": "NODE_0714",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0715",
     "Option2": "Turn around",
@@ -5833,7 +5833,7 @@
   },
   "NODE_0724": {
     "ID": "NODE_0724",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0725",
     "Option2": "Turn around",
@@ -5913,7 +5913,7 @@
   },
   "NODE_0734": {
     "ID": "NODE_0734",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0735",
     "Option2": "Turn around",
@@ -5993,7 +5993,7 @@
   },
   "NODE_0744": {
     "ID": "NODE_0744",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0745",
     "Option2": "Turn around",
@@ -6073,7 +6073,7 @@
   },
   "NODE_0754": {
     "ID": "NODE_0754",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0755",
     "Option2": "Turn around",
@@ -6153,7 +6153,7 @@
   },
   "NODE_0764": {
     "ID": "NODE_0764",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0765",
     "Option2": "Turn around",
@@ -6233,7 +6233,7 @@
   },
   "NODE_0774": {
     "ID": "NODE_0774",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0775",
     "Option2": "Turn around",
@@ -6313,7 +6313,7 @@
   },
   "NODE_0784": {
     "ID": "NODE_0784",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0785",
     "Option2": "Turn around",
@@ -6393,7 +6393,7 @@
   },
   "NODE_0794": {
     "ID": "NODE_0794",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0795",
     "Option2": "Turn around",
@@ -6473,7 +6473,7 @@
   },
   "NODE_0804": {
     "ID": "NODE_0804",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0805",
     "Option2": "Turn around",
@@ -6553,7 +6553,7 @@
   },
   "NODE_0814": {
     "ID": "NODE_0814",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0815",
     "Option2": "Turn around",
@@ -6633,7 +6633,7 @@
   },
   "NODE_0824": {
     "ID": "NODE_0824",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0825",
     "Option2": "Turn around",
@@ -6713,7 +6713,7 @@
   },
   "NODE_0834": {
     "ID": "NODE_0834",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0835",
     "Option2": "Turn around",
@@ -6793,7 +6793,7 @@
   },
   "NODE_0844": {
     "ID": "NODE_0844",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0845",
     "Option2": "Turn around",
@@ -6873,7 +6873,7 @@
   },
   "NODE_0854": {
     "ID": "NODE_0854",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0855",
     "Option2": "Turn around",
@@ -6953,7 +6953,7 @@
   },
   "NODE_0864": {
     "ID": "NODE_0864",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0865",
     "Option2": "Turn around",
@@ -7033,7 +7033,7 @@
   },
   "NODE_0874": {
     "ID": "NODE_0874",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0875",
     "Option2": "Turn around",
@@ -7113,7 +7113,7 @@
   },
   "NODE_0884": {
     "ID": "NODE_0884",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0885",
     "Option2": "Turn around",
@@ -7193,7 +7193,7 @@
   },
   "NODE_0894": {
     "ID": "NODE_0894",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0895",
     "Option2": "Turn around",
@@ -7273,7 +7273,7 @@
   },
   "NODE_0904": {
     "ID": "NODE_0904",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0905",
     "Option2": "Turn around",
@@ -7353,7 +7353,7 @@
   },
   "NODE_0914": {
     "ID": "NODE_0914",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0915",
     "Option2": "Turn around",
@@ -7433,7 +7433,7 @@
   },
   "NODE_0924": {
     "ID": "NODE_0924",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0925",
     "Option2": "Turn around",
@@ -7513,7 +7513,7 @@
   },
   "NODE_0934": {
     "ID": "NODE_0934",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0935",
     "Option2": "Turn around",
@@ -7593,7 +7593,7 @@
   },
   "NODE_0944": {
     "ID": "NODE_0944",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0945",
     "Option2": "Turn around",
@@ -7673,7 +7673,7 @@
   },
   "NODE_0954": {
     "ID": "NODE_0954",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0955",
     "Option2": "Turn around",
@@ -7753,7 +7753,7 @@
   },
   "NODE_0964": {
     "ID": "NODE_0964",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0965",
     "Option2": "Turn around",
@@ -7833,7 +7833,7 @@
   },
   "NODE_0974": {
     "ID": "NODE_0974",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0975",
     "Option2": "Turn around",
@@ -7913,7 +7913,7 @@
   },
   "NODE_0984": {
     "ID": "NODE_0984",
-    "Text": "A shipwreck sits atop a dune—its sails still full, its deck crawling.",
+    "Text": "A shipwreck sits atop a dune, its sails still full, its deck crawling.",
     "Option1": "Follow the noise",
     "Option1_ID": "NODE_0985",
     "Option2": "Turn around",
@@ -7969,7 +7969,7 @@
   },
   "NODE_0991": {
     "ID": "NODE_0991",
-    "Text": "A door opens in the stars. You pass through—and forget everything.",
+    "Text": "A door opens in the stars. You pass through, and forget everything.",
     "Option1": "",
     "Option1_ID": "NODE_0996",
     "Option2": "",
@@ -8009,7 +8009,7 @@
   },
   "NODE_0996": {
     "ID": "NODE_0996",
-    "Text": "A door opens in the stars. You pass through—and forget everything.",
+    "Text": "A door opens in the stars. You pass through, and forget everything.",
     "Option1": "",
     "Option1_ID": "",
     "Option2": "",
@@ -8057,7 +8057,7 @@
   },
   "NODE_1202": {
     "ID": "NODE_1202",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1203",
     "Option2": "Draw your blade",
@@ -8065,7 +8065,7 @@
   },
   "NODE_1203": {
     "ID": "NODE_1203",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1204",
     "Option2": "Mark it on the map",
@@ -8137,7 +8137,7 @@
   },
   "NODE_1212": {
     "ID": "NODE_1212",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1213",
     "Option2": "Draw your blade",
@@ -8145,7 +8145,7 @@
   },
   "NODE_1213": {
     "ID": "NODE_1213",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1214",
     "Option2": "Mark it on the map",
@@ -8217,7 +8217,7 @@
   },
   "NODE_1222": {
     "ID": "NODE_1222",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1223",
     "Option2": "Draw your blade",
@@ -8225,7 +8225,7 @@
   },
   "NODE_1223": {
     "ID": "NODE_1223",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1224",
     "Option2": "Mark it on the map",
@@ -8297,7 +8297,7 @@
   },
   "NODE_1232": {
     "ID": "NODE_1232",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1233",
     "Option2": "Draw your blade",
@@ -8305,7 +8305,7 @@
   },
   "NODE_1233": {
     "ID": "NODE_1233",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1234",
     "Option2": "Mark it on the map",
@@ -8377,7 +8377,7 @@
   },
   "NODE_1242": {
     "ID": "NODE_1242",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1243",
     "Option2": "Draw your blade",
@@ -8385,7 +8385,7 @@
   },
   "NODE_1243": {
     "ID": "NODE_1243",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1244",
     "Option2": "Mark it on the map",
@@ -8457,7 +8457,7 @@
   },
   "NODE_1252": {
     "ID": "NODE_1252",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1253",
     "Option2": "Draw your blade",
@@ -8465,7 +8465,7 @@
   },
   "NODE_1253": {
     "ID": "NODE_1253",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1254",
     "Option2": "Mark it on the map",
@@ -8537,7 +8537,7 @@
   },
   "NODE_1262": {
     "ID": "NODE_1262",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1263",
     "Option2": "Draw your blade",
@@ -8545,7 +8545,7 @@
   },
   "NODE_1263": {
     "ID": "NODE_1263",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1264",
     "Option2": "Mark it on the map",
@@ -8617,7 +8617,7 @@
   },
   "NODE_1272": {
     "ID": "NODE_1272",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1273",
     "Option2": "Draw your blade",
@@ -8625,7 +8625,7 @@
   },
   "NODE_1273": {
     "ID": "NODE_1273",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1274",
     "Option2": "Mark it on the map",
@@ -8697,7 +8697,7 @@
   },
   "NODE_1282": {
     "ID": "NODE_1282",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1283",
     "Option2": "Draw your blade",
@@ -8705,7 +8705,7 @@
   },
   "NODE_1283": {
     "ID": "NODE_1283",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1284",
     "Option2": "Mark it on the map",
@@ -8777,7 +8777,7 @@
   },
   "NODE_1292": {
     "ID": "NODE_1292",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1293",
     "Option2": "Draw your blade",
@@ -8785,7 +8785,7 @@
   },
   "NODE_1293": {
     "ID": "NODE_1293",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1294",
     "Option2": "Mark it on the map",
@@ -8857,7 +8857,7 @@
   },
   "NODE_1302": {
     "ID": "NODE_1302",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1303",
     "Option2": "Draw your blade",
@@ -8865,7 +8865,7 @@
   },
   "NODE_1303": {
     "ID": "NODE_1303",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1304",
     "Option2": "Mark it on the map",
@@ -8937,7 +8937,7 @@
   },
   "NODE_1312": {
     "ID": "NODE_1312",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1313",
     "Option2": "Draw your blade",
@@ -8945,7 +8945,7 @@
   },
   "NODE_1313": {
     "ID": "NODE_1313",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1314",
     "Option2": "Mark it on the map",
@@ -9017,7 +9017,7 @@
   },
   "NODE_1322": {
     "ID": "NODE_1322",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1323",
     "Option2": "Draw your blade",
@@ -9025,7 +9025,7 @@
   },
   "NODE_1323": {
     "ID": "NODE_1323",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1324",
     "Option2": "Mark it on the map",
@@ -9097,7 +9097,7 @@
   },
   "NODE_1332": {
     "ID": "NODE_1332",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1333",
     "Option2": "Draw your blade",
@@ -9105,7 +9105,7 @@
   },
   "NODE_1333": {
     "ID": "NODE_1333",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1334",
     "Option2": "Mark it on the map",
@@ -9177,7 +9177,7 @@
   },
   "NODE_1342": {
     "ID": "NODE_1342",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1343",
     "Option2": "Draw your blade",
@@ -9185,7 +9185,7 @@
   },
   "NODE_1343": {
     "ID": "NODE_1343",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1344",
     "Option2": "Mark it on the map",
@@ -9257,7 +9257,7 @@
   },
   "NODE_1352": {
     "ID": "NODE_1352",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1353",
     "Option2": "Draw your blade",
@@ -9265,7 +9265,7 @@
   },
   "NODE_1353": {
     "ID": "NODE_1353",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1354",
     "Option2": "Mark it on the map",
@@ -9337,7 +9337,7 @@
   },
   "NODE_1362": {
     "ID": "NODE_1362",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1363",
     "Option2": "Draw your blade",
@@ -9345,7 +9345,7 @@
   },
   "NODE_1363": {
     "ID": "NODE_1363",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1364",
     "Option2": "Mark it on the map",
@@ -9417,7 +9417,7 @@
   },
   "NODE_1372": {
     "ID": "NODE_1372",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1373",
     "Option2": "Draw your blade",
@@ -9425,7 +9425,7 @@
   },
   "NODE_1373": {
     "ID": "NODE_1373",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1374",
     "Option2": "Mark it on the map",
@@ -9497,7 +9497,7 @@
   },
   "NODE_1382": {
     "ID": "NODE_1382",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1383",
     "Option2": "Draw your blade",
@@ -9505,7 +9505,7 @@
   },
   "NODE_1383": {
     "ID": "NODE_1383",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1384",
     "Option2": "Mark it on the map",
@@ -9577,7 +9577,7 @@
   },
   "NODE_1392": {
     "ID": "NODE_1392",
-    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone—but its feathers remain in your chest.",
+    "Text": "A wingless bird the size of a tower watches you sleep. When you wake, it is gone, but its feathers remain in your chest.",
     "Option1": "Speak your name",
     "Option1_ID": "NODE_1393",
     "Option2": "Draw your blade",
@@ -9585,7 +9585,7 @@
   },
   "NODE_1393": {
     "ID": "NODE_1393",
-    "Text": "The dunes rise—and beneath them, a colossal skull exhales fog that tastes like memory.",
+    "Text": "The dunes rise, and beneath them, a colossal skull exhales fog that tastes like memory.",
     "Option1": "Follow it",
     "Option1_ID": "NODE_1394",
     "Option2": "Mark it on the map",
